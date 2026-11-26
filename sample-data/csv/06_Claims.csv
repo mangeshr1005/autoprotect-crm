@@ -1,501 +1,501 @@
-Policy__r.External_ID__c,Claim_Type__c,Claim_Sub_Type__c,Claim_Date__c,Claim_Amount__c,Status__c,Customer_Email__c
-POL-EXT-0201,Third-Party Liability,Windshield,2026-06-10,180000,Rejected,cust201@autoprotectdemo.com
-POL-EXT-0202,Accident,Bumper,2026-09-21,15000,Under Review,cust202@autoprotectdemo.com
-POL-EXT-0203,Natural Disaster,Flood,2026-10-26,15000,Submitted,cust203@autoprotectdemo.com
-POL-EXT-0204,Natural Disaster,Flood,2026-06-18,180000,Approved,cust204@autoprotectdemo.com
-POL-EXT-0205,Glass Damage,Flood,2026-07-09,15000,Settled,cust205@autoprotectdemo.com
-POL-EXT-0206,Theft,Flood,2026-09-06,120000,Under Review,cust206@autoprotectdemo.com
-POL-EXT-0207,Accident,Total Loss,2026-07-06,15000,Rejected,cust207@autoprotectdemo.com
-POL-EXT-0208,Accident,Total Loss,2026-05-09,45000,Submitted,cust208@autoprotectdemo.com
-POL-EXT-0209,Accident,Bumper,2026-08-27,28000,Under Review,cust209@autoprotectdemo.com
-POL-EXT-0210,Accident,Collision,2026-10-23,180000,Submitted,cust210@autoprotectdemo.com
-POL-EXT-0211,Accident,Windshield,2026-06-03,45000,Approved,cust211@autoprotectdemo.com
-POL-EXT-0212,Third-Party Liability,Flood,2026-11-07,75000,Under Review,cust212@autoprotectdemo.com
-POL-EXT-0213,Glass Damage,Windshield,2026-05-30,15000,Under Review,cust213@autoprotectdemo.com
-POL-EXT-0214,Accident,Windshield,2026-05-06,180000,Settled,cust214@autoprotectdemo.com
-POL-EXT-0215,Natural Disaster,Bumper,2026-10-05,75000,Rejected,cust215@autoprotectdemo.com
-POL-EXT-0216,Glass Damage,Bumper,2026-07-22,120000,Under Review,cust216@autoprotectdemo.com
-POL-EXT-0217,Third-Party Liability,Collision,2026-11-11,15000,Rejected,cust217@autoprotectdemo.com
-POL-EXT-0218,Third-Party Liability,Windshield,2026-11-08,15000,Under Review,cust218@autoprotectdemo.com
-POL-EXT-0219,Glass Damage,Fire,2026-08-13,120000,Under Review,cust219@autoprotectdemo.com
-POL-EXT-0220,Glass Damage,Bumper,2026-10-20,120000,Submitted,cust220@autoprotectdemo.com
-POL-EXT-0221,Theft,Flood,2026-08-26,45000,Rejected,cust221@autoprotectdemo.com
-POL-EXT-0222,Natural Disaster,Collision,2026-11-01,45000,Settled,cust222@autoprotectdemo.com
-POL-EXT-0223,Glass Damage,Bumper,2026-09-17,45000,Submitted,cust223@autoprotectdemo.com
-POL-EXT-0224,Third-Party Liability,Flood,2026-11-05,120000,Submitted,cust224@autoprotectdemo.com
-POL-EXT-0225,Theft,Total Loss,2026-08-08,28000,Settled,cust225@autoprotectdemo.com
-POL-EXT-0226,Accident,Collision,2026-11-08,120000,Settled,cust226@autoprotectdemo.com
-POL-EXT-0227,Theft,Bumper,2026-06-01,75000,Approved,cust227@autoprotectdemo.com
-POL-EXT-0228,Glass Damage,Bumper,2026-06-30,28000,Approved,cust228@autoprotectdemo.com
-POL-EXT-0229,Third-Party Liability,Flood,2026-07-21,180000,Approved,cust229@autoprotectdemo.com
-POL-EXT-0230,Glass Damage,Windshield,2026-08-10,15000,Settled,cust230@autoprotectdemo.com
-POL-EXT-0231,Natural Disaster,Total Loss,2026-11-07,15000,Approved,cust231@autoprotectdemo.com
-POL-EXT-0232,Natural Disaster,Windshield,2026-09-09,180000,Under Review,cust232@autoprotectdemo.com
-POL-EXT-0233,Accident,Bumper,2026-09-29,15000,Settled,cust233@autoprotectdemo.com
-POL-EXT-0234,Theft,Collision,2026-08-27,180000,Settled,cust234@autoprotectdemo.com
-POL-EXT-0235,Third-Party Liability,Windshield,2026-08-21,120000,Approved,cust235@autoprotectdemo.com
-POL-EXT-0236,Natural Disaster,Fire,2026-10-06,75000,Approved,cust236@autoprotectdemo.com
-POL-EXT-0237,Accident,Bumper,2026-06-10,180000,Submitted,cust237@autoprotectdemo.com
-POL-EXT-0238,Third-Party Liability,Fire,2026-10-16,45000,Settled,cust238@autoprotectdemo.com
-POL-EXT-0239,Third-Party Liability,Collision,2026-05-04,75000,Settled,cust239@autoprotectdemo.com
-POL-EXT-0240,Glass Damage,Fire,2026-06-08,120000,Under Review,cust240@autoprotectdemo.com
-POL-EXT-0241,Natural Disaster,Collision,2026-08-21,15000,Approved,cust241@autoprotectdemo.com
-POL-EXT-0242,Theft,Windshield,2026-06-06,45000,Rejected,cust242@autoprotectdemo.com
-POL-EXT-0243,Accident,Windshield,2026-10-19,28000,Under Review,cust243@autoprotectdemo.com
-POL-EXT-0244,Glass Damage,Bumper,2026-07-11,45000,Rejected,cust244@autoprotectdemo.com
-POL-EXT-0245,Theft,Windshield,2026-06-08,15000,Submitted,cust245@autoprotectdemo.com
-POL-EXT-0246,Natural Disaster,Fire,2026-08-12,75000,Settled,cust246@autoprotectdemo.com
-POL-EXT-0247,Natural Disaster,Windshield,2026-11-11,120000,Submitted,cust247@autoprotectdemo.com
-POL-EXT-0248,Accident,Fire,2026-09-19,45000,Submitted,cust248@autoprotectdemo.com
-POL-EXT-0249,Natural Disaster,Flood,2026-07-18,120000,Settled,cust249@autoprotectdemo.com
-POL-EXT-0250,Glass Damage,Windshield,2026-07-17,120000,Settled,cust250@autoprotectdemo.com
-POL-EXT-0251,Theft,Collision,2026-06-01,75000,Under Review,cust251@autoprotectdemo.com
-POL-EXT-0252,Theft,Collision,2026-06-20,28000,Settled,cust252@autoprotectdemo.com
-POL-EXT-0253,Natural Disaster,Total Loss,2026-07-18,28000,Settled,cust253@autoprotectdemo.com
-POL-EXT-0254,Glass Damage,Windshield,2026-08-29,75000,Under Review,cust254@autoprotectdemo.com
-POL-EXT-0255,Third-Party Liability,Flood,2026-10-06,15000,Submitted,cust255@autoprotectdemo.com
-POL-EXT-0256,Glass Damage,Flood,2026-09-02,75000,Settled,cust256@autoprotectdemo.com
-POL-EXT-0257,Natural Disaster,Flood,2026-11-07,45000,Rejected,cust257@autoprotectdemo.com
-POL-EXT-0258,Third-Party Liability,Total Loss,2026-08-08,75000,Submitted,cust258@autoprotectdemo.com
-POL-EXT-0259,Third-Party Liability,Windshield,2026-10-31,180000,Under Review,cust259@autoprotectdemo.com
-POL-EXT-0260,Third-Party Liability,Total Loss,2026-05-13,180000,Settled,cust260@autoprotectdemo.com
-POL-EXT-0261,Natural Disaster,Fire,2026-06-11,180000,Under Review,cust261@autoprotectdemo.com
-POL-EXT-0262,Glass Damage,Total Loss,2026-07-09,75000,Settled,cust262@autoprotectdemo.com
-POL-EXT-0263,Glass Damage,Total Loss,2026-06-29,45000,Approved,cust263@autoprotectdemo.com
-POL-EXT-0264,Theft,Windshield,2026-05-26,15000,Under Review,cust264@autoprotectdemo.com
-POL-EXT-0265,Third-Party Liability,Flood,2026-10-24,15000,Approved,cust265@autoprotectdemo.com
-POL-EXT-0266,Natural Disaster,Flood,2026-09-15,120000,Approved,cust266@autoprotectdemo.com
-POL-EXT-0267,Natural Disaster,Total Loss,2026-09-26,180000,Approved,cust267@autoprotectdemo.com
-POL-EXT-0268,Natural Disaster,Windshield,2026-06-04,15000,Settled,cust268@autoprotectdemo.com
-POL-EXT-0269,Theft,Fire,2026-09-09,45000,Approved,cust269@autoprotectdemo.com
-POL-EXT-0270,Third-Party Liability,Flood,2026-07-16,120000,Under Review,cust270@autoprotectdemo.com
-POL-EXT-0271,Natural Disaster,Fire,2026-08-08,75000,Settled,cust271@autoprotectdemo.com
-POL-EXT-0272,Natural Disaster,Total Loss,2026-05-15,180000,Rejected,cust272@autoprotectdemo.com
-POL-EXT-0273,Theft,Flood,2026-07-06,15000,Submitted,cust273@autoprotectdemo.com
-POL-EXT-0274,Glass Damage,Flood,2026-05-27,45000,Under Review,cust274@autoprotectdemo.com
-POL-EXT-0275,Glass Damage,Windshield,2026-08-08,28000,Settled,cust275@autoprotectdemo.com
-POL-EXT-0276,Theft,Total Loss,2026-07-14,45000,Settled,cust276@autoprotectdemo.com
-POL-EXT-0277,Accident,Total Loss,2026-06-04,180000,Submitted,cust277@autoprotectdemo.com
-POL-EXT-0278,Natural Disaster,Bumper,2026-07-01,120000,Rejected,cust278@autoprotectdemo.com
-POL-EXT-0279,Accident,Bumper,2026-05-31,120000,Under Review,cust279@autoprotectdemo.com
-POL-EXT-0280,Natural Disaster,Collision,2026-07-16,180000,Under Review,cust280@autoprotectdemo.com
-POL-EXT-0281,Third-Party Liability,Collision,2026-07-18,15000,Rejected,cust281@autoprotectdemo.com
-POL-EXT-0282,Glass Damage,Flood,2026-08-26,15000,Rejected,cust282@autoprotectdemo.com
-POL-EXT-0283,Accident,Flood,2026-07-13,28000,Approved,cust283@autoprotectdemo.com
-POL-EXT-0284,Theft,Flood,2026-09-30,28000,Settled,cust284@autoprotectdemo.com
-POL-EXT-0285,Theft,Windshield,2026-11-16,28000,Approved,cust285@autoprotectdemo.com
-POL-EXT-0286,Accident,Flood,2026-05-19,28000,Settled,cust286@autoprotectdemo.com
-POL-EXT-0287,Natural Disaster,Total Loss,2026-09-05,15000,Submitted,cust287@autoprotectdemo.com
-POL-EXT-0288,Third-Party Liability,Windshield,2026-05-28,15000,Rejected,cust288@autoprotectdemo.com
-POL-EXT-0289,Theft,Flood,2026-08-29,45000,Approved,cust289@autoprotectdemo.com
-POL-EXT-0290,Third-Party Liability,Windshield,2026-09-08,15000,Settled,cust290@autoprotectdemo.com
-POL-EXT-0291,Glass Damage,Flood,2026-11-04,120000,Settled,cust291@autoprotectdemo.com
-POL-EXT-0292,Theft,Fire,2026-05-17,45000,Rejected,cust292@autoprotectdemo.com
-POL-EXT-0293,Third-Party Liability,Flood,2026-05-21,75000,Rejected,cust293@autoprotectdemo.com
-POL-EXT-0294,Glass Damage,Collision,2026-07-01,15000,Rejected,cust294@autoprotectdemo.com
-POL-EXT-0295,Theft,Windshield,2026-06-02,75000,Submitted,cust295@autoprotectdemo.com
-POL-EXT-0296,Accident,Windshield,2026-08-25,120000,Under Review,cust296@autoprotectdemo.com
-POL-EXT-0297,Theft,Collision,2026-06-28,120000,Submitted,cust297@autoprotectdemo.com
-POL-EXT-0298,Natural Disaster,Flood,2026-06-25,15000,Approved,cust298@autoprotectdemo.com
-POL-EXT-0299,Accident,Collision,2026-07-11,15000,Submitted,cust299@autoprotectdemo.com
-POL-EXT-0300,Accident,Windshield,2026-10-18,15000,Submitted,cust300@autoprotectdemo.com
-POL-EXT-0301,Natural Disaster,Windshield,2026-06-07,180000,Under Review,cust301@autoprotectdemo.com
-POL-EXT-0302,Third-Party Liability,Flood,2026-10-16,180000,Under Review,cust302@autoprotectdemo.com
-POL-EXT-0303,Glass Damage,Flood,2026-09-19,15000,Under Review,cust303@autoprotectdemo.com
-POL-EXT-0304,Natural Disaster,Flood,2026-05-26,45000,Submitted,cust304@autoprotectdemo.com
-POL-EXT-0305,Theft,Flood,2026-11-03,120000,Settled,cust305@autoprotectdemo.com
-POL-EXT-0306,Accident,Flood,2026-08-12,120000,Settled,cust306@autoprotectdemo.com
-POL-EXT-0307,Glass Damage,Collision,2026-10-14,45000,Settled,cust307@autoprotectdemo.com
-POL-EXT-0308,Accident,Flood,2026-11-01,75000,Settled,cust308@autoprotectdemo.com
-POL-EXT-0309,Natural Disaster,Collision,2026-05-24,15000,Approved,cust309@autoprotectdemo.com
-POL-EXT-0310,Accident,Bumper,2026-08-02,15000,Rejected,cust310@autoprotectdemo.com
-POL-EXT-0311,Glass Damage,Fire,2026-08-23,15000,Submitted,cust311@autoprotectdemo.com
-POL-EXT-0312,Third-Party Liability,Windshield,2026-06-05,45000,Submitted,cust312@autoprotectdemo.com
-POL-EXT-0313,Third-Party Liability,Windshield,2026-05-02,75000,Settled,cust313@autoprotectdemo.com
-POL-EXT-0314,Third-Party Liability,Bumper,2026-08-13,15000,Submitted,cust314@autoprotectdemo.com
-POL-EXT-0315,Third-Party Liability,Windshield,2026-10-14,75000,Approved,cust315@autoprotectdemo.com
-POL-EXT-0316,Glass Damage,Collision,2026-10-16,45000,Submitted,cust316@autoprotectdemo.com
-POL-EXT-0317,Theft,Flood,2026-09-03,75000,Settled,cust317@autoprotectdemo.com
-POL-EXT-0318,Accident,Collision,2026-11-14,15000,Rejected,cust318@autoprotectdemo.com
-POL-EXT-0319,Third-Party Liability,Flood,2026-09-26,45000,Submitted,cust319@autoprotectdemo.com
-POL-EXT-0320,Glass Damage,Flood,2026-05-18,180000,Under Review,cust320@autoprotectdemo.com
-POL-EXT-0321,Accident,Windshield,2026-11-01,75000,Under Review,cust321@autoprotectdemo.com
-POL-EXT-0322,Third-Party Liability,Windshield,2026-08-25,75000,Rejected,cust322@autoprotectdemo.com
-POL-EXT-0323,Glass Damage,Flood,2026-10-20,45000,Settled,cust323@autoprotectdemo.com
-POL-EXT-0324,Theft,Fire,2026-09-08,180000,Settled,cust324@autoprotectdemo.com
-POL-EXT-0325,Natural Disaster,Collision,2026-10-23,15000,Settled,cust325@autoprotectdemo.com
-POL-EXT-0326,Glass Damage,Bumper,2026-07-11,120000,Settled,cust326@autoprotectdemo.com
-POL-EXT-0327,Theft,Total Loss,2026-09-25,120000,Settled,cust327@autoprotectdemo.com
-POL-EXT-0328,Third-Party Liability,Fire,2026-05-11,28000,Submitted,cust328@autoprotectdemo.com
-POL-EXT-0329,Theft,Windshield,2026-07-10,45000,Under Review,cust329@autoprotectdemo.com
-POL-EXT-0330,Third-Party Liability,Fire,2026-11-01,75000,Approved,cust330@autoprotectdemo.com
-POL-EXT-0331,Accident,Flood,2026-10-11,120000,Under Review,cust331@autoprotectdemo.com
-POL-EXT-0332,Theft,Flood,2026-10-21,15000,Submitted,cust332@autoprotectdemo.com
-POL-EXT-0333,Theft,Total Loss,2026-11-17,180000,Approved,cust333@autoprotectdemo.com
-POL-EXT-0334,Theft,Fire,2026-09-28,45000,Rejected,cust334@autoprotectdemo.com
-POL-EXT-0335,Natural Disaster,Fire,2026-05-03,28000,Rejected,cust335@autoprotectdemo.com
-POL-EXT-0336,Accident,Flood,2026-07-12,15000,Under Review,cust336@autoprotectdemo.com
-POL-EXT-0337,Glass Damage,Collision,2026-05-13,28000,Rejected,cust337@autoprotectdemo.com
-POL-EXT-0338,Glass Damage,Bumper,2026-10-26,45000,Under Review,cust338@autoprotectdemo.com
-POL-EXT-0339,Natural Disaster,Total Loss,2026-07-14,120000,Settled,cust339@autoprotectdemo.com
-POL-EXT-0340,Third-Party Liability,Windshield,2026-06-02,75000,Submitted,cust340@autoprotectdemo.com
-POL-EXT-0341,Glass Damage,Collision,2026-05-16,15000,Approved,cust341@autoprotectdemo.com
-POL-EXT-0342,Theft,Total Loss,2026-06-23,28000,Rejected,cust342@autoprotectdemo.com
-POL-EXT-0343,Natural Disaster,Fire,2026-05-17,15000,Rejected,cust343@autoprotectdemo.com
-POL-EXT-0344,Natural Disaster,Windshield,2026-06-08,75000,Submitted,cust344@autoprotectdemo.com
-POL-EXT-0345,Natural Disaster,Windshield,2026-06-08,180000,Settled,cust345@autoprotectdemo.com
-POL-EXT-0346,Glass Damage,Windshield,2026-07-03,120000,Rejected,cust346@autoprotectdemo.com
-POL-EXT-0347,Glass Damage,Windshield,2026-08-14,28000,Submitted,cust347@autoprotectdemo.com
-POL-EXT-0348,Accident,Fire,2026-06-15,28000,Approved,cust348@autoprotectdemo.com
-POL-EXT-0349,Theft,Bumper,2026-10-04,15000,Settled,cust349@autoprotectdemo.com
-POL-EXT-0350,Theft,Flood,2026-10-07,28000,Settled,cust350@autoprotectdemo.com
-POL-EXT-0351,Theft,Collision,2026-07-13,180000,Submitted,cust351@autoprotectdemo.com
-POL-EXT-0352,Accident,Total Loss,2026-10-12,180000,Approved,cust352@autoprotectdemo.com
-POL-EXT-0353,Natural Disaster,Windshield,2026-10-11,120000,Settled,cust353@autoprotectdemo.com
-POL-EXT-0354,Glass Damage,Collision,2026-05-04,180000,Submitted,cust354@autoprotectdemo.com
-POL-EXT-0355,Theft,Bumper,2026-08-21,120000,Settled,cust355@autoprotectdemo.com
-POL-EXT-0356,Theft,Fire,2026-06-16,75000,Under Review,cust356@autoprotectdemo.com
-POL-EXT-0357,Third-Party Liability,Bumper,2026-06-18,120000,Rejected,cust357@autoprotectdemo.com
-POL-EXT-0358,Third-Party Liability,Fire,2026-09-07,120000,Approved,cust358@autoprotectdemo.com
-POL-EXT-0359,Third-Party Liability,Flood,2026-05-16,75000,Submitted,cust359@autoprotectdemo.com
-POL-EXT-0360,Accident,Windshield,2026-10-12,28000,Submitted,cust360@autoprotectdemo.com
-POL-EXT-0361,Theft,Fire,2026-05-01,75000,Under Review,cust361@autoprotectdemo.com
-POL-EXT-0362,Natural Disaster,Total Loss,2026-07-16,15000,Under Review,cust362@autoprotectdemo.com
-POL-EXT-0363,Theft,Collision,2026-06-21,180000,Rejected,cust363@autoprotectdemo.com
-POL-EXT-0364,Third-Party Liability,Total Loss,2026-09-02,180000,Approved,cust364@autoprotectdemo.com
-POL-EXT-0365,Accident,Total Loss,2026-06-03,75000,Settled,cust365@autoprotectdemo.com
-POL-EXT-0366,Glass Damage,Collision,2026-10-05,15000,Under Review,cust366@autoprotectdemo.com
-POL-EXT-0367,Theft,Collision,2026-09-24,120000,Submitted,cust367@autoprotectdemo.com
-POL-EXT-0368,Natural Disaster,Total Loss,2026-05-06,45000,Under Review,cust368@autoprotectdemo.com
-POL-EXT-0369,Glass Damage,Bumper,2026-08-11,15000,Approved,cust369@autoprotectdemo.com
-POL-EXT-0370,Theft,Total Loss,2026-05-02,75000,Settled,cust370@autoprotectdemo.com
-POL-EXT-0371,Theft,Flood,2026-05-11,15000,Settled,cust371@autoprotectdemo.com
-POL-EXT-0372,Natural Disaster,Flood,2026-09-17,45000,Settled,cust372@autoprotectdemo.com
-POL-EXT-0373,Third-Party Liability,Flood,2026-05-02,120000,Settled,cust373@autoprotectdemo.com
-POL-EXT-0374,Accident,Collision,2026-09-01,28000,Approved,cust374@autoprotectdemo.com
-POL-EXT-0375,Natural Disaster,Bumper,2026-07-17,75000,Submitted,cust375@autoprotectdemo.com
-POL-EXT-0376,Accident,Windshield,2026-07-24,180000,Submitted,cust376@autoprotectdemo.com
-POL-EXT-0377,Glass Damage,Fire,2026-08-25,180000,Settled,cust377@autoprotectdemo.com
-POL-EXT-0378,Natural Disaster,Collision,2026-08-17,180000,Approved,cust378@autoprotectdemo.com
-POL-EXT-0379,Glass Damage,Bumper,2026-08-20,75000,Under Review,cust379@autoprotectdemo.com
-POL-EXT-0380,Natural Disaster,Fire,2026-08-26,180000,Settled,cust380@autoprotectdemo.com
-POL-EXT-0381,Third-Party Liability,Total Loss,2026-08-19,45000,Submitted,cust381@autoprotectdemo.com
-POL-EXT-0382,Natural Disaster,Fire,2026-09-08,180000,Approved,cust382@autoprotectdemo.com
-POL-EXT-0383,Third-Party Liability,Bumper,2026-08-24,15000,Approved,cust383@autoprotectdemo.com
-POL-EXT-0384,Natural Disaster,Flood,2026-05-13,45000,Under Review,cust384@autoprotectdemo.com
-POL-EXT-0385,Glass Damage,Collision,2026-07-09,15000,Approved,cust385@autoprotectdemo.com
-POL-EXT-0386,Accident,Total Loss,2026-11-04,75000,Approved,cust386@autoprotectdemo.com
-POL-EXT-0387,Theft,Windshield,2026-11-01,75000,Under Review,cust387@autoprotectdemo.com
-POL-EXT-0388,Natural Disaster,Total Loss,2026-08-17,75000,Approved,cust388@autoprotectdemo.com
-POL-EXT-0389,Third-Party Liability,Flood,2026-07-12,28000,Rejected,cust389@autoprotectdemo.com
-POL-EXT-0390,Natural Disaster,Total Loss,2026-06-06,120000,Settled,cust390@autoprotectdemo.com
-POL-EXT-0391,Theft,Total Loss,2026-05-16,45000,Submitted,cust391@autoprotectdemo.com
-POL-EXT-0392,Glass Damage,Bumper,2026-06-21,45000,Approved,cust392@autoprotectdemo.com
-POL-EXT-0393,Third-Party Liability,Flood,2026-10-13,75000,Under Review,cust393@autoprotectdemo.com
-POL-EXT-0394,Natural Disaster,Collision,2026-09-29,45000,Submitted,cust394@autoprotectdemo.com
-POL-EXT-0395,Theft,Bumper,2026-06-26,180000,Rejected,cust395@autoprotectdemo.com
-POL-EXT-0396,Natural Disaster,Windshield,2026-05-23,45000,Settled,cust396@autoprotectdemo.com
-POL-EXT-0397,Theft,Collision,2026-05-17,28000,Under Review,cust397@autoprotectdemo.com
-POL-EXT-0398,Accident,Fire,2026-06-25,120000,Under Review,cust398@autoprotectdemo.com
-POL-EXT-0399,Natural Disaster,Total Loss,2026-10-02,15000,Approved,cust399@autoprotectdemo.com
-POL-EXT-0400,Glass Damage,Total Loss,2026-08-26,45000,Under Review,cust400@autoprotectdemo.com
-POL-EXT-0401,Theft,Total Loss,2026-07-25,180000,Settled,cust401@autoprotectdemo.com
-POL-EXT-0402,Theft,Total Loss,2026-06-14,45000,Submitted,cust402@autoprotectdemo.com
-POL-EXT-0403,Accident,Total Loss,2026-06-04,15000,Rejected,cust403@autoprotectdemo.com
-POL-EXT-0404,Accident,Total Loss,2026-05-18,120000,Submitted,cust404@autoprotectdemo.com
-POL-EXT-0405,Third-Party Liability,Windshield,2026-05-26,180000,Rejected,cust405@autoprotectdemo.com
-POL-EXT-0406,Theft,Bumper,2026-09-12,75000,Settled,cust406@autoprotectdemo.com
-POL-EXT-0407,Third-Party Liability,Total Loss,2026-09-13,15000,Approved,cust407@autoprotectdemo.com
-POL-EXT-0408,Accident,Flood,2026-06-02,120000,Submitted,cust408@autoprotectdemo.com
-POL-EXT-0409,Natural Disaster,Fire,2026-05-19,28000,Under Review,cust409@autoprotectdemo.com
-POL-EXT-0410,Natural Disaster,Total Loss,2026-10-24,15000,Rejected,cust410@autoprotectdemo.com
-POL-EXT-0411,Theft,Windshield,2026-06-29,180000,Approved,cust411@autoprotectdemo.com
-POL-EXT-0412,Natural Disaster,Bumper,2026-06-21,28000,Settled,cust412@autoprotectdemo.com
-POL-EXT-0413,Accident,Flood,2026-10-27,180000,Settled,cust413@autoprotectdemo.com
-POL-EXT-0414,Glass Damage,Flood,2026-07-08,45000,Settled,cust414@autoprotectdemo.com
-POL-EXT-0415,Glass Damage,Flood,2026-06-23,120000,Under Review,cust415@autoprotectdemo.com
-POL-EXT-0416,Glass Damage,Flood,2026-07-20,28000,Settled,cust416@autoprotectdemo.com
-POL-EXT-0417,Glass Damage,Windshield,2026-08-16,75000,Submitted,cust417@autoprotectdemo.com
-POL-EXT-0418,Third-Party Liability,Collision,2026-08-16,75000,Approved,cust418@autoprotectdemo.com
-POL-EXT-0419,Natural Disaster,Windshield,2026-06-09,180000,Settled,cust419@autoprotectdemo.com
-POL-EXT-0420,Third-Party Liability,Flood,2026-10-14,28000,Rejected,cust420@autoprotectdemo.com
-POL-EXT-0421,Third-Party Liability,Flood,2026-07-10,15000,Settled,cust421@autoprotectdemo.com
-POL-EXT-0422,Glass Damage,Flood,2026-08-22,45000,Settled,cust422@autoprotectdemo.com
-POL-EXT-0423,Theft,Fire,2026-09-26,28000,Submitted,cust423@autoprotectdemo.com
-POL-EXT-0424,Accident,Bumper,2026-06-30,75000,Rejected,cust424@autoprotectdemo.com
-POL-EXT-0425,Natural Disaster,Total Loss,2026-07-02,120000,Rejected,cust425@autoprotectdemo.com
-POL-EXT-0426,Third-Party Liability,Collision,2026-06-01,75000,Under Review,cust426@autoprotectdemo.com
-POL-EXT-0427,Accident,Flood,2026-10-23,75000,Under Review,cust427@autoprotectdemo.com
-POL-EXT-0428,Natural Disaster,Collision,2026-11-06,120000,Approved,cust428@autoprotectdemo.com
-POL-EXT-0429,Theft,Total Loss,2026-11-17,15000,Under Review,cust429@autoprotectdemo.com
-POL-EXT-0430,Natural Disaster,Fire,2026-05-13,15000,Approved,cust430@autoprotectdemo.com
-POL-EXT-0431,Theft,Fire,2026-11-05,120000,Settled,cust431@autoprotectdemo.com
-POL-EXT-0432,Natural Disaster,Windshield,2026-10-18,28000,Under Review,cust432@autoprotectdemo.com
-POL-EXT-0433,Glass Damage,Fire,2026-08-19,15000,Under Review,cust433@autoprotectdemo.com
-POL-EXT-0434,Theft,Windshield,2026-06-07,28000,Rejected,cust434@autoprotectdemo.com
-POL-EXT-0435,Theft,Bumper,2026-07-31,75000,Rejected,cust435@autoprotectdemo.com
-POL-EXT-0436,Natural Disaster,Windshield,2026-09-05,15000,Submitted,cust436@autoprotectdemo.com
-POL-EXT-0437,Natural Disaster,Bumper,2026-07-13,180000,Rejected,cust437@autoprotectdemo.com
-POL-EXT-0438,Third-Party Liability,Collision,2026-10-30,75000,Under Review,cust438@autoprotectdemo.com
-POL-EXT-0439,Natural Disaster,Total Loss,2026-06-16,120000,Submitted,cust439@autoprotectdemo.com
-POL-EXT-0440,Glass Damage,Fire,2026-09-04,75000,Submitted,cust440@autoprotectdemo.com
-POL-EXT-0441,Theft,Flood,2026-10-06,28000,Submitted,cust441@autoprotectdemo.com
-POL-EXT-0442,Third-Party Liability,Bumper,2026-09-29,28000,Settled,cust442@autoprotectdemo.com
-POL-EXT-0443,Glass Damage,Flood,2026-08-29,75000,Settled,cust443@autoprotectdemo.com
-POL-EXT-0444,Natural Disaster,Flood,2026-07-05,28000,Under Review,cust444@autoprotectdemo.com
-POL-EXT-0445,Accident,Flood,2026-07-31,28000,Submitted,cust445@autoprotectdemo.com
-POL-EXT-0446,Natural Disaster,Windshield,2026-10-08,120000,Approved,cust446@autoprotectdemo.com
-POL-EXT-0447,Accident,Flood,2026-11-01,180000,Settled,cust447@autoprotectdemo.com
-POL-EXT-0448,Theft,Collision,2026-08-19,180000,Settled,cust448@autoprotectdemo.com
-POL-EXT-0449,Glass Damage,Windshield,2026-05-06,120000,Approved,cust449@autoprotectdemo.com
-POL-EXT-0450,Accident,Flood,2026-07-13,28000,Settled,cust450@autoprotectdemo.com
-POL-EXT-0451,Theft,Fire,2026-11-17,15000,Settled,cust451@autoprotectdemo.com
-POL-EXT-0452,Natural Disaster,Total Loss,2026-11-02,180000,Rejected,cust452@autoprotectdemo.com
-POL-EXT-0453,Third-Party Liability,Collision,2026-11-09,75000,Under Review,cust453@autoprotectdemo.com
-POL-EXT-0454,Theft,Fire,2026-10-21,75000,Submitted,cust454@autoprotectdemo.com
-POL-EXT-0455,Accident,Collision,2026-06-20,15000,Settled,cust455@autoprotectdemo.com
-POL-EXT-0456,Theft,Collision,2026-11-08,180000,Rejected,cust456@autoprotectdemo.com
-POL-EXT-0457,Glass Damage,Windshield,2026-06-04,75000,Under Review,cust457@autoprotectdemo.com
-POL-EXT-0458,Third-Party Liability,Collision,2026-05-16,180000,Settled,cust458@autoprotectdemo.com
-POL-EXT-0459,Theft,Bumper,2026-09-30,28000,Rejected,cust459@autoprotectdemo.com
-POL-EXT-0460,Third-Party Liability,Collision,2026-09-28,75000,Approved,cust460@autoprotectdemo.com
-POL-EXT-0461,Theft,Total Loss,2026-07-15,75000,Submitted,cust461@autoprotectdemo.com
-POL-EXT-0462,Natural Disaster,Flood,2026-06-30,45000,Rejected,cust462@autoprotectdemo.com
-POL-EXT-0463,Natural Disaster,Windshield,2026-09-15,45000,Rejected,cust463@autoprotectdemo.com
-POL-EXT-0464,Glass Damage,Flood,2026-05-24,15000,Submitted,cust464@autoprotectdemo.com
-POL-EXT-0465,Natural Disaster,Flood,2026-08-05,120000,Under Review,cust465@autoprotectdemo.com
-POL-EXT-0466,Glass Damage,Bumper,2026-08-03,15000,Rejected,cust466@autoprotectdemo.com
-POL-EXT-0467,Glass Damage,Flood,2026-07-10,120000,Under Review,cust467@autoprotectdemo.com
-POL-EXT-0468,Natural Disaster,Collision,2026-10-23,75000,Settled,cust468@autoprotectdemo.com
-POL-EXT-0469,Natural Disaster,Flood,2026-06-19,15000,Rejected,cust469@autoprotectdemo.com
-POL-EXT-0470,Glass Damage,Windshield,2026-09-21,180000,Under Review,cust470@autoprotectdemo.com
-POL-EXT-0471,Natural Disaster,Flood,2026-08-23,28000,Under Review,cust471@autoprotectdemo.com
-POL-EXT-0472,Glass Damage,Fire,2026-11-17,75000,Under Review,cust472@autoprotectdemo.com
-POL-EXT-0473,Glass Damage,Collision,2026-06-28,75000,Settled,cust473@autoprotectdemo.com
-POL-EXT-0474,Accident,Fire,2026-11-09,28000,Under Review,cust474@autoprotectdemo.com
-POL-EXT-0475,Accident,Windshield,2026-11-06,180000,Under Review,cust475@autoprotectdemo.com
-POL-EXT-0476,Third-Party Liability,Bumper,2026-07-01,45000,Submitted,cust476@autoprotectdemo.com
-POL-EXT-0477,Natural Disaster,Bumper,2026-07-12,28000,Approved,cust477@autoprotectdemo.com
-POL-EXT-0478,Natural Disaster,Windshield,2026-10-17,75000,Approved,cust478@autoprotectdemo.com
-POL-EXT-0479,Glass Damage,Fire,2026-06-20,28000,Approved,cust479@autoprotectdemo.com
-POL-EXT-0480,Natural Disaster,Windshield,2026-05-14,180000,Submitted,cust480@autoprotectdemo.com
-POL-EXT-0481,Natural Disaster,Windshield,2026-06-05,15000,Approved,cust481@autoprotectdemo.com
-POL-EXT-0482,Natural Disaster,Flood,2026-07-11,180000,Approved,cust482@autoprotectdemo.com
-POL-EXT-0483,Natural Disaster,Fire,2026-08-06,180000,Submitted,cust483@autoprotectdemo.com
-POL-EXT-0484,Natural Disaster,Total Loss,2026-10-07,75000,Approved,cust484@autoprotectdemo.com
-POL-EXT-0485,Natural Disaster,Fire,2026-07-28,75000,Rejected,cust485@autoprotectdemo.com
-POL-EXT-0486,Glass Damage,Bumper,2026-10-27,120000,Submitted,cust486@autoprotectdemo.com
-POL-EXT-0487,Third-Party Liability,Fire,2026-09-07,15000,Under Review,cust487@autoprotectdemo.com
-POL-EXT-0488,Third-Party Liability,Fire,2026-07-11,15000,Rejected,cust488@autoprotectdemo.com
-POL-EXT-0489,Natural Disaster,Bumper,2026-05-04,75000,Submitted,cust489@autoprotectdemo.com
-POL-EXT-0490,Natural Disaster,Fire,2026-11-04,75000,Rejected,cust490@autoprotectdemo.com
-POL-EXT-0491,Theft,Collision,2026-09-20,120000,Under Review,cust491@autoprotectdemo.com
-POL-EXT-0492,Glass Damage,Flood,2026-07-30,28000,Under Review,cust492@autoprotectdemo.com
-POL-EXT-0493,Third-Party Liability,Fire,2026-11-09,180000,Submitted,cust493@autoprotectdemo.com
-POL-EXT-0494,Third-Party Liability,Total Loss,2026-07-26,45000,Rejected,cust494@autoprotectdemo.com
-POL-EXT-0495,Accident,Total Loss,2026-06-15,180000,Rejected,cust495@autoprotectdemo.com
-POL-EXT-0496,Third-Party Liability,Bumper,2026-07-08,120000,Settled,cust496@autoprotectdemo.com
-POL-EXT-0497,Third-Party Liability,Flood,2026-09-20,45000,Submitted,cust497@autoprotectdemo.com
-POL-EXT-0498,Glass Damage,Collision,2026-09-12,45000,Settled,cust498@autoprotectdemo.com
-POL-EXT-0499,Glass Damage,Windshield,2026-06-07,180000,Rejected,cust499@autoprotectdemo.com
-POL-EXT-0500,Theft,Total Loss,2026-09-27,75000,Under Review,cust500@autoprotectdemo.com
-POL-EXT-0501,Third-Party Liability,Flood,2026-10-06,120000,Approved,cust501@autoprotectdemo.com
-POL-EXT-0502,Natural Disaster,Windshield,2026-08-06,120000,Under Review,cust502@autoprotectdemo.com
-POL-EXT-0503,Third-Party Liability,Fire,2026-09-23,120000,Submitted,cust503@autoprotectdemo.com
-POL-EXT-0504,Accident,Windshield,2026-05-03,45000,Under Review,cust504@autoprotectdemo.com
-POL-EXT-0505,Theft,Collision,2026-07-26,45000,Approved,cust505@autoprotectdemo.com
-POL-EXT-0506,Theft,Windshield,2026-06-04,75000,Under Review,cust506@autoprotectdemo.com
-POL-EXT-0507,Third-Party Liability,Windshield,2026-07-16,15000,Approved,cust507@autoprotectdemo.com
-POL-EXT-0508,Theft,Windshield,2026-08-16,75000,Settled,cust508@autoprotectdemo.com
-POL-EXT-0509,Third-Party Liability,Bumper,2026-09-03,180000,Rejected,cust509@autoprotectdemo.com
-POL-EXT-0510,Third-Party Liability,Windshield,2026-06-29,15000,Submitted,cust510@autoprotectdemo.com
-POL-EXT-0511,Glass Damage,Fire,2026-10-23,180000,Approved,cust511@autoprotectdemo.com
-POL-EXT-0512,Glass Damage,Bumper,2026-06-05,45000,Approved,cust512@autoprotectdemo.com
-POL-EXT-0513,Natural Disaster,Bumper,2026-10-15,120000,Rejected,cust513@autoprotectdemo.com
-POL-EXT-0514,Natural Disaster,Total Loss,2026-10-21,120000,Approved,cust514@autoprotectdemo.com
-POL-EXT-0515,Third-Party Liability,Collision,2026-06-27,15000,Rejected,cust515@autoprotectdemo.com
-POL-EXT-0516,Accident,Collision,2026-09-08,28000,Under Review,cust516@autoprotectdemo.com
-POL-EXT-0517,Natural Disaster,Flood,2026-05-06,28000,Settled,cust517@autoprotectdemo.com
-POL-EXT-0518,Natural Disaster,Windshield,2026-06-29,120000,Rejected,cust518@autoprotectdemo.com
-POL-EXT-0519,Glass Damage,Windshield,2026-09-06,15000,Settled,cust519@autoprotectdemo.com
-POL-EXT-0520,Glass Damage,Windshield,2026-09-13,120000,Under Review,cust520@autoprotectdemo.com
-POL-EXT-0521,Third-Party Liability,Flood,2026-10-22,45000,Rejected,cust521@autoprotectdemo.com
-POL-EXT-0522,Accident,Total Loss,2026-10-14,15000,Settled,cust522@autoprotectdemo.com
-POL-EXT-0523,Glass Damage,Collision,2026-10-27,15000,Under Review,cust523@autoprotectdemo.com
-POL-EXT-0524,Third-Party Liability,Bumper,2026-09-02,180000,Rejected,cust524@autoprotectdemo.com
-POL-EXT-0525,Accident,Fire,2026-07-09,180000,Approved,cust525@autoprotectdemo.com
-POL-EXT-0526,Theft,Fire,2026-08-22,180000,Rejected,cust526@autoprotectdemo.com
-POL-EXT-0527,Accident,Windshield,2026-11-17,120000,Rejected,cust527@autoprotectdemo.com
-POL-EXT-0528,Accident,Bumper,2026-05-16,28000,Submitted,cust528@autoprotectdemo.com
-POL-EXT-0529,Natural Disaster,Total Loss,2026-07-07,15000,Approved,cust529@autoprotectdemo.com
-POL-EXT-0530,Natural Disaster,Collision,2026-06-24,15000,Settled,cust530@autoprotectdemo.com
-POL-EXT-0531,Theft,Collision,2026-05-04,28000,Submitted,cust531@autoprotectdemo.com
-POL-EXT-0532,Glass Damage,Bumper,2026-10-17,15000,Under Review,cust532@autoprotectdemo.com
-POL-EXT-0533,Natural Disaster,Bumper,2026-09-17,75000,Submitted,cust533@autoprotectdemo.com
-POL-EXT-0534,Accident,Flood,2026-07-06,75000,Rejected,cust534@autoprotectdemo.com
-POL-EXT-0535,Glass Damage,Bumper,2026-07-07,15000,Approved,cust535@autoprotectdemo.com
-POL-EXT-0536,Natural Disaster,Flood,2026-11-09,28000,Submitted,cust536@autoprotectdemo.com
-POL-EXT-0537,Third-Party Liability,Windshield,2026-06-02,15000,Settled,cust537@autoprotectdemo.com
-POL-EXT-0538,Accident,Windshield,2026-11-15,28000,Under Review,cust538@autoprotectdemo.com
-POL-EXT-0539,Third-Party Liability,Bumper,2026-06-01,120000,Approved,cust539@autoprotectdemo.com
-POL-EXT-0540,Theft,Windshield,2026-07-15,120000,Under Review,cust540@autoprotectdemo.com
-POL-EXT-0541,Natural Disaster,Flood,2026-07-12,15000,Rejected,cust541@autoprotectdemo.com
-POL-EXT-0542,Theft,Total Loss,2026-10-01,28000,Settled,cust542@autoprotectdemo.com
-POL-EXT-0543,Accident,Fire,2026-08-21,28000,Under Review,cust543@autoprotectdemo.com
-POL-EXT-0544,Third-Party Liability,Total Loss,2026-11-05,120000,Under Review,cust544@autoprotectdemo.com
-POL-EXT-0545,Theft,Bumper,2026-05-21,28000,Submitted,cust545@autoprotectdemo.com
-POL-EXT-0546,Accident,Fire,2026-08-26,120000,Settled,cust546@autoprotectdemo.com
-POL-EXT-0547,Accident,Windshield,2026-08-14,45000,Settled,cust547@autoprotectdemo.com
-POL-EXT-0548,Theft,Total Loss,2026-09-12,120000,Approved,cust548@autoprotectdemo.com
-POL-EXT-0549,Natural Disaster,Windshield,2026-06-05,75000,Approved,cust549@autoprotectdemo.com
-POL-EXT-0550,Third-Party Liability,Windshield,2026-08-14,15000,Approved,cust550@autoprotectdemo.com
-POL-EXT-0551,Third-Party Liability,Windshield,2026-07-11,180000,Rejected,cust551@autoprotectdemo.com
-POL-EXT-0552,Natural Disaster,Bumper,2026-10-01,45000,Approved,cust552@autoprotectdemo.com
-POL-EXT-0553,Glass Damage,Total Loss,2026-10-05,45000,Under Review,cust553@autoprotectdemo.com
-POL-EXT-0554,Accident,Total Loss,2026-10-16,120000,Approved,cust554@autoprotectdemo.com
-POL-EXT-0555,Theft,Collision,2026-06-05,180000,Approved,cust555@autoprotectdemo.com
-POL-EXT-0556,Third-Party Liability,Flood,2026-08-18,15000,Approved,cust556@autoprotectdemo.com
-POL-EXT-0557,Theft,Collision,2026-07-27,28000,Submitted,cust557@autoprotectdemo.com
-POL-EXT-0558,Third-Party Liability,Fire,2026-07-10,15000,Approved,cust558@autoprotectdemo.com
-POL-EXT-0559,Natural Disaster,Fire,2026-06-15,28000,Rejected,cust559@autoprotectdemo.com
-POL-EXT-0560,Glass Damage,Fire,2026-06-17,75000,Settled,cust560@autoprotectdemo.com
-POL-EXT-0561,Theft,Flood,2026-08-14,75000,Submitted,cust561@autoprotectdemo.com
-POL-EXT-0562,Theft,Windshield,2026-07-15,45000,Settled,cust562@autoprotectdemo.com
-POL-EXT-0563,Third-Party Liability,Collision,2026-09-12,180000,Submitted,cust563@autoprotectdemo.com
-POL-EXT-0564,Glass Damage,Flood,2026-07-11,180000,Rejected,cust564@autoprotectdemo.com
-POL-EXT-0565,Accident,Bumper,2026-10-28,120000,Rejected,cust565@autoprotectdemo.com
-POL-EXT-0566,Third-Party Liability,Total Loss,2026-05-10,180000,Settled,cust566@autoprotectdemo.com
-POL-EXT-0567,Accident,Total Loss,2026-08-23,180000,Settled,cust567@autoprotectdemo.com
-POL-EXT-0568,Accident,Windshield,2026-07-24,28000,Submitted,cust568@autoprotectdemo.com
-POL-EXT-0569,Glass Damage,Windshield,2026-07-25,120000,Submitted,cust569@autoprotectdemo.com
-POL-EXT-0570,Glass Damage,Windshield,2026-11-04,75000,Under Review,cust570@autoprotectdemo.com
-POL-EXT-0571,Natural Disaster,Windshield,2026-07-10,180000,Approved,cust571@autoprotectdemo.com
-POL-EXT-0572,Glass Damage,Bumper,2026-09-04,120000,Under Review,cust572@autoprotectdemo.com
-POL-EXT-0573,Natural Disaster,Windshield,2026-11-12,75000,Approved,cust573@autoprotectdemo.com
-POL-EXT-0574,Accident,Total Loss,2026-08-15,15000,Rejected,cust574@autoprotectdemo.com
-POL-EXT-0575,Theft,Windshield,2026-06-23,45000,Under Review,cust575@autoprotectdemo.com
-POL-EXT-0576,Natural Disaster,Total Loss,2026-07-31,15000,Rejected,cust576@autoprotectdemo.com
-POL-EXT-0577,Accident,Flood,2026-05-30,120000,Approved,cust577@autoprotectdemo.com
-POL-EXT-0578,Third-Party Liability,Total Loss,2026-07-12,75000,Submitted,cust578@autoprotectdemo.com
-POL-EXT-0579,Accident,Fire,2026-07-19,120000,Settled,cust579@autoprotectdemo.com
-POL-EXT-0580,Theft,Bumper,2026-09-08,120000,Submitted,cust580@autoprotectdemo.com
-POL-EXT-0581,Glass Damage,Windshield,2026-10-19,75000,Submitted,cust581@autoprotectdemo.com
-POL-EXT-0582,Third-Party Liability,Collision,2026-10-31,45000,Settled,cust582@autoprotectdemo.com
-POL-EXT-0583,Theft,Fire,2026-06-25,28000,Under Review,cust583@autoprotectdemo.com
-POL-EXT-0584,Third-Party Liability,Collision,2026-05-24,180000,Settled,cust584@autoprotectdemo.com
-POL-EXT-0585,Theft,Total Loss,2026-10-20,120000,Approved,cust585@autoprotectdemo.com
-POL-EXT-0586,Glass Damage,Bumper,2026-05-19,45000,Approved,cust586@autoprotectdemo.com
-POL-EXT-0587,Natural Disaster,Collision,2026-06-27,75000,Submitted,cust587@autoprotectdemo.com
-POL-EXT-0588,Theft,Fire,2026-08-25,28000,Submitted,cust588@autoprotectdemo.com
-POL-EXT-0589,Glass Damage,Flood,2026-05-09,15000,Rejected,cust589@autoprotectdemo.com
-POL-EXT-0590,Third-Party Liability,Fire,2026-08-04,45000,Rejected,cust590@autoprotectdemo.com
-POL-EXT-0591,Natural Disaster,Total Loss,2026-11-06,180000,Rejected,cust591@autoprotectdemo.com
-POL-EXT-0592,Glass Damage,Fire,2026-10-27,180000,Submitted,cust592@autoprotectdemo.com
-POL-EXT-0593,Accident,Fire,2026-08-04,75000,Under Review,cust593@autoprotectdemo.com
-POL-EXT-0594,Theft,Total Loss,2026-08-22,28000,Under Review,cust594@autoprotectdemo.com
-POL-EXT-0595,Theft,Fire,2026-06-29,75000,Submitted,cust595@autoprotectdemo.com
-POL-EXT-0596,Theft,Fire,2026-05-16,45000,Approved,cust596@autoprotectdemo.com
-POL-EXT-0597,Theft,Collision,2026-10-07,120000,Approved,cust597@autoprotectdemo.com
-POL-EXT-0598,Accident,Fire,2026-10-15,75000,Under Review,cust598@autoprotectdemo.com
-POL-EXT-0599,Accident,Total Loss,2026-07-24,45000,Approved,cust599@autoprotectdemo.com
-POL-EXT-0600,Natural Disaster,Collision,2026-06-13,15000,Under Review,cust600@autoprotectdemo.com
-POL-EXT-0601,Theft,Flood,2026-09-16,75000,Under Review,cust601@autoprotectdemo.com
-POL-EXT-0602,Third-Party Liability,Fire,2026-06-10,45000,Approved,cust602@autoprotectdemo.com
-POL-EXT-0603,Glass Damage,Collision,2026-05-16,120000,Under Review,cust603@autoprotectdemo.com
-POL-EXT-0604,Accident,Flood,2026-08-22,28000,Submitted,cust604@autoprotectdemo.com
-POL-EXT-0605,Third-Party Liability,Windshield,2026-05-05,75000,Submitted,cust605@autoprotectdemo.com
-POL-EXT-0606,Theft,Windshield,2026-08-28,15000,Submitted,cust606@autoprotectdemo.com
-POL-EXT-0607,Theft,Collision,2026-07-30,15000,Approved,cust607@autoprotectdemo.com
-POL-EXT-0608,Accident,Bumper,2026-09-22,75000,Under Review,cust608@autoprotectdemo.com
-POL-EXT-0609,Third-Party Liability,Fire,2026-11-13,75000,Under Review,cust609@autoprotectdemo.com
-POL-EXT-0610,Theft,Collision,2026-06-28,120000,Settled,cust610@autoprotectdemo.com
-POL-EXT-0611,Theft,Total Loss,2026-10-05,120000,Submitted,cust611@autoprotectdemo.com
-POL-EXT-0612,Theft,Bumper,2026-08-29,120000,Settled,cust612@autoprotectdemo.com
-POL-EXT-0613,Glass Damage,Bumper,2026-09-22,180000,Rejected,cust613@autoprotectdemo.com
-POL-EXT-0614,Glass Damage,Flood,2026-07-25,45000,Submitted,cust614@autoprotectdemo.com
-POL-EXT-0615,Third-Party Liability,Collision,2026-07-19,28000,Under Review,cust615@autoprotectdemo.com
-POL-EXT-0616,Theft,Bumper,2026-05-10,120000,Settled,cust616@autoprotectdemo.com
-POL-EXT-0617,Theft,Bumper,2026-09-29,120000,Rejected,cust617@autoprotectdemo.com
-POL-EXT-0618,Third-Party Liability,Total Loss,2026-10-20,75000,Settled,cust618@autoprotectdemo.com
-POL-EXT-0619,Accident,Fire,2026-05-20,120000,Approved,cust619@autoprotectdemo.com
-POL-EXT-0620,Natural Disaster,Fire,2026-06-14,28000,Approved,cust620@autoprotectdemo.com
-POL-EXT-0621,Glass Damage,Windshield,2026-07-29,28000,Approved,cust621@autoprotectdemo.com
-POL-EXT-0622,Accident,Flood,2026-08-28,75000,Rejected,cust622@autoprotectdemo.com
-POL-EXT-0623,Theft,Flood,2026-07-29,180000,Submitted,cust623@autoprotectdemo.com
-POL-EXT-0624,Glass Damage,Windshield,2026-10-24,45000,Submitted,cust624@autoprotectdemo.com
-POL-EXT-0625,Glass Damage,Windshield,2026-06-07,75000,Under Review,cust625@autoprotectdemo.com
-POL-EXT-0626,Theft,Flood,2026-10-02,28000,Submitted,cust626@autoprotectdemo.com
-POL-EXT-0627,Natural Disaster,Flood,2026-08-12,120000,Rejected,cust627@autoprotectdemo.com
-POL-EXT-0628,Accident,Windshield,2026-05-24,75000,Under Review,cust628@autoprotectdemo.com
-POL-EXT-0629,Theft,Total Loss,2026-05-01,15000,Approved,cust629@autoprotectdemo.com
-POL-EXT-0630,Natural Disaster,Fire,2026-05-12,28000,Submitted,cust630@autoprotectdemo.com
-POL-EXT-0631,Glass Damage,Collision,2026-06-06,120000,Under Review,cust631@autoprotectdemo.com
-POL-EXT-0632,Natural Disaster,Bumper,2026-11-16,120000,Approved,cust632@autoprotectdemo.com
-POL-EXT-0633,Theft,Fire,2026-06-22,180000,Rejected,cust633@autoprotectdemo.com
-POL-EXT-0634,Glass Damage,Fire,2026-08-25,180000,Approved,cust634@autoprotectdemo.com
-POL-EXT-0635,Third-Party Liability,Bumper,2026-08-11,28000,Under Review,cust635@autoprotectdemo.com
-POL-EXT-0636,Accident,Flood,2026-06-06,45000,Approved,cust636@autoprotectdemo.com
-POL-EXT-0637,Third-Party Liability,Flood,2026-09-14,120000,Under Review,cust637@autoprotectdemo.com
-POL-EXT-0638,Third-Party Liability,Fire,2026-07-01,15000,Rejected,cust638@autoprotectdemo.com
-POL-EXT-0639,Glass Damage,Total Loss,2026-07-14,120000,Settled,cust639@autoprotectdemo.com
-POL-EXT-0640,Theft,Flood,2026-05-27,120000,Settled,cust640@autoprotectdemo.com
-POL-EXT-0641,Third-Party Liability,Flood,2026-10-24,45000,Under Review,cust641@autoprotectdemo.com
-POL-EXT-0642,Third-Party Liability,Collision,2026-07-28,180000,Settled,cust642@autoprotectdemo.com
-POL-EXT-0643,Glass Damage,Windshield,2026-05-30,180000,Rejected,cust643@autoprotectdemo.com
-POL-EXT-0644,Glass Damage,Fire,2026-11-04,15000,Rejected,cust644@autoprotectdemo.com
-POL-EXT-0645,Glass Damage,Windshield,2026-10-26,15000,Settled,cust645@autoprotectdemo.com
-POL-EXT-0646,Accident,Windshield,2026-06-24,15000,Under Review,cust646@autoprotectdemo.com
-POL-EXT-0647,Third-Party Liability,Windshield,2026-06-12,28000,Rejected,cust647@autoprotectdemo.com
-POL-EXT-0648,Theft,Bumper,2026-11-06,28000,Rejected,cust648@autoprotectdemo.com
-POL-EXT-0649,Theft,Windshield,2026-06-04,180000,Under Review,cust649@autoprotectdemo.com
-POL-EXT-0650,Theft,Windshield,2026-08-20,45000,Under Review,cust650@autoprotectdemo.com
-POL-EXT-0651,Accident,Collision,2026-10-10,45000,Submitted,cust651@autoprotectdemo.com
-POL-EXT-0652,Natural Disaster,Collision,2026-08-11,15000,Submitted,cust652@autoprotectdemo.com
-POL-EXT-0653,Natural Disaster,Fire,2026-10-26,15000,Approved,cust653@autoprotectdemo.com
-POL-EXT-0654,Third-Party Liability,Windshield,2026-08-27,28000,Under Review,cust654@autoprotectdemo.com
-POL-EXT-0655,Natural Disaster,Windshield,2026-11-04,75000,Submitted,cust655@autoprotectdemo.com
-POL-EXT-0656,Natural Disaster,Windshield,2026-07-18,45000,Approved,cust656@autoprotectdemo.com
-POL-EXT-0657,Accident,Flood,2026-07-27,15000,Under Review,cust657@autoprotectdemo.com
-POL-EXT-0658,Natural Disaster,Total Loss,2026-08-16,45000,Approved,cust658@autoprotectdemo.com
-POL-EXT-0659,Theft,Total Loss,2026-10-26,15000,Submitted,cust659@autoprotectdemo.com
-POL-EXT-0660,Natural Disaster,Bumper,2026-06-09,28000,Settled,cust660@autoprotectdemo.com
-POL-EXT-0661,Glass Damage,Fire,2026-09-23,120000,Rejected,cust661@autoprotectdemo.com
-POL-EXT-0662,Accident,Windshield,2026-07-21,75000,Approved,cust662@autoprotectdemo.com
-POL-EXT-0663,Third-Party Liability,Bumper,2026-09-21,75000,Under Review,cust663@autoprotectdemo.com
-POL-EXT-0664,Glass Damage,Bumper,2026-10-21,28000,Submitted,cust664@autoprotectdemo.com
-POL-EXT-0665,Third-Party Liability,Fire,2026-09-30,28000,Under Review,cust665@autoprotectdemo.com
-POL-EXT-0666,Glass Damage,Windshield,2026-07-14,28000,Settled,cust666@autoprotectdemo.com
-POL-EXT-0667,Natural Disaster,Total Loss,2026-05-25,45000,Rejected,cust667@autoprotectdemo.com
-POL-EXT-0668,Natural Disaster,Flood,2026-05-06,15000,Rejected,cust668@autoprotectdemo.com
-POL-EXT-0669,Theft,Total Loss,2026-05-22,28000,Approved,cust669@autoprotectdemo.com
-POL-EXT-0670,Third-Party Liability,Windshield,2026-07-28,120000,Under Review,cust670@autoprotectdemo.com
-POL-EXT-0671,Accident,Flood,2026-11-09,75000,Under Review,cust671@autoprotectdemo.com
-POL-EXT-0672,Third-Party Liability,Flood,2026-07-02,15000,Settled,cust672@autoprotectdemo.com
-POL-EXT-0673,Third-Party Liability,Flood,2026-09-21,45000,Rejected,cust673@autoprotectdemo.com
-POL-EXT-0674,Natural Disaster,Windshield,2026-07-17,75000,Rejected,cust674@autoprotectdemo.com
-POL-EXT-0675,Theft,Collision,2026-10-27,28000,Under Review,cust675@autoprotectdemo.com
-POL-EXT-0676,Theft,Bumper,2026-11-02,15000,Approved,cust676@autoprotectdemo.com
-POL-EXT-0677,Third-Party Liability,Windshield,2026-10-28,45000,Under Review,cust677@autoprotectdemo.com
-POL-EXT-0678,Glass Damage,Windshield,2026-07-11,15000,Approved,cust678@autoprotectdemo.com
-POL-EXT-0679,Third-Party Liability,Windshield,2026-06-21,120000,Approved,cust679@autoprotectdemo.com
-POL-EXT-0680,Third-Party Liability,Total Loss,2026-08-18,120000,Approved,cust680@autoprotectdemo.com
-POL-EXT-0681,Theft,Collision,2026-06-04,120000,Submitted,cust681@autoprotectdemo.com
-POL-EXT-0682,Glass Damage,Flood,2026-10-27,180000,Submitted,cust682@autoprotectdemo.com
-POL-EXT-0683,Accident,Bumper,2026-07-17,180000,Submitted,cust683@autoprotectdemo.com
-POL-EXT-0684,Glass Damage,Fire,2026-09-21,15000,Submitted,cust684@autoprotectdemo.com
-POL-EXT-0685,Natural Disaster,Bumper,2026-09-28,120000,Under Review,cust685@autoprotectdemo.com
-POL-EXT-0686,Theft,Windshield,2026-11-03,180000,Submitted,cust686@autoprotectdemo.com
-POL-EXT-0687,Third-Party Liability,Windshield,2026-09-02,45000,Settled,cust687@autoprotectdemo.com
-POL-EXT-0688,Third-Party Liability,Flood,2026-06-10,180000,Under Review,cust688@autoprotectdemo.com
-POL-EXT-0689,Theft,Collision,2026-10-06,45000,Rejected,cust689@autoprotectdemo.com
-POL-EXT-0690,Third-Party Liability,Flood,2026-10-08,180000,Submitted,cust690@autoprotectdemo.com
-POL-EXT-0691,Natural Disaster,Windshield,2026-06-17,180000,Submitted,cust691@autoprotectdemo.com
-POL-EXT-0692,Accident,Bumper,2026-07-20,15000,Submitted,cust692@autoprotectdemo.com
-POL-EXT-0693,Theft,Bumper,2026-06-07,180000,Submitted,cust693@autoprotectdemo.com
-POL-EXT-0694,Theft,Windshield,2026-11-03,180000,Approved,cust694@autoprotectdemo.com
-POL-EXT-0695,Accident,Collision,2026-11-05,15000,Approved,cust695@autoprotectdemo.com
-POL-EXT-0696,Natural Disaster,Bumper,2026-05-08,15000,Rejected,cust696@autoprotectdemo.com
-POL-EXT-0697,Third-Party Liability,Bumper,2026-06-21,120000,Submitted,cust697@autoprotectdemo.com
-POL-EXT-0698,Glass Damage,Flood,2026-08-29,15000,Under Review,cust698@autoprotectdemo.com
-POL-EXT-0699,Third-Party Liability,Windshield,2026-05-30,180000,Under Review,cust699@autoprotectdemo.com
-POL-EXT-0700,Accident,Flood,2026-08-03,180000,Submitted,cust700@autoprotectdemo.com
+Policy__r.External_ID__c,Claim_Date__c,Claim_Amount__c,Claim_Type__c,Claim_Sub_Type__c,Status__c,Description__c
+POL-EXT-0201,2026-09-03,25000,Health,Hospitalization,Rejected,Verified incident report #201 submitted for adjudication.
+POL-EXT-0202,2026-08-27,95000,Theft,Vehicle Theft,Under Review,Verified incident report #202 submitted for adjudication.
+POL-EXT-0203,2026-07-08,40000,Theft,Vehicle Theft,Paid,Verified incident report #203 submitted for adjudication.
+POL-EXT-0204,2026-06-13,95000,Theft,Vehicle Theft,Under Review,Verified incident report #204 submitted for adjudication.
+POL-EXT-0205,2026-08-29,15000,Theft,Burglary / Contents,Pending,Verified incident report #205 submitted for adjudication.
+POL-EXT-0206,2026-08-23,25000,Health,Maternity,Approved,Verified incident report #206 submitted for adjudication.
+POL-EXT-0207,2026-10-01,65000,Theft,Burglary / Contents,Under Review,Verified incident report #207 submitted for adjudication.
+POL-EXT-0208,2026-08-30,40000,Accident,Third-Party Liability,Pending,Verified incident report #208 submitted for adjudication.
+POL-EXT-0209,2026-07-24,65000,Health,Hospitalization,Rejected,Verified incident report #209 submitted for adjudication.
+POL-EXT-0210,2026-08-31,65000,Theft,Vehicle Theft,Under Review,Verified incident report #210 submitted for adjudication.
+POL-EXT-0211,2026-10-07,15000,Health,Maternity,Pending,Verified incident report #211 submitted for adjudication.
+POL-EXT-0212,2026-08-30,40000,Theft,Vehicle Theft,Rejected,Verified incident report #212 submitted for adjudication.
+POL-EXT-0213,2026-09-21,65000,Accident,Minor Damage,Under Review,Verified incident report #213 submitted for adjudication.
+POL-EXT-0214,2026-06-17,65000,Theft,Vehicle Theft,Rejected,Verified incident report #214 submitted for adjudication.
+POL-EXT-0215,2026-06-26,15000,Health,Maternity,Pending,Verified incident report #215 submitted for adjudication.
+POL-EXT-0216,2026-08-03,95000,Accident,Total Loss,Under Review,Verified incident report #216 submitted for adjudication.
+POL-EXT-0217,2026-09-03,25000,Health,Maternity,Under Review,Verified incident report #217 submitted for adjudication.
+POL-EXT-0218,2026-08-19,15000,Accident,Total Loss,Paid,Verified incident report #218 submitted for adjudication.
+POL-EXT-0219,2026-10-25,25000,Theft,Burglary / Contents,Approved,Verified incident report #219 submitted for adjudication.
+POL-EXT-0220,2026-07-21,15000,Health,Daycare Surgery,Rejected,Verified incident report #220 submitted for adjudication.
+POL-EXT-0221,2026-10-08,25000,Health,Hospitalization,Approved,Verified incident report #221 submitted for adjudication.
+POL-EXT-0222,2026-11-09,25000,Health,Maternity,Pending,Verified incident report #222 submitted for adjudication.
+POL-EXT-0223,2026-08-05,65000,Accident,Total Loss,Rejected,Verified incident report #223 submitted for adjudication.
+POL-EXT-0224,2026-07-22,15000,Accident,Minor Damage,Rejected,Verified incident report #224 submitted for adjudication.
+POL-EXT-0225,2026-07-22,40000,Health,Hospitalization,Rejected,Verified incident report #225 submitted for adjudication.
+POL-EXT-0226,2026-10-21,95000,Accident,Total Loss,Paid,Verified incident report #226 submitted for adjudication.
+POL-EXT-0227,2026-06-21,65000,Theft,Burglary / Contents,Approved,Verified incident report #227 submitted for adjudication.
+POL-EXT-0228,2026-07-19,65000,Theft,Vehicle Theft,Paid,Verified incident report #228 submitted for adjudication.
+POL-EXT-0229,2026-06-30,15000,Accident,Third-Party Liability,Pending,Verified incident report #229 submitted for adjudication.
+POL-EXT-0230,2026-11-13,15000,Accident,Minor Damage,Paid,Verified incident report #230 submitted for adjudication.
+POL-EXT-0231,2026-06-01,65000,Theft,Vehicle Theft,Paid,Verified incident report #231 submitted for adjudication.
+POL-EXT-0232,2026-06-26,25000,Accident,Third-Party Liability,Approved,Verified incident report #232 submitted for adjudication.
+POL-EXT-0233,2026-07-26,25000,Accident,Total Loss,Rejected,Verified incident report #233 submitted for adjudication.
+POL-EXT-0234,2026-10-11,95000,Accident,Total Loss,Approved,Verified incident report #234 submitted for adjudication.
+POL-EXT-0235,2026-06-23,65000,Health,Daycare Surgery,Paid,Verified incident report #235 submitted for adjudication.
+POL-EXT-0236,2026-09-06,25000,Accident,Total Loss,Rejected,Verified incident report #236 submitted for adjudication.
+POL-EXT-0237,2026-07-16,25000,Theft,Vehicle Theft,Approved,Verified incident report #237 submitted for adjudication.
+POL-EXT-0238,2026-06-15,15000,Accident,Minor Damage,Under Review,Verified incident report #238 submitted for adjudication.
+POL-EXT-0239,2026-06-26,65000,Accident,Total Loss,Paid,Verified incident report #239 submitted for adjudication.
+POL-EXT-0240,2026-11-01,15000,Accident,Third-Party Liability,Paid,Verified incident report #240 submitted for adjudication.
+POL-EXT-0241,2026-06-20,65000,Accident,Minor Damage,Approved,Verified incident report #241 submitted for adjudication.
+POL-EXT-0242,2026-11-16,25000,Health,Maternity,Pending,Verified incident report #242 submitted for adjudication.
+POL-EXT-0243,2026-11-11,65000,Health,Daycare Surgery,Approved,Verified incident report #243 submitted for adjudication.
+POL-EXT-0244,2026-10-20,25000,Theft,Vehicle Theft,Under Review,Verified incident report #244 submitted for adjudication.
+POL-EXT-0245,2026-06-06,25000,Theft,Burglary / Contents,Paid,Verified incident report #245 submitted for adjudication.
+POL-EXT-0246,2026-11-07,95000,Theft,Burglary / Contents,Rejected,Verified incident report #246 submitted for adjudication.
+POL-EXT-0247,2026-07-15,15000,Theft,Vehicle Theft,Approved,Verified incident report #247 submitted for adjudication.
+POL-EXT-0248,2026-08-16,95000,Theft,Burglary / Contents,Rejected,Verified incident report #248 submitted for adjudication.
+POL-EXT-0249,2026-10-28,65000,Theft,Burglary / Contents,Paid,Verified incident report #249 submitted for adjudication.
+POL-EXT-0250,2026-09-16,95000,Health,Hospitalization,Rejected,Verified incident report #250 submitted for adjudication.
+POL-EXT-0251,2026-08-02,15000,Health,Maternity,Approved,Verified incident report #251 submitted for adjudication.
+POL-EXT-0252,2026-10-19,40000,Health,Daycare Surgery,Approved,Verified incident report #252 submitted for adjudication.
+POL-EXT-0253,2026-10-21,15000,Accident,Minor Damage,Approved,Verified incident report #253 submitted for adjudication.
+POL-EXT-0254,2026-06-03,95000,Theft,Burglary / Contents,Pending,Verified incident report #254 submitted for adjudication.
+POL-EXT-0255,2026-06-06,65000,Accident,Total Loss,Rejected,Verified incident report #255 submitted for adjudication.
+POL-EXT-0256,2026-11-01,25000,Health,Hospitalization,Paid,Verified incident report #256 submitted for adjudication.
+POL-EXT-0257,2026-07-29,25000,Health,Daycare Surgery,Pending,Verified incident report #257 submitted for adjudication.
+POL-EXT-0258,2026-10-25,40000,Theft,Burglary / Contents,Under Review,Verified incident report #258 submitted for adjudication.
+POL-EXT-0259,2026-06-05,40000,Health,Hospitalization,Under Review,Verified incident report #259 submitted for adjudication.
+POL-EXT-0260,2026-08-22,95000,Theft,Vehicle Theft,Approved,Verified incident report #260 submitted for adjudication.
+POL-EXT-0261,2026-10-17,95000,Theft,Burglary / Contents,Approved,Verified incident report #261 submitted for adjudication.
+POL-EXT-0262,2026-09-01,65000,Theft,Vehicle Theft,Approved,Verified incident report #262 submitted for adjudication.
+POL-EXT-0263,2026-08-13,65000,Accident,Minor Damage,Approved,Verified incident report #263 submitted for adjudication.
+POL-EXT-0264,2026-10-21,25000,Health,Daycare Surgery,Under Review,Verified incident report #264 submitted for adjudication.
+POL-EXT-0265,2026-11-19,95000,Theft,Vehicle Theft,Rejected,Verified incident report #265 submitted for adjudication.
+POL-EXT-0266,2026-09-24,15000,Accident,Third-Party Liability,Under Review,Verified incident report #266 submitted for adjudication.
+POL-EXT-0267,2026-07-28,95000,Accident,Minor Damage,Rejected,Verified incident report #267 submitted for adjudication.
+POL-EXT-0268,2026-06-09,25000,Accident,Total Loss,Rejected,Verified incident report #268 submitted for adjudication.
+POL-EXT-0269,2026-06-11,25000,Accident,Minor Damage,Rejected,Verified incident report #269 submitted for adjudication.
+POL-EXT-0270,2026-09-22,95000,Theft,Vehicle Theft,Paid,Verified incident report #270 submitted for adjudication.
+POL-EXT-0271,2026-10-06,25000,Health,Maternity,Rejected,Verified incident report #271 submitted for adjudication.
+POL-EXT-0272,2026-08-24,25000,Theft,Vehicle Theft,Approved,Verified incident report #272 submitted for adjudication.
+POL-EXT-0273,2026-07-25,40000,Theft,Vehicle Theft,Paid,Verified incident report #273 submitted for adjudication.
+POL-EXT-0274,2026-10-19,25000,Theft,Vehicle Theft,Rejected,Verified incident report #274 submitted for adjudication.
+POL-EXT-0275,2026-08-10,15000,Health,Hospitalization,Approved,Verified incident report #275 submitted for adjudication.
+POL-EXT-0276,2026-06-09,15000,Theft,Burglary / Contents,Rejected,Verified incident report #276 submitted for adjudication.
+POL-EXT-0277,2026-11-14,95000,Theft,Burglary / Contents,Pending,Verified incident report #277 submitted for adjudication.
+POL-EXT-0278,2026-09-26,25000,Theft,Burglary / Contents,Pending,Verified incident report #278 submitted for adjudication.
+POL-EXT-0279,2026-08-23,40000,Health,Hospitalization,Approved,Verified incident report #279 submitted for adjudication.
+POL-EXT-0280,2026-08-02,65000,Theft,Burglary / Contents,Paid,Verified incident report #280 submitted for adjudication.
+POL-EXT-0281,2026-10-01,65000,Accident,Minor Damage,Under Review,Verified incident report #281 submitted for adjudication.
+POL-EXT-0282,2026-09-06,40000,Accident,Minor Damage,Under Review,Verified incident report #282 submitted for adjudication.
+POL-EXT-0283,2026-08-21,95000,Health,Daycare Surgery,Rejected,Verified incident report #283 submitted for adjudication.
+POL-EXT-0284,2026-11-11,40000,Health,Hospitalization,Rejected,Verified incident report #284 submitted for adjudication.
+POL-EXT-0285,2026-06-09,15000,Theft,Burglary / Contents,Under Review,Verified incident report #285 submitted for adjudication.
+POL-EXT-0286,2026-07-29,95000,Theft,Vehicle Theft,Approved,Verified incident report #286 submitted for adjudication.
+POL-EXT-0287,2026-07-14,15000,Health,Daycare Surgery,Approved,Verified incident report #287 submitted for adjudication.
+POL-EXT-0288,2026-07-19,25000,Theft,Vehicle Theft,Rejected,Verified incident report #288 submitted for adjudication.
+POL-EXT-0289,2026-07-20,40000,Health,Daycare Surgery,Paid,Verified incident report #289 submitted for adjudication.
+POL-EXT-0290,2026-11-21,65000,Accident,Third-Party Liability,Pending,Verified incident report #290 submitted for adjudication.
+POL-EXT-0291,2026-08-30,65000,Health,Hospitalization,Pending,Verified incident report #291 submitted for adjudication.
+POL-EXT-0292,2026-10-05,65000,Theft,Burglary / Contents,Approved,Verified incident report #292 submitted for adjudication.
+POL-EXT-0293,2026-07-24,65000,Health,Maternity,Approved,Verified incident report #293 submitted for adjudication.
+POL-EXT-0294,2026-10-04,95000,Theft,Vehicle Theft,Pending,Verified incident report #294 submitted for adjudication.
+POL-EXT-0295,2026-09-10,40000,Theft,Vehicle Theft,Paid,Verified incident report #295 submitted for adjudication.
+POL-EXT-0296,2026-08-16,25000,Health,Daycare Surgery,Paid,Verified incident report #296 submitted for adjudication.
+POL-EXT-0297,2026-11-02,65000,Health,Daycare Surgery,Pending,Verified incident report #297 submitted for adjudication.
+POL-EXT-0298,2026-07-29,15000,Theft,Vehicle Theft,Under Review,Verified incident report #298 submitted for adjudication.
+POL-EXT-0299,2026-06-17,40000,Theft,Vehicle Theft,Rejected,Verified incident report #299 submitted for adjudication.
+POL-EXT-0300,2026-06-26,95000,Health,Hospitalization,Paid,Verified incident report #300 submitted for adjudication.
+POL-EXT-0301,2026-08-27,15000,Health,Maternity,Rejected,Verified incident report #301 submitted for adjudication.
+POL-EXT-0302,2026-06-23,40000,Theft,Vehicle Theft,Approved,Verified incident report #302 submitted for adjudication.
+POL-EXT-0303,2026-11-13,15000,Theft,Burglary / Contents,Paid,Verified incident report #303 submitted for adjudication.
+POL-EXT-0304,2026-06-04,40000,Theft,Burglary / Contents,Rejected,Verified incident report #304 submitted for adjudication.
+POL-EXT-0305,2026-08-21,40000,Accident,Third-Party Liability,Paid,Verified incident report #305 submitted for adjudication.
+POL-EXT-0306,2026-10-12,25000,Theft,Vehicle Theft,Approved,Verified incident report #306 submitted for adjudication.
+POL-EXT-0307,2026-06-13,25000,Accident,Total Loss,Paid,Verified incident report #307 submitted for adjudication.
+POL-EXT-0308,2026-06-08,15000,Theft,Vehicle Theft,Under Review,Verified incident report #308 submitted for adjudication.
+POL-EXT-0309,2026-07-08,25000,Accident,Third-Party Liability,Pending,Verified incident report #309 submitted for adjudication.
+POL-EXT-0310,2026-11-17,65000,Theft,Vehicle Theft,Approved,Verified incident report #310 submitted for adjudication.
+POL-EXT-0311,2026-06-15,40000,Theft,Burglary / Contents,Approved,Verified incident report #311 submitted for adjudication.
+POL-EXT-0312,2026-09-07,15000,Health,Maternity,Pending,Verified incident report #312 submitted for adjudication.
+POL-EXT-0313,2026-10-22,25000,Health,Daycare Surgery,Approved,Verified incident report #313 submitted for adjudication.
+POL-EXT-0314,2026-11-17,95000,Health,Hospitalization,Paid,Verified incident report #314 submitted for adjudication.
+POL-EXT-0315,2026-07-30,25000,Theft,Burglary / Contents,Paid,Verified incident report #315 submitted for adjudication.
+POL-EXT-0316,2026-08-06,15000,Health,Hospitalization,Approved,Verified incident report #316 submitted for adjudication.
+POL-EXT-0317,2026-07-05,15000,Accident,Third-Party Liability,Approved,Verified incident report #317 submitted for adjudication.
+POL-EXT-0318,2026-09-12,95000,Accident,Total Loss,Rejected,Verified incident report #318 submitted for adjudication.
+POL-EXT-0319,2026-10-07,15000,Health,Hospitalization,Paid,Verified incident report #319 submitted for adjudication.
+POL-EXT-0320,2026-07-13,95000,Theft,Vehicle Theft,Rejected,Verified incident report #320 submitted for adjudication.
+POL-EXT-0321,2026-07-16,40000,Health,Maternity,Under Review,Verified incident report #321 submitted for adjudication.
+POL-EXT-0322,2026-07-05,95000,Accident,Minor Damage,Pending,Verified incident report #322 submitted for adjudication.
+POL-EXT-0323,2026-10-28,40000,Theft,Vehicle Theft,Approved,Verified incident report #323 submitted for adjudication.
+POL-EXT-0324,2026-07-05,40000,Accident,Total Loss,Rejected,Verified incident report #324 submitted for adjudication.
+POL-EXT-0325,2026-11-03,15000,Accident,Minor Damage,Approved,Verified incident report #325 submitted for adjudication.
+POL-EXT-0326,2026-09-19,25000,Accident,Minor Damage,Under Review,Verified incident report #326 submitted for adjudication.
+POL-EXT-0327,2026-09-27,25000,Accident,Total Loss,Paid,Verified incident report #327 submitted for adjudication.
+POL-EXT-0328,2026-07-21,95000,Health,Hospitalization,Under Review,Verified incident report #328 submitted for adjudication.
+POL-EXT-0329,2026-07-11,15000,Health,Maternity,Paid,Verified incident report #329 submitted for adjudication.
+POL-EXT-0330,2026-10-11,40000,Accident,Minor Damage,Paid,Verified incident report #330 submitted for adjudication.
+POL-EXT-0331,2026-08-29,65000,Accident,Minor Damage,Under Review,Verified incident report #331 submitted for adjudication.
+POL-EXT-0332,2026-10-03,95000,Theft,Burglary / Contents,Approved,Verified incident report #332 submitted for adjudication.
+POL-EXT-0333,2026-10-24,95000,Accident,Third-Party Liability,Approved,Verified incident report #333 submitted for adjudication.
+POL-EXT-0334,2026-09-11,15000,Theft,Vehicle Theft,Under Review,Verified incident report #334 submitted for adjudication.
+POL-EXT-0335,2026-11-16,15000,Health,Maternity,Approved,Verified incident report #335 submitted for adjudication.
+POL-EXT-0336,2026-08-31,25000,Accident,Third-Party Liability,Approved,Verified incident report #336 submitted for adjudication.
+POL-EXT-0337,2026-08-28,40000,Theft,Burglary / Contents,Rejected,Verified incident report #337 submitted for adjudication.
+POL-EXT-0338,2026-10-10,25000,Health,Daycare Surgery,Under Review,Verified incident report #338 submitted for adjudication.
+POL-EXT-0339,2026-08-05,15000,Health,Daycare Surgery,Rejected,Verified incident report #339 submitted for adjudication.
+POL-EXT-0340,2026-07-31,40000,Accident,Third-Party Liability,Pending,Verified incident report #340 submitted for adjudication.
+POL-EXT-0341,2026-09-21,95000,Accident,Minor Damage,Pending,Verified incident report #341 submitted for adjudication.
+POL-EXT-0342,2026-10-11,65000,Accident,Total Loss,Paid,Verified incident report #342 submitted for adjudication.
+POL-EXT-0343,2026-06-17,40000,Theft,Burglary / Contents,Paid,Verified incident report #343 submitted for adjudication.
+POL-EXT-0344,2026-10-17,95000,Health,Hospitalization,Pending,Verified incident report #344 submitted for adjudication.
+POL-EXT-0345,2026-08-28,15000,Theft,Burglary / Contents,Pending,Verified incident report #345 submitted for adjudication.
+POL-EXT-0346,2026-06-11,40000,Accident,Total Loss,Paid,Verified incident report #346 submitted for adjudication.
+POL-EXT-0347,2026-11-19,25000,Accident,Minor Damage,Rejected,Verified incident report #347 submitted for adjudication.
+POL-EXT-0348,2026-08-03,40000,Health,Daycare Surgery,Pending,Verified incident report #348 submitted for adjudication.
+POL-EXT-0349,2026-10-05,40000,Theft,Burglary / Contents,Pending,Verified incident report #349 submitted for adjudication.
+POL-EXT-0350,2026-08-29,15000,Health,Maternity,Approved,Verified incident report #350 submitted for adjudication.
+POL-EXT-0351,2026-09-24,95000,Theft,Burglary / Contents,Pending,Verified incident report #351 submitted for adjudication.
+POL-EXT-0352,2026-11-04,95000,Accident,Minor Damage,Under Review,Verified incident report #352 submitted for adjudication.
+POL-EXT-0353,2026-08-19,65000,Accident,Total Loss,Approved,Verified incident report #353 submitted for adjudication.
+POL-EXT-0354,2026-11-19,95000,Health,Maternity,Rejected,Verified incident report #354 submitted for adjudication.
+POL-EXT-0355,2026-07-10,15000,Accident,Total Loss,Approved,Verified incident report #355 submitted for adjudication.
+POL-EXT-0356,2026-08-13,95000,Theft,Vehicle Theft,Paid,Verified incident report #356 submitted for adjudication.
+POL-EXT-0357,2026-06-18,65000,Theft,Vehicle Theft,Rejected,Verified incident report #357 submitted for adjudication.
+POL-EXT-0358,2026-07-23,15000,Theft,Vehicle Theft,Pending,Verified incident report #358 submitted for adjudication.
+POL-EXT-0359,2026-08-05,40000,Accident,Third-Party Liability,Approved,Verified incident report #359 submitted for adjudication.
+POL-EXT-0360,2026-10-18,15000,Accident,Third-Party Liability,Rejected,Verified incident report #360 submitted for adjudication.
+POL-EXT-0361,2026-06-11,95000,Theft,Vehicle Theft,Pending,Verified incident report #361 submitted for adjudication.
+POL-EXT-0362,2026-08-04,15000,Health,Hospitalization,Under Review,Verified incident report #362 submitted for adjudication.
+POL-EXT-0363,2026-08-06,25000,Accident,Total Loss,Pending,Verified incident report #363 submitted for adjudication.
+POL-EXT-0364,2026-07-11,65000,Health,Daycare Surgery,Paid,Verified incident report #364 submitted for adjudication.
+POL-EXT-0365,2026-09-28,65000,Health,Hospitalization,Rejected,Verified incident report #365 submitted for adjudication.
+POL-EXT-0366,2026-11-04,65000,Theft,Burglary / Contents,Approved,Verified incident report #366 submitted for adjudication.
+POL-EXT-0367,2026-10-31,95000,Accident,Third-Party Liability,Paid,Verified incident report #367 submitted for adjudication.
+POL-EXT-0368,2026-08-30,95000,Theft,Vehicle Theft,Pending,Verified incident report #368 submitted for adjudication.
+POL-EXT-0369,2026-10-04,25000,Accident,Third-Party Liability,Paid,Verified incident report #369 submitted for adjudication.
+POL-EXT-0370,2026-09-16,15000,Accident,Total Loss,Under Review,Verified incident report #370 submitted for adjudication.
+POL-EXT-0371,2026-07-16,65000,Theft,Vehicle Theft,Paid,Verified incident report #371 submitted for adjudication.
+POL-EXT-0372,2026-07-03,95000,Health,Hospitalization,Paid,Verified incident report #372 submitted for adjudication.
+POL-EXT-0373,2026-11-14,40000,Health,Maternity,Paid,Verified incident report #373 submitted for adjudication.
+POL-EXT-0374,2026-06-28,25000,Theft,Burglary / Contents,Under Review,Verified incident report #374 submitted for adjudication.
+POL-EXT-0375,2026-10-15,65000,Theft,Burglary / Contents,Under Review,Verified incident report #375 submitted for adjudication.
+POL-EXT-0376,2026-10-15,40000,Health,Hospitalization,Pending,Verified incident report #376 submitted for adjudication.
+POL-EXT-0377,2026-11-12,40000,Accident,Minor Damage,Under Review,Verified incident report #377 submitted for adjudication.
+POL-EXT-0378,2026-11-18,15000,Theft,Burglary / Contents,Under Review,Verified incident report #378 submitted for adjudication.
+POL-EXT-0379,2026-08-25,65000,Health,Maternity,Pending,Verified incident report #379 submitted for adjudication.
+POL-EXT-0380,2026-08-21,15000,Theft,Burglary / Contents,Paid,Verified incident report #380 submitted for adjudication.
+POL-EXT-0381,2026-10-19,25000,Accident,Minor Damage,Pending,Verified incident report #381 submitted for adjudication.
+POL-EXT-0382,2026-07-26,25000,Theft,Burglary / Contents,Paid,Verified incident report #382 submitted for adjudication.
+POL-EXT-0383,2026-10-25,65000,Theft,Vehicle Theft,Under Review,Verified incident report #383 submitted for adjudication.
+POL-EXT-0384,2026-08-29,95000,Health,Maternity,Pending,Verified incident report #384 submitted for adjudication.
+POL-EXT-0385,2026-09-19,65000,Accident,Third-Party Liability,Paid,Verified incident report #385 submitted for adjudication.
+POL-EXT-0386,2026-06-25,15000,Accident,Minor Damage,Under Review,Verified incident report #386 submitted for adjudication.
+POL-EXT-0387,2026-08-08,25000,Theft,Burglary / Contents,Approved,Verified incident report #387 submitted for adjudication.
+POL-EXT-0388,2026-08-21,15000,Theft,Burglary / Contents,Paid,Verified incident report #388 submitted for adjudication.
+POL-EXT-0389,2026-10-08,15000,Accident,Total Loss,Approved,Verified incident report #389 submitted for adjudication.
+POL-EXT-0390,2026-06-20,25000,Accident,Third-Party Liability,Approved,Verified incident report #390 submitted for adjudication.
+POL-EXT-0391,2026-06-16,95000,Health,Daycare Surgery,Paid,Verified incident report #391 submitted for adjudication.
+POL-EXT-0392,2026-06-08,40000,Accident,Third-Party Liability,Rejected,Verified incident report #392 submitted for adjudication.
+POL-EXT-0393,2026-09-18,65000,Accident,Minor Damage,Paid,Verified incident report #393 submitted for adjudication.
+POL-EXT-0394,2026-10-26,40000,Accident,Third-Party Liability,Paid,Verified incident report #394 submitted for adjudication.
+POL-EXT-0395,2026-07-09,65000,Health,Daycare Surgery,Rejected,Verified incident report #395 submitted for adjudication.
+POL-EXT-0396,2026-11-07,65000,Theft,Burglary / Contents,Pending,Verified incident report #396 submitted for adjudication.
+POL-EXT-0397,2026-07-17,95000,Accident,Total Loss,Under Review,Verified incident report #397 submitted for adjudication.
+POL-EXT-0398,2026-10-06,25000,Theft,Vehicle Theft,Rejected,Verified incident report #398 submitted for adjudication.
+POL-EXT-0399,2026-08-01,25000,Accident,Third-Party Liability,Approved,Verified incident report #399 submitted for adjudication.
+POL-EXT-0400,2026-11-21,15000,Health,Daycare Surgery,Paid,Verified incident report #400 submitted for adjudication.
+POL-EXT-0401,2026-11-20,95000,Theft,Vehicle Theft,Under Review,Verified incident report #401 submitted for adjudication.
+POL-EXT-0402,2026-10-18,15000,Health,Maternity,Approved,Verified incident report #402 submitted for adjudication.
+POL-EXT-0403,2026-09-22,15000,Theft,Burglary / Contents,Pending,Verified incident report #403 submitted for adjudication.
+POL-EXT-0404,2026-08-29,65000,Theft,Burglary / Contents,Paid,Verified incident report #404 submitted for adjudication.
+POL-EXT-0405,2026-09-15,25000,Theft,Burglary / Contents,Under Review,Verified incident report #405 submitted for adjudication.
+POL-EXT-0406,2026-10-24,15000,Health,Daycare Surgery,Paid,Verified incident report #406 submitted for adjudication.
+POL-EXT-0407,2026-11-16,15000,Accident,Minor Damage,Paid,Verified incident report #407 submitted for adjudication.
+POL-EXT-0408,2026-08-04,15000,Health,Daycare Surgery,Under Review,Verified incident report #408 submitted for adjudication.
+POL-EXT-0409,2026-08-14,95000,Theft,Vehicle Theft,Rejected,Verified incident report #409 submitted for adjudication.
+POL-EXT-0410,2026-07-06,95000,Accident,Third-Party Liability,Rejected,Verified incident report #410 submitted for adjudication.
+POL-EXT-0411,2026-07-14,25000,Accident,Minor Damage,Paid,Verified incident report #411 submitted for adjudication.
+POL-EXT-0412,2026-10-16,65000,Theft,Vehicle Theft,Approved,Verified incident report #412 submitted for adjudication.
+POL-EXT-0413,2026-07-06,95000,Accident,Third-Party Liability,Under Review,Verified incident report #413 submitted for adjudication.
+POL-EXT-0414,2026-07-23,15000,Theft,Burglary / Contents,Paid,Verified incident report #414 submitted for adjudication.
+POL-EXT-0415,2026-07-12,65000,Theft,Burglary / Contents,Pending,Verified incident report #415 submitted for adjudication.
+POL-EXT-0416,2026-11-12,15000,Theft,Vehicle Theft,Paid,Verified incident report #416 submitted for adjudication.
+POL-EXT-0417,2026-08-20,25000,Accident,Third-Party Liability,Pending,Verified incident report #417 submitted for adjudication.
+POL-EXT-0418,2026-06-15,25000,Accident,Total Loss,Paid,Verified incident report #418 submitted for adjudication.
+POL-EXT-0419,2026-10-22,65000,Theft,Burglary / Contents,Under Review,Verified incident report #419 submitted for adjudication.
+POL-EXT-0420,2026-07-31,15000,Health,Maternity,Paid,Verified incident report #420 submitted for adjudication.
+POL-EXT-0421,2026-08-05,15000,Health,Hospitalization,Paid,Verified incident report #421 submitted for adjudication.
+POL-EXT-0422,2026-08-20,25000,Theft,Vehicle Theft,Under Review,Verified incident report #422 submitted for adjudication.
+POL-EXT-0423,2026-11-05,25000,Accident,Minor Damage,Paid,Verified incident report #423 submitted for adjudication.
+POL-EXT-0424,2026-07-22,95000,Accident,Third-Party Liability,Under Review,Verified incident report #424 submitted for adjudication.
+POL-EXT-0425,2026-07-16,40000,Theft,Vehicle Theft,Paid,Verified incident report #425 submitted for adjudication.
+POL-EXT-0426,2026-10-27,95000,Theft,Vehicle Theft,Rejected,Verified incident report #426 submitted for adjudication.
+POL-EXT-0427,2026-10-24,15000,Health,Daycare Surgery,Rejected,Verified incident report #427 submitted for adjudication.
+POL-EXT-0428,2026-10-09,95000,Health,Daycare Surgery,Paid,Verified incident report #428 submitted for adjudication.
+POL-EXT-0429,2026-07-30,25000,Theft,Vehicle Theft,Rejected,Verified incident report #429 submitted for adjudication.
+POL-EXT-0430,2026-09-10,25000,Theft,Burglary / Contents,Approved,Verified incident report #430 submitted for adjudication.
+POL-EXT-0431,2026-08-07,15000,Theft,Vehicle Theft,Approved,Verified incident report #431 submitted for adjudication.
+POL-EXT-0432,2026-08-11,95000,Health,Hospitalization,Pending,Verified incident report #432 submitted for adjudication.
+POL-EXT-0433,2026-11-16,15000,Health,Daycare Surgery,Under Review,Verified incident report #433 submitted for adjudication.
+POL-EXT-0434,2026-08-05,95000,Theft,Vehicle Theft,Pending,Verified incident report #434 submitted for adjudication.
+POL-EXT-0435,2026-09-15,40000,Accident,Minor Damage,Approved,Verified incident report #435 submitted for adjudication.
+POL-EXT-0436,2026-09-22,40000,Theft,Burglary / Contents,Under Review,Verified incident report #436 submitted for adjudication.
+POL-EXT-0437,2026-06-19,25000,Accident,Minor Damage,Pending,Verified incident report #437 submitted for adjudication.
+POL-EXT-0438,2026-10-27,40000,Theft,Vehicle Theft,Approved,Verified incident report #438 submitted for adjudication.
+POL-EXT-0439,2026-08-01,95000,Health,Daycare Surgery,Rejected,Verified incident report #439 submitted for adjudication.
+POL-EXT-0440,2026-08-26,65000,Theft,Vehicle Theft,Rejected,Verified incident report #440 submitted for adjudication.
+POL-EXT-0441,2026-06-25,25000,Accident,Total Loss,Approved,Verified incident report #441 submitted for adjudication.
+POL-EXT-0442,2026-09-10,65000,Accident,Minor Damage,Pending,Verified incident report #442 submitted for adjudication.
+POL-EXT-0443,2026-11-09,65000,Health,Hospitalization,Approved,Verified incident report #443 submitted for adjudication.
+POL-EXT-0444,2026-10-29,40000,Accident,Minor Damage,Pending,Verified incident report #444 submitted for adjudication.
+POL-EXT-0445,2026-10-09,95000,Accident,Total Loss,Rejected,Verified incident report #445 submitted for adjudication.
+POL-EXT-0446,2026-09-07,25000,Health,Hospitalization,Rejected,Verified incident report #446 submitted for adjudication.
+POL-EXT-0447,2026-08-23,25000,Accident,Minor Damage,Rejected,Verified incident report #447 submitted for adjudication.
+POL-EXT-0448,2026-06-07,25000,Theft,Vehicle Theft,Paid,Verified incident report #448 submitted for adjudication.
+POL-EXT-0449,2026-06-01,40000,Theft,Burglary / Contents,Rejected,Verified incident report #449 submitted for adjudication.
+POL-EXT-0450,2026-06-14,95000,Theft,Burglary / Contents,Rejected,Verified incident report #450 submitted for adjudication.
+POL-EXT-0451,2026-07-07,95000,Accident,Minor Damage,Under Review,Verified incident report #451 submitted for adjudication.
+POL-EXT-0452,2026-06-30,25000,Health,Daycare Surgery,Approved,Verified incident report #452 submitted for adjudication.
+POL-EXT-0453,2026-08-16,95000,Accident,Minor Damage,Rejected,Verified incident report #453 submitted for adjudication.
+POL-EXT-0454,2026-08-02,15000,Accident,Total Loss,Paid,Verified incident report #454 submitted for adjudication.
+POL-EXT-0455,2026-08-02,95000,Accident,Third-Party Liability,Pending,Verified incident report #455 submitted for adjudication.
+POL-EXT-0456,2026-07-23,65000,Health,Maternity,Under Review,Verified incident report #456 submitted for adjudication.
+POL-EXT-0457,2026-11-18,15000,Accident,Total Loss,Rejected,Verified incident report #457 submitted for adjudication.
+POL-EXT-0458,2026-10-13,95000,Theft,Vehicle Theft,Pending,Verified incident report #458 submitted for adjudication.
+POL-EXT-0459,2026-06-12,25000,Theft,Vehicle Theft,Approved,Verified incident report #459 submitted for adjudication.
+POL-EXT-0460,2026-07-24,25000,Theft,Vehicle Theft,Under Review,Verified incident report #460 submitted for adjudication.
+POL-EXT-0461,2026-10-15,65000,Accident,Total Loss,Approved,Verified incident report #461 submitted for adjudication.
+POL-EXT-0462,2026-07-02,15000,Theft,Vehicle Theft,Approved,Verified incident report #462 submitted for adjudication.
+POL-EXT-0463,2026-07-17,40000,Accident,Third-Party Liability,Pending,Verified incident report #463 submitted for adjudication.
+POL-EXT-0464,2026-10-26,95000,Theft,Vehicle Theft,Under Review,Verified incident report #464 submitted for adjudication.
+POL-EXT-0465,2026-08-20,40000,Accident,Total Loss,Pending,Verified incident report #465 submitted for adjudication.
+POL-EXT-0466,2026-08-12,95000,Theft,Burglary / Contents,Paid,Verified incident report #466 submitted for adjudication.
+POL-EXT-0467,2026-08-26,65000,Health,Maternity,Pending,Verified incident report #467 submitted for adjudication.
+POL-EXT-0468,2026-11-16,15000,Theft,Burglary / Contents,Under Review,Verified incident report #468 submitted for adjudication.
+POL-EXT-0469,2026-08-13,15000,Health,Hospitalization,Pending,Verified incident report #469 submitted for adjudication.
+POL-EXT-0470,2026-07-27,15000,Health,Daycare Surgery,Pending,Verified incident report #470 submitted for adjudication.
+POL-EXT-0471,2026-09-01,40000,Accident,Minor Damage,Pending,Verified incident report #471 submitted for adjudication.
+POL-EXT-0472,2026-10-15,25000,Health,Maternity,Under Review,Verified incident report #472 submitted for adjudication.
+POL-EXT-0473,2026-07-05,25000,Theft,Vehicle Theft,Under Review,Verified incident report #473 submitted for adjudication.
+POL-EXT-0474,2026-06-12,95000,Health,Daycare Surgery,Pending,Verified incident report #474 submitted for adjudication.
+POL-EXT-0475,2026-09-23,65000,Accident,Minor Damage,Paid,Verified incident report #475 submitted for adjudication.
+POL-EXT-0476,2026-08-13,40000,Theft,Burglary / Contents,Under Review,Verified incident report #476 submitted for adjudication.
+POL-EXT-0477,2026-10-04,15000,Accident,Minor Damage,Approved,Verified incident report #477 submitted for adjudication.
+POL-EXT-0478,2026-06-13,65000,Health,Maternity,Approved,Verified incident report #478 submitted for adjudication.
+POL-EXT-0479,2026-10-05,25000,Theft,Burglary / Contents,Under Review,Verified incident report #479 submitted for adjudication.
+POL-EXT-0480,2026-11-09,40000,Health,Maternity,Pending,Verified incident report #480 submitted for adjudication.
+POL-EXT-0481,2026-07-08,95000,Accident,Third-Party Liability,Approved,Verified incident report #481 submitted for adjudication.
+POL-EXT-0482,2026-09-25,65000,Health,Daycare Surgery,Approved,Verified incident report #482 submitted for adjudication.
+POL-EXT-0483,2026-10-05,95000,Theft,Vehicle Theft,Rejected,Verified incident report #483 submitted for adjudication.
+POL-EXT-0484,2026-07-22,40000,Theft,Vehicle Theft,Rejected,Verified incident report #484 submitted for adjudication.
+POL-EXT-0485,2026-10-27,95000,Health,Hospitalization,Paid,Verified incident report #485 submitted for adjudication.
+POL-EXT-0486,2026-10-09,15000,Health,Daycare Surgery,Pending,Verified incident report #486 submitted for adjudication.
+POL-EXT-0487,2026-06-18,15000,Theft,Vehicle Theft,Approved,Verified incident report #487 submitted for adjudication.
+POL-EXT-0488,2026-09-08,40000,Accident,Minor Damage,Pending,Verified incident report #488 submitted for adjudication.
+POL-EXT-0489,2026-07-03,40000,Accident,Minor Damage,Under Review,Verified incident report #489 submitted for adjudication.
+POL-EXT-0490,2026-11-06,40000,Accident,Third-Party Liability,Rejected,Verified incident report #490 submitted for adjudication.
+POL-EXT-0491,2026-08-28,40000,Accident,Third-Party Liability,Approved,Verified incident report #491 submitted for adjudication.
+POL-EXT-0492,2026-07-25,15000,Theft,Burglary / Contents,Approved,Verified incident report #492 submitted for adjudication.
+POL-EXT-0493,2026-06-03,95000,Accident,Third-Party Liability,Pending,Verified incident report #493 submitted for adjudication.
+POL-EXT-0494,2026-11-04,65000,Theft,Burglary / Contents,Paid,Verified incident report #494 submitted for adjudication.
+POL-EXT-0495,2026-11-14,95000,Accident,Third-Party Liability,Under Review,Verified incident report #495 submitted for adjudication.
+POL-EXT-0496,2026-10-10,25000,Health,Hospitalization,Pending,Verified incident report #496 submitted for adjudication.
+POL-EXT-0497,2026-10-22,95000,Theft,Burglary / Contents,Paid,Verified incident report #497 submitted for adjudication.
+POL-EXT-0498,2026-08-10,40000,Accident,Third-Party Liability,Pending,Verified incident report #498 submitted for adjudication.
+POL-EXT-0499,2026-08-18,25000,Health,Maternity,Paid,Verified incident report #499 submitted for adjudication.
+POL-EXT-0500,2026-07-15,65000,Theft,Vehicle Theft,Approved,Verified incident report #500 submitted for adjudication.
+POL-EXT-0501,2026-06-29,15000,Theft,Burglary / Contents,Paid,Verified incident report #501 submitted for adjudication.
+POL-EXT-0502,2026-07-02,40000,Accident,Total Loss,Under Review,Verified incident report #502 submitted for adjudication.
+POL-EXT-0503,2026-06-21,15000,Theft,Burglary / Contents,Paid,Verified incident report #503 submitted for adjudication.
+POL-EXT-0504,2026-10-05,25000,Health,Maternity,Rejected,Verified incident report #504 submitted for adjudication.
+POL-EXT-0505,2026-09-01,15000,Health,Daycare Surgery,Paid,Verified incident report #505 submitted for adjudication.
+POL-EXT-0506,2026-11-04,40000,Health,Maternity,Pending,Verified incident report #506 submitted for adjudication.
+POL-EXT-0507,2026-06-12,15000,Accident,Total Loss,Approved,Verified incident report #507 submitted for adjudication.
+POL-EXT-0508,2026-10-27,65000,Accident,Minor Damage,Pending,Verified incident report #508 submitted for adjudication.
+POL-EXT-0509,2026-08-06,25000,Theft,Burglary / Contents,Approved,Verified incident report #509 submitted for adjudication.
+POL-EXT-0510,2026-10-07,15000,Accident,Minor Damage,Rejected,Verified incident report #510 submitted for adjudication.
+POL-EXT-0511,2026-07-22,15000,Accident,Total Loss,Paid,Verified incident report #511 submitted for adjudication.
+POL-EXT-0512,2026-11-15,65000,Health,Maternity,Pending,Verified incident report #512 submitted for adjudication.
+POL-EXT-0513,2026-11-14,65000,Health,Daycare Surgery,Approved,Verified incident report #513 submitted for adjudication.
+POL-EXT-0514,2026-07-27,65000,Accident,Third-Party Liability,Pending,Verified incident report #514 submitted for adjudication.
+POL-EXT-0515,2026-10-20,40000,Theft,Vehicle Theft,Rejected,Verified incident report #515 submitted for adjudication.
+POL-EXT-0516,2026-11-06,65000,Accident,Third-Party Liability,Under Review,Verified incident report #516 submitted for adjudication.
+POL-EXT-0517,2026-07-16,65000,Health,Hospitalization,Under Review,Verified incident report #517 submitted for adjudication.
+POL-EXT-0518,2026-09-21,25000,Health,Hospitalization,Under Review,Verified incident report #518 submitted for adjudication.
+POL-EXT-0519,2026-10-06,25000,Theft,Burglary / Contents,Rejected,Verified incident report #519 submitted for adjudication.
+POL-EXT-0520,2026-10-18,65000,Theft,Burglary / Contents,Pending,Verified incident report #520 submitted for adjudication.
+POL-EXT-0521,2026-11-10,65000,Health,Hospitalization,Approved,Verified incident report #521 submitted for adjudication.
+POL-EXT-0522,2026-11-14,25000,Accident,Minor Damage,Under Review,Verified incident report #522 submitted for adjudication.
+POL-EXT-0523,2026-08-21,65000,Theft,Burglary / Contents,Pending,Verified incident report #523 submitted for adjudication.
+POL-EXT-0524,2026-09-26,65000,Health,Hospitalization,Approved,Verified incident report #524 submitted for adjudication.
+POL-EXT-0525,2026-06-21,95000,Health,Daycare Surgery,Paid,Verified incident report #525 submitted for adjudication.
+POL-EXT-0526,2026-08-09,40000,Accident,Minor Damage,Under Review,Verified incident report #526 submitted for adjudication.
+POL-EXT-0527,2026-10-03,95000,Theft,Vehicle Theft,Paid,Verified incident report #527 submitted for adjudication.
+POL-EXT-0528,2026-07-25,15000,Theft,Burglary / Contents,Paid,Verified incident report #528 submitted for adjudication.
+POL-EXT-0529,2026-10-17,15000,Accident,Total Loss,Pending,Verified incident report #529 submitted for adjudication.
+POL-EXT-0530,2026-09-14,95000,Health,Maternity,Pending,Verified incident report #530 submitted for adjudication.
+POL-EXT-0531,2026-09-08,95000,Health,Daycare Surgery,Under Review,Verified incident report #531 submitted for adjudication.
+POL-EXT-0532,2026-06-11,95000,Health,Maternity,Paid,Verified incident report #532 submitted for adjudication.
+POL-EXT-0533,2026-06-06,95000,Health,Hospitalization,Paid,Verified incident report #533 submitted for adjudication.
+POL-EXT-0534,2026-07-06,95000,Accident,Minor Damage,Rejected,Verified incident report #534 submitted for adjudication.
+POL-EXT-0535,2026-08-06,25000,Theft,Burglary / Contents,Under Review,Verified incident report #535 submitted for adjudication.
+POL-EXT-0536,2026-06-07,25000,Accident,Minor Damage,Rejected,Verified incident report #536 submitted for adjudication.
+POL-EXT-0537,2026-10-14,40000,Theft,Vehicle Theft,Approved,Verified incident report #537 submitted for adjudication.
+POL-EXT-0538,2026-07-21,95000,Accident,Total Loss,Rejected,Verified incident report #538 submitted for adjudication.
+POL-EXT-0539,2026-06-27,40000,Accident,Total Loss,Paid,Verified incident report #539 submitted for adjudication.
+POL-EXT-0540,2026-09-28,40000,Accident,Total Loss,Paid,Verified incident report #540 submitted for adjudication.
+POL-EXT-0541,2026-09-03,65000,Health,Hospitalization,Pending,Verified incident report #541 submitted for adjudication.
+POL-EXT-0542,2026-09-27,15000,Health,Daycare Surgery,Under Review,Verified incident report #542 submitted for adjudication.
+POL-EXT-0543,2026-10-15,15000,Theft,Burglary / Contents,Paid,Verified incident report #543 submitted for adjudication.
+POL-EXT-0544,2026-06-16,95000,Theft,Burglary / Contents,Paid,Verified incident report #544 submitted for adjudication.
+POL-EXT-0545,2026-09-02,95000,Theft,Vehicle Theft,Under Review,Verified incident report #545 submitted for adjudication.
+POL-EXT-0546,2026-06-30,65000,Theft,Burglary / Contents,Paid,Verified incident report #546 submitted for adjudication.
+POL-EXT-0547,2026-10-16,15000,Theft,Vehicle Theft,Under Review,Verified incident report #547 submitted for adjudication.
+POL-EXT-0548,2026-11-04,40000,Health,Daycare Surgery,Approved,Verified incident report #548 submitted for adjudication.
+POL-EXT-0549,2026-06-17,95000,Accident,Minor Damage,Rejected,Verified incident report #549 submitted for adjudication.
+POL-EXT-0550,2026-10-21,25000,Health,Hospitalization,Under Review,Verified incident report #550 submitted for adjudication.
+POL-EXT-0551,2026-08-06,15000,Accident,Total Loss,Pending,Verified incident report #551 submitted for adjudication.
+POL-EXT-0552,2026-10-18,95000,Theft,Burglary / Contents,Paid,Verified incident report #552 submitted for adjudication.
+POL-EXT-0553,2026-07-14,95000,Theft,Vehicle Theft,Approved,Verified incident report #553 submitted for adjudication.
+POL-EXT-0554,2026-09-16,95000,Health,Daycare Surgery,Paid,Verified incident report #554 submitted for adjudication.
+POL-EXT-0555,2026-10-01,25000,Health,Daycare Surgery,Paid,Verified incident report #555 submitted for adjudication.
+POL-EXT-0556,2026-09-10,40000,Theft,Burglary / Contents,Rejected,Verified incident report #556 submitted for adjudication.
+POL-EXT-0557,2026-07-12,25000,Accident,Third-Party Liability,Paid,Verified incident report #557 submitted for adjudication.
+POL-EXT-0558,2026-09-14,15000,Health,Maternity,Approved,Verified incident report #558 submitted for adjudication.
+POL-EXT-0559,2026-09-28,95000,Health,Hospitalization,Rejected,Verified incident report #559 submitted for adjudication.
+POL-EXT-0560,2026-08-26,95000,Accident,Total Loss,Under Review,Verified incident report #560 submitted for adjudication.
+POL-EXT-0561,2026-08-31,15000,Health,Daycare Surgery,Rejected,Verified incident report #561 submitted for adjudication.
+POL-EXT-0562,2026-06-23,25000,Health,Maternity,Rejected,Verified incident report #562 submitted for adjudication.
+POL-EXT-0563,2026-10-02,40000,Health,Hospitalization,Approved,Verified incident report #563 submitted for adjudication.
+POL-EXT-0564,2026-10-13,40000,Health,Maternity,Pending,Verified incident report #564 submitted for adjudication.
+POL-EXT-0565,2026-09-22,65000,Theft,Vehicle Theft,Rejected,Verified incident report #565 submitted for adjudication.
+POL-EXT-0566,2026-07-26,65000,Accident,Minor Damage,Pending,Verified incident report #566 submitted for adjudication.
+POL-EXT-0567,2026-10-09,25000,Accident,Minor Damage,Rejected,Verified incident report #567 submitted for adjudication.
+POL-EXT-0568,2026-08-25,40000,Theft,Vehicle Theft,Paid,Verified incident report #568 submitted for adjudication.
+POL-EXT-0569,2026-08-07,95000,Theft,Vehicle Theft,Rejected,Verified incident report #569 submitted for adjudication.
+POL-EXT-0570,2026-11-23,65000,Health,Hospitalization,Approved,Verified incident report #570 submitted for adjudication.
+POL-EXT-0571,2026-07-18,40000,Health,Daycare Surgery,Approved,Verified incident report #571 submitted for adjudication.
+POL-EXT-0572,2026-10-04,15000,Theft,Vehicle Theft,Paid,Verified incident report #572 submitted for adjudication.
+POL-EXT-0573,2026-11-18,65000,Health,Hospitalization,Under Review,Verified incident report #573 submitted for adjudication.
+POL-EXT-0574,2026-08-29,40000,Accident,Minor Damage,Paid,Verified incident report #574 submitted for adjudication.
+POL-EXT-0575,2026-06-01,25000,Health,Daycare Surgery,Pending,Verified incident report #575 submitted for adjudication.
+POL-EXT-0576,2026-08-02,40000,Theft,Vehicle Theft,Rejected,Verified incident report #576 submitted for adjudication.
+POL-EXT-0577,2026-09-07,65000,Accident,Third-Party Liability,Rejected,Verified incident report #577 submitted for adjudication.
+POL-EXT-0578,2026-07-25,40000,Theft,Burglary / Contents,Approved,Verified incident report #578 submitted for adjudication.
+POL-EXT-0579,2026-07-01,40000,Theft,Burglary / Contents,Paid,Verified incident report #579 submitted for adjudication.
+POL-EXT-0580,2026-11-02,95000,Health,Maternity,Pending,Verified incident report #580 submitted for adjudication.
+POL-EXT-0581,2026-09-21,25000,Health,Hospitalization,Pending,Verified incident report #581 submitted for adjudication.
+POL-EXT-0582,2026-10-16,65000,Theft,Burglary / Contents,Paid,Verified incident report #582 submitted for adjudication.
+POL-EXT-0583,2026-10-31,15000,Health,Daycare Surgery,Pending,Verified incident report #583 submitted for adjudication.
+POL-EXT-0584,2026-10-22,25000,Health,Maternity,Under Review,Verified incident report #584 submitted for adjudication.
+POL-EXT-0585,2026-11-18,40000,Theft,Burglary / Contents,Rejected,Verified incident report #585 submitted for adjudication.
+POL-EXT-0586,2026-06-02,25000,Health,Daycare Surgery,Paid,Verified incident report #586 submitted for adjudication.
+POL-EXT-0587,2026-10-30,65000,Health,Maternity,Approved,Verified incident report #587 submitted for adjudication.
+POL-EXT-0588,2026-11-07,40000,Accident,Minor Damage,Pending,Verified incident report #588 submitted for adjudication.
+POL-EXT-0589,2026-09-26,65000,Accident,Total Loss,Approved,Verified incident report #589 submitted for adjudication.
+POL-EXT-0590,2026-09-02,15000,Theft,Burglary / Contents,Under Review,Verified incident report #590 submitted for adjudication.
+POL-EXT-0591,2026-06-07,40000,Theft,Vehicle Theft,Approved,Verified incident report #591 submitted for adjudication.
+POL-EXT-0592,2026-06-18,65000,Health,Maternity,Rejected,Verified incident report #592 submitted for adjudication.
+POL-EXT-0593,2026-08-30,15000,Accident,Total Loss,Under Review,Verified incident report #593 submitted for adjudication.
+POL-EXT-0594,2026-09-26,40000,Theft,Burglary / Contents,Rejected,Verified incident report #594 submitted for adjudication.
+POL-EXT-0595,2026-08-07,40000,Health,Hospitalization,Rejected,Verified incident report #595 submitted for adjudication.
+POL-EXT-0596,2026-10-20,40000,Health,Hospitalization,Paid,Verified incident report #596 submitted for adjudication.
+POL-EXT-0597,2026-11-13,40000,Health,Maternity,Rejected,Verified incident report #597 submitted for adjudication.
+POL-EXT-0598,2026-10-19,95000,Theft,Burglary / Contents,Rejected,Verified incident report #598 submitted for adjudication.
+POL-EXT-0599,2026-07-19,95000,Health,Hospitalization,Approved,Verified incident report #599 submitted for adjudication.
+POL-EXT-0600,2026-08-17,40000,Theft,Burglary / Contents,Pending,Verified incident report #600 submitted for adjudication.
+POL-EXT-0601,2026-11-07,65000,Accident,Minor Damage,Rejected,Verified incident report #601 submitted for adjudication.
+POL-EXT-0602,2026-07-21,40000,Theft,Vehicle Theft,Pending,Verified incident report #602 submitted for adjudication.
+POL-EXT-0603,2026-06-24,95000,Health,Maternity,Paid,Verified incident report #603 submitted for adjudication.
+POL-EXT-0604,2026-09-01,25000,Health,Daycare Surgery,Approved,Verified incident report #604 submitted for adjudication.
+POL-EXT-0605,2026-07-27,40000,Health,Daycare Surgery,Approved,Verified incident report #605 submitted for adjudication.
+POL-EXT-0606,2026-10-22,15000,Theft,Burglary / Contents,Approved,Verified incident report #606 submitted for adjudication.
+POL-EXT-0607,2026-06-03,40000,Theft,Burglary / Contents,Rejected,Verified incident report #607 submitted for adjudication.
+POL-EXT-0608,2026-10-22,40000,Health,Hospitalization,Under Review,Verified incident report #608 submitted for adjudication.
+POL-EXT-0609,2026-09-13,95000,Health,Daycare Surgery,Under Review,Verified incident report #609 submitted for adjudication.
+POL-EXT-0610,2026-06-13,15000,Theft,Burglary / Contents,Paid,Verified incident report #610 submitted for adjudication.
+POL-EXT-0611,2026-08-08,25000,Theft,Burglary / Contents,Pending,Verified incident report #611 submitted for adjudication.
+POL-EXT-0612,2026-06-03,95000,Theft,Burglary / Contents,Paid,Verified incident report #612 submitted for adjudication.
+POL-EXT-0613,2026-07-22,40000,Health,Daycare Surgery,Paid,Verified incident report #613 submitted for adjudication.
+POL-EXT-0614,2026-08-02,95000,Health,Hospitalization,Pending,Verified incident report #614 submitted for adjudication.
+POL-EXT-0615,2026-07-02,25000,Theft,Vehicle Theft,Under Review,Verified incident report #615 submitted for adjudication.
+POL-EXT-0616,2026-10-17,65000,Accident,Third-Party Liability,Approved,Verified incident report #616 submitted for adjudication.
+POL-EXT-0617,2026-07-10,15000,Health,Hospitalization,Approved,Verified incident report #617 submitted for adjudication.
+POL-EXT-0618,2026-09-14,40000,Theft,Vehicle Theft,Rejected,Verified incident report #618 submitted for adjudication.
+POL-EXT-0619,2026-08-08,95000,Accident,Third-Party Liability,Pending,Verified incident report #619 submitted for adjudication.
+POL-EXT-0620,2026-08-28,95000,Health,Daycare Surgery,Rejected,Verified incident report #620 submitted for adjudication.
+POL-EXT-0621,2026-10-01,65000,Accident,Minor Damage,Under Review,Verified incident report #621 submitted for adjudication.
+POL-EXT-0622,2026-08-14,15000,Accident,Third-Party Liability,Paid,Verified incident report #622 submitted for adjudication.
+POL-EXT-0623,2026-11-14,25000,Health,Hospitalization,Pending,Verified incident report #623 submitted for adjudication.
+POL-EXT-0624,2026-08-24,95000,Theft,Vehicle Theft,Approved,Verified incident report #624 submitted for adjudication.
+POL-EXT-0625,2026-10-26,95000,Theft,Burglary / Contents,Pending,Verified incident report #625 submitted for adjudication.
+POL-EXT-0626,2026-07-10,15000,Accident,Total Loss,Under Review,Verified incident report #626 submitted for adjudication.
+POL-EXT-0627,2026-10-18,95000,Health,Hospitalization,Approved,Verified incident report #627 submitted for adjudication.
+POL-EXT-0628,2026-07-26,95000,Theft,Vehicle Theft,Under Review,Verified incident report #628 submitted for adjudication.
+POL-EXT-0629,2026-10-18,25000,Accident,Total Loss,Pending,Verified incident report #629 submitted for adjudication.
+POL-EXT-0630,2026-09-18,15000,Accident,Total Loss,Pending,Verified incident report #630 submitted for adjudication.
+POL-EXT-0631,2026-08-16,40000,Health,Maternity,Approved,Verified incident report #631 submitted for adjudication.
+POL-EXT-0632,2026-10-14,15000,Theft,Burglary / Contents,Approved,Verified incident report #632 submitted for adjudication.
+POL-EXT-0633,2026-07-20,25000,Accident,Total Loss,Pending,Verified incident report #633 submitted for adjudication.
+POL-EXT-0634,2026-07-30,65000,Accident,Third-Party Liability,Approved,Verified incident report #634 submitted for adjudication.
+POL-EXT-0635,2026-08-12,25000,Theft,Burglary / Contents,Paid,Verified incident report #635 submitted for adjudication.
+POL-EXT-0636,2026-10-18,40000,Theft,Burglary / Contents,Rejected,Verified incident report #636 submitted for adjudication.
+POL-EXT-0637,2026-08-30,15000,Accident,Third-Party Liability,Pending,Verified incident report #637 submitted for adjudication.
+POL-EXT-0638,2026-10-27,15000,Theft,Vehicle Theft,Under Review,Verified incident report #638 submitted for adjudication.
+POL-EXT-0639,2026-10-24,15000,Health,Daycare Surgery,Under Review,Verified incident report #639 submitted for adjudication.
+POL-EXT-0640,2026-10-23,95000,Accident,Total Loss,Paid,Verified incident report #640 submitted for adjudication.
+POL-EXT-0641,2026-08-18,40000,Health,Maternity,Paid,Verified incident report #641 submitted for adjudication.
+POL-EXT-0642,2026-07-19,25000,Health,Daycare Surgery,Approved,Verified incident report #642 submitted for adjudication.
+POL-EXT-0643,2026-10-21,95000,Theft,Burglary / Contents,Rejected,Verified incident report #643 submitted for adjudication.
+POL-EXT-0644,2026-10-06,15000,Health,Maternity,Pending,Verified incident report #644 submitted for adjudication.
+POL-EXT-0645,2026-10-04,15000,Accident,Total Loss,Rejected,Verified incident report #645 submitted for adjudication.
+POL-EXT-0646,2026-11-09,65000,Health,Daycare Surgery,Under Review,Verified incident report #646 submitted for adjudication.
+POL-EXT-0647,2026-07-27,15000,Theft,Burglary / Contents,Rejected,Verified incident report #647 submitted for adjudication.
+POL-EXT-0648,2026-08-01,25000,Theft,Burglary / Contents,Approved,Verified incident report #648 submitted for adjudication.
+POL-EXT-0649,2026-07-06,65000,Theft,Burglary / Contents,Under Review,Verified incident report #649 submitted for adjudication.
+POL-EXT-0650,2026-07-21,25000,Health,Maternity,Under Review,Verified incident report #650 submitted for adjudication.
+POL-EXT-0651,2026-08-29,15000,Health,Hospitalization,Approved,Verified incident report #651 submitted for adjudication.
+POL-EXT-0652,2026-09-09,15000,Theft,Burglary / Contents,Under Review,Verified incident report #652 submitted for adjudication.
+POL-EXT-0653,2026-06-04,65000,Theft,Burglary / Contents,Pending,Verified incident report #653 submitted for adjudication.
+POL-EXT-0654,2026-08-19,95000,Accident,Minor Damage,Rejected,Verified incident report #654 submitted for adjudication.
+POL-EXT-0655,2026-06-27,95000,Theft,Vehicle Theft,Approved,Verified incident report #655 submitted for adjudication.
+POL-EXT-0656,2026-10-25,95000,Health,Daycare Surgery,Approved,Verified incident report #656 submitted for adjudication.
+POL-EXT-0657,2026-07-29,15000,Theft,Vehicle Theft,Paid,Verified incident report #657 submitted for adjudication.
+POL-EXT-0658,2026-10-26,40000,Accident,Minor Damage,Rejected,Verified incident report #658 submitted for adjudication.
+POL-EXT-0659,2026-07-03,40000,Theft,Burglary / Contents,Pending,Verified incident report #659 submitted for adjudication.
+POL-EXT-0660,2026-08-05,95000,Theft,Vehicle Theft,Under Review,Verified incident report #660 submitted for adjudication.
+POL-EXT-0661,2026-09-09,95000,Health,Maternity,Rejected,Verified incident report #661 submitted for adjudication.
+POL-EXT-0662,2026-10-10,95000,Theft,Burglary / Contents,Pending,Verified incident report #662 submitted for adjudication.
+POL-EXT-0663,2026-10-15,95000,Accident,Total Loss,Paid,Verified incident report #663 submitted for adjudication.
+POL-EXT-0664,2026-11-16,25000,Theft,Vehicle Theft,Rejected,Verified incident report #664 submitted for adjudication.
+POL-EXT-0665,2026-10-04,15000,Health,Daycare Surgery,Paid,Verified incident report #665 submitted for adjudication.
+POL-EXT-0666,2026-06-26,15000,Accident,Minor Damage,Rejected,Verified incident report #666 submitted for adjudication.
+POL-EXT-0667,2026-11-09,40000,Health,Hospitalization,Rejected,Verified incident report #667 submitted for adjudication.
+POL-EXT-0668,2026-09-14,65000,Health,Daycare Surgery,Rejected,Verified incident report #668 submitted for adjudication.
+POL-EXT-0669,2026-09-14,65000,Accident,Total Loss,Pending,Verified incident report #669 submitted for adjudication.
+POL-EXT-0670,2026-08-28,65000,Accident,Minor Damage,Paid,Verified incident report #670 submitted for adjudication.
+POL-EXT-0671,2026-06-17,40000,Theft,Burglary / Contents,Rejected,Verified incident report #671 submitted for adjudication.
+POL-EXT-0672,2026-09-04,65000,Theft,Burglary / Contents,Approved,Verified incident report #672 submitted for adjudication.
+POL-EXT-0673,2026-09-23,25000,Health,Maternity,Approved,Verified incident report #673 submitted for adjudication.
+POL-EXT-0674,2026-10-16,25000,Health,Daycare Surgery,Paid,Verified incident report #674 submitted for adjudication.
+POL-EXT-0675,2026-10-15,65000,Health,Daycare Surgery,Under Review,Verified incident report #675 submitted for adjudication.
+POL-EXT-0676,2026-08-19,95000,Theft,Burglary / Contents,Approved,Verified incident report #676 submitted for adjudication.
+POL-EXT-0677,2026-10-20,40000,Theft,Vehicle Theft,Pending,Verified incident report #677 submitted for adjudication.
+POL-EXT-0678,2026-07-01,40000,Theft,Burglary / Contents,Under Review,Verified incident report #678 submitted for adjudication.
+POL-EXT-0679,2026-09-11,15000,Theft,Vehicle Theft,Under Review,Verified incident report #679 submitted for adjudication.
+POL-EXT-0680,2026-09-02,95000,Health,Daycare Surgery,Under Review,Verified incident report #680 submitted for adjudication.
+POL-EXT-0681,2026-07-21,65000,Accident,Third-Party Liability,Under Review,Verified incident report #681 submitted for adjudication.
+POL-EXT-0682,2026-08-14,25000,Health,Maternity,Approved,Verified incident report #682 submitted for adjudication.
+POL-EXT-0683,2026-08-29,15000,Health,Daycare Surgery,Paid,Verified incident report #683 submitted for adjudication.
+POL-EXT-0684,2026-07-12,40000,Accident,Third-Party Liability,Paid,Verified incident report #684 submitted for adjudication.
+POL-EXT-0685,2026-08-27,25000,Accident,Third-Party Liability,Paid,Verified incident report #685 submitted for adjudication.
+POL-EXT-0686,2026-10-11,40000,Health,Maternity,Under Review,Verified incident report #686 submitted for adjudication.
+POL-EXT-0687,2026-11-10,95000,Theft,Vehicle Theft,Pending,Verified incident report #687 submitted for adjudication.
+POL-EXT-0688,2026-08-01,95000,Health,Daycare Surgery,Paid,Verified incident report #688 submitted for adjudication.
+POL-EXT-0689,2026-08-20,25000,Health,Hospitalization,Pending,Verified incident report #689 submitted for adjudication.
+POL-EXT-0690,2026-09-10,95000,Theft,Burglary / Contents,Approved,Verified incident report #690 submitted for adjudication.
+POL-EXT-0691,2026-08-23,95000,Health,Daycare Surgery,Paid,Verified incident report #691 submitted for adjudication.
+POL-EXT-0692,2026-10-24,65000,Accident,Total Loss,Under Review,Verified incident report #692 submitted for adjudication.
+POL-EXT-0693,2026-10-18,15000,Accident,Minor Damage,Under Review,Verified incident report #693 submitted for adjudication.
+POL-EXT-0694,2026-10-25,15000,Theft,Vehicle Theft,Pending,Verified incident report #694 submitted for adjudication.
+POL-EXT-0695,2026-11-03,25000,Theft,Burglary / Contents,Approved,Verified incident report #695 submitted for adjudication.
+POL-EXT-0696,2026-11-08,15000,Health,Hospitalization,Under Review,Verified incident report #696 submitted for adjudication.
+POL-EXT-0697,2026-07-07,65000,Theft,Burglary / Contents,Approved,Verified incident report #697 submitted for adjudication.
+POL-EXT-0698,2026-09-04,40000,Theft,Burglary / Contents,Under Review,Verified incident report #698 submitted for adjudication.
+POL-EXT-0699,2026-10-23,95000,Accident,Third-Party Liability,Pending,Verified incident report #699 submitted for adjudication.
+POL-EXT-0700,2026-06-15,25000,Accident,Minor Damage,Under Review,Verified incident report #700 submitted for adjudication.
