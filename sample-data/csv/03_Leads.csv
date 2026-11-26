@@ -1,201 +1,501 @@
 FirstName,LastName,Company,Email,Phone,Status,LeadSource,Age__c,Policy_Type__c
-Prospect001,Verma001,Individual Prospect 001,prospect001@lead-demo.com,9600000001,New,Phone Inquiry,39,Health
-Prospect002,Verma002,Individual Prospect 002,prospect002@lead-demo.com,9600000002,Working,Partner Referral,26,Vehicle
-Prospect003,Verma003,Individual Prospect 003,prospect003@lead-demo.com,9600000003,New,Walk-In,39,Home
-Prospect004,Verma004,Individual Prospect 004,prospect004@lead-demo.com,9600000004,Working,Campaign,44,Life
-Prospect005,Verma005,Individual Prospect 005,prospect005@lead-demo.com,9600000005,New,Web,54,Health
-Prospect006,Verma006,Individual Prospect 006,prospect006@lead-demo.com,9600000006,Working,Phone Inquiry,47,Vehicle
-Prospect007,Verma007,Individual Prospect 007,prospect007@lead-demo.com,9600000007,New,Partner Referral,56,Home
-Prospect008,Verma008,Individual Prospect 008,prospect008@lead-demo.com,9600000008,Working,Walk-In,43,Life
-Prospect009,Verma009,Individual Prospect 009,prospect009@lead-demo.com,9600000009,New,Campaign,23,Health
-Prospect010,Verma010,Individual Prospect 010,prospect010@lead-demo.com,9600000010,Working,Web,29,Vehicle
-Prospect011,Verma011,Individual Prospect 011,prospect011@lead-demo.com,9600000011,New,Phone Inquiry,38,Home
-Prospect012,Verma012,Individual Prospect 012,prospect012@lead-demo.com,9600000012,Working,Partner Referral,33,Life
-Prospect013,Verma013,Individual Prospect 013,prospect013@lead-demo.com,9600000013,New,Walk-In,59,Health
-Prospect014,Verma014,Individual Prospect 014,prospect014@lead-demo.com,9600000014,Working,Campaign,38,Vehicle
-Prospect015,Verma015,Individual Prospect 015,prospect015@lead-demo.com,9600000015,New,Web,24,Home
-Prospect016,Verma016,Individual Prospect 016,prospect016@lead-demo.com,9600000016,Working,Phone Inquiry,28,Life
-Prospect017,Verma017,Individual Prospect 017,prospect017@lead-demo.com,9600000017,New,Partner Referral,60,Health
-Prospect018,Verma018,Individual Prospect 018,prospect018@lead-demo.com,9600000018,Working,Walk-In,49,Vehicle
-Prospect019,Verma019,Individual Prospect 019,prospect019@lead-demo.com,9600000019,New,Campaign,44,Home
-Prospect020,Verma020,Individual Prospect 020,prospect020@lead-demo.com,9600000020,Working,Web,42,Life
-Prospect021,Verma021,Individual Prospect 021,prospect021@lead-demo.com,9600000021,New,Phone Inquiry,49,Health
-Prospect022,Verma022,Individual Prospect 022,prospect022@lead-demo.com,9600000022,Working,Partner Referral,60,Vehicle
-Prospect023,Verma023,Individual Prospect 023,prospect023@lead-demo.com,9600000023,New,Walk-In,54,Home
-Prospect024,Verma024,Individual Prospect 024,prospect024@lead-demo.com,9600000024,Working,Campaign,29,Life
-Prospect025,Verma025,Individual Prospect 025,prospect025@lead-demo.com,9600000025,New,Web,46,Health
-Prospect026,Verma026,Individual Prospect 026,prospect026@lead-demo.com,9600000026,Working,Phone Inquiry,58,Vehicle
-Prospect027,Verma027,Individual Prospect 027,prospect027@lead-demo.com,9600000027,New,Partner Referral,34,Home
-Prospect028,Verma028,Individual Prospect 028,prospect028@lead-demo.com,9600000028,Working,Walk-In,38,Life
-Prospect029,Verma029,Individual Prospect 029,prospect029@lead-demo.com,9600000029,New,Campaign,24,Health
-Prospect030,Verma030,Individual Prospect 030,prospect030@lead-demo.com,9600000030,Working,Web,49,Vehicle
-Prospect031,Verma031,Individual Prospect 031,prospect031@lead-demo.com,9600000031,New,Phone Inquiry,22,Home
-Prospect032,Verma032,Individual Prospect 032,prospect032@lead-demo.com,9600000032,Working,Partner Referral,55,Life
-Prospect033,Verma033,Individual Prospect 033,prospect033@lead-demo.com,9600000033,New,Walk-In,56,Health
-Prospect034,Verma034,Individual Prospect 034,prospect034@lead-demo.com,9600000034,Working,Campaign,34,Vehicle
-Prospect035,Verma035,Individual Prospect 035,prospect035@lead-demo.com,9600000035,New,Web,45,Home
-Prospect036,Verma036,Individual Prospect 036,prospect036@lead-demo.com,9600000036,Working,Phone Inquiry,49,Life
-Prospect037,Verma037,Individual Prospect 037,prospect037@lead-demo.com,9600000037,New,Partner Referral,26,Health
-Prospect038,Verma038,Individual Prospect 038,prospect038@lead-demo.com,9600000038,Working,Walk-In,43,Vehicle
-Prospect039,Verma039,Individual Prospect 039,prospect039@lead-demo.com,9600000039,New,Campaign,42,Home
-Prospect040,Verma040,Individual Prospect 040,prospect040@lead-demo.com,9600000040,Working,Web,29,Life
-Prospect041,Verma041,Individual Prospect 041,prospect041@lead-demo.com,9600000041,New,Phone Inquiry,41,Health
-Prospect042,Verma042,Individual Prospect 042,prospect042@lead-demo.com,9600000042,Working,Partner Referral,54,Vehicle
-Prospect043,Verma043,Individual Prospect 043,prospect043@lead-demo.com,9600000043,New,Walk-In,41,Home
-Prospect044,Verma044,Individual Prospect 044,prospect044@lead-demo.com,9600000044,Working,Campaign,48,Life
-Prospect045,Verma045,Individual Prospect 045,prospect045@lead-demo.com,9600000045,New,Web,42,Health
-Prospect046,Verma046,Individual Prospect 046,prospect046@lead-demo.com,9600000046,Working,Phone Inquiry,47,Vehicle
-Prospect047,Verma047,Individual Prospect 047,prospect047@lead-demo.com,9600000047,New,Partner Referral,40,Home
-Prospect048,Verma048,Individual Prospect 048,prospect048@lead-demo.com,9600000048,Working,Walk-In,57,Life
-Prospect049,Verma049,Individual Prospect 049,prospect049@lead-demo.com,9600000049,New,Campaign,30,Health
-Prospect050,Verma050,Individual Prospect 050,prospect050@lead-demo.com,9600000050,Working,Web,34,Vehicle
-Prospect051,Verma051,Individual Prospect 051,prospect051@lead-demo.com,9600000051,New,Phone Inquiry,48,Home
-Prospect052,Verma052,Individual Prospect 052,prospect052@lead-demo.com,9600000052,Working,Partner Referral,46,Life
-Prospect053,Verma053,Individual Prospect 053,prospect053@lead-demo.com,9600000053,New,Walk-In,33,Health
-Prospect054,Verma054,Individual Prospect 054,prospect054@lead-demo.com,9600000054,Working,Campaign,58,Vehicle
-Prospect055,Verma055,Individual Prospect 055,prospect055@lead-demo.com,9600000055,New,Web,41,Home
-Prospect056,Verma056,Individual Prospect 056,prospect056@lead-demo.com,9600000056,Working,Phone Inquiry,47,Life
-Prospect057,Verma057,Individual Prospect 057,prospect057@lead-demo.com,9600000057,New,Partner Referral,57,Health
-Prospect058,Verma058,Individual Prospect 058,prospect058@lead-demo.com,9600000058,Working,Walk-In,22,Vehicle
-Prospect059,Verma059,Individual Prospect 059,prospect059@lead-demo.com,9600000059,New,Campaign,41,Home
-Prospect060,Verma060,Individual Prospect 060,prospect060@lead-demo.com,9600000060,Working,Web,40,Life
-Prospect061,Verma061,Individual Prospect 061,prospect061@lead-demo.com,9600000061,New,Phone Inquiry,35,Health
-Prospect062,Verma062,Individual Prospect 062,prospect062@lead-demo.com,9600000062,Working,Partner Referral,49,Vehicle
-Prospect063,Verma063,Individual Prospect 063,prospect063@lead-demo.com,9600000063,New,Walk-In,59,Home
-Prospect064,Verma064,Individual Prospect 064,prospect064@lead-demo.com,9600000064,Working,Campaign,60,Life
-Prospect065,Verma065,Individual Prospect 065,prospect065@lead-demo.com,9600000065,New,Web,42,Health
-Prospect066,Verma066,Individual Prospect 066,prospect066@lead-demo.com,9600000066,Working,Phone Inquiry,51,Vehicle
-Prospect067,Verma067,Individual Prospect 067,prospect067@lead-demo.com,9600000067,New,Partner Referral,50,Home
-Prospect068,Verma068,Individual Prospect 068,prospect068@lead-demo.com,9600000068,Working,Walk-In,50,Life
-Prospect069,Verma069,Individual Prospect 069,prospect069@lead-demo.com,9600000069,New,Campaign,35,Health
-Prospect070,Verma070,Individual Prospect 070,prospect070@lead-demo.com,9600000070,Working,Web,54,Vehicle
-Prospect071,Verma071,Individual Prospect 071,prospect071@lead-demo.com,9600000071,New,Phone Inquiry,52,Home
-Prospect072,Verma072,Individual Prospect 072,prospect072@lead-demo.com,9600000072,Working,Partner Referral,32,Life
-Prospect073,Verma073,Individual Prospect 073,prospect073@lead-demo.com,9600000073,New,Walk-In,27,Health
-Prospect074,Verma074,Individual Prospect 074,prospect074@lead-demo.com,9600000074,Working,Campaign,40,Vehicle
-Prospect075,Verma075,Individual Prospect 075,prospect075@lead-demo.com,9600000075,New,Web,54,Home
-Prospect076,Verma076,Individual Prospect 076,prospect076@lead-demo.com,9600000076,Working,Phone Inquiry,43,Life
-Prospect077,Verma077,Individual Prospect 077,prospect077@lead-demo.com,9600000077,New,Partner Referral,27,Health
-Prospect078,Verma078,Individual Prospect 078,prospect078@lead-demo.com,9600000078,Working,Walk-In,37,Vehicle
-Prospect079,Verma079,Individual Prospect 079,prospect079@lead-demo.com,9600000079,New,Campaign,41,Home
-Prospect080,Verma080,Individual Prospect 080,prospect080@lead-demo.com,9600000080,Working,Web,36,Life
-Prospect081,Verma081,Individual Prospect 081,prospect081@lead-demo.com,9600000081,New,Phone Inquiry,34,Health
-Prospect082,Verma082,Individual Prospect 082,prospect082@lead-demo.com,9600000082,Working,Partner Referral,31,Vehicle
-Prospect083,Verma083,Individual Prospect 083,prospect083@lead-demo.com,9600000083,New,Walk-In,23,Home
-Prospect084,Verma084,Individual Prospect 084,prospect084@lead-demo.com,9600000084,Working,Campaign,24,Life
-Prospect085,Verma085,Individual Prospect 085,prospect085@lead-demo.com,9600000085,New,Web,37,Health
-Prospect086,Verma086,Individual Prospect 086,prospect086@lead-demo.com,9600000086,Working,Phone Inquiry,52,Vehicle
-Prospect087,Verma087,Individual Prospect 087,prospect087@lead-demo.com,9600000087,New,Partner Referral,26,Home
-Prospect088,Verma088,Individual Prospect 088,prospect088@lead-demo.com,9600000088,Working,Walk-In,51,Life
-Prospect089,Verma089,Individual Prospect 089,prospect089@lead-demo.com,9600000089,New,Campaign,48,Health
-Prospect090,Verma090,Individual Prospect 090,prospect090@lead-demo.com,9600000090,Working,Web,58,Vehicle
-Prospect091,Verma091,Individual Prospect 091,prospect091@lead-demo.com,9600000091,New,Phone Inquiry,34,Home
-Prospect092,Verma092,Individual Prospect 092,prospect092@lead-demo.com,9600000092,Working,Partner Referral,46,Life
-Prospect093,Verma093,Individual Prospect 093,prospect093@lead-demo.com,9600000093,New,Walk-In,53,Health
-Prospect094,Verma094,Individual Prospect 094,prospect094@lead-demo.com,9600000094,Working,Campaign,47,Vehicle
-Prospect095,Verma095,Individual Prospect 095,prospect095@lead-demo.com,9600000095,New,Web,37,Home
-Prospect096,Verma096,Individual Prospect 096,prospect096@lead-demo.com,9600000096,Working,Phone Inquiry,31,Life
-Prospect097,Verma097,Individual Prospect 097,prospect097@lead-demo.com,9600000097,New,Partner Referral,22,Health
-Prospect098,Verma098,Individual Prospect 098,prospect098@lead-demo.com,9600000098,Working,Walk-In,28,Vehicle
-Prospect099,Verma099,Individual Prospect 099,prospect099@lead-demo.com,9600000099,New,Campaign,49,Home
-Prospect100,Verma100,Individual Prospect 100,prospect100@lead-demo.com,9600000100,Working,Web,36,Life
-Prospect101,Verma101,Individual Prospect 101,prospect101@lead-demo.com,9600000101,New,Phone Inquiry,33,Health
-Prospect102,Verma102,Individual Prospect 102,prospect102@lead-demo.com,9600000102,Working,Partner Referral,55,Vehicle
-Prospect103,Verma103,Individual Prospect 103,prospect103@lead-demo.com,9600000103,New,Walk-In,51,Home
-Prospect104,Verma104,Individual Prospect 104,prospect104@lead-demo.com,9600000104,Working,Campaign,25,Life
-Prospect105,Verma105,Individual Prospect 105,prospect105@lead-demo.com,9600000105,New,Web,57,Health
-Prospect106,Verma106,Individual Prospect 106,prospect106@lead-demo.com,9600000106,Working,Phone Inquiry,37,Vehicle
-Prospect107,Verma107,Individual Prospect 107,prospect107@lead-demo.com,9600000107,New,Partner Referral,29,Home
-Prospect108,Verma108,Individual Prospect 108,prospect108@lead-demo.com,9600000108,Working,Walk-In,51,Life
-Prospect109,Verma109,Individual Prospect 109,prospect109@lead-demo.com,9600000109,New,Campaign,30,Health
-Prospect110,Verma110,Individual Prospect 110,prospect110@lead-demo.com,9600000110,Working,Web,51,Vehicle
-Prospect111,Verma111,Individual Prospect 111,prospect111@lead-demo.com,9600000111,New,Phone Inquiry,55,Home
-Prospect112,Verma112,Individual Prospect 112,prospect112@lead-demo.com,9600000112,Working,Partner Referral,57,Life
-Prospect113,Verma113,Individual Prospect 113,prospect113@lead-demo.com,9600000113,New,Walk-In,60,Health
-Prospect114,Verma114,Individual Prospect 114,prospect114@lead-demo.com,9600000114,Working,Campaign,42,Vehicle
-Prospect115,Verma115,Individual Prospect 115,prospect115@lead-demo.com,9600000115,New,Web,50,Home
-Prospect116,Verma116,Individual Prospect 116,prospect116@lead-demo.com,9600000116,Working,Phone Inquiry,54,Life
-Prospect117,Verma117,Individual Prospect 117,prospect117@lead-demo.com,9600000117,New,Partner Referral,49,Health
-Prospect118,Verma118,Individual Prospect 118,prospect118@lead-demo.com,9600000118,Working,Walk-In,57,Vehicle
-Prospect119,Verma119,Individual Prospect 119,prospect119@lead-demo.com,9600000119,New,Campaign,50,Home
-Prospect120,Verma120,Individual Prospect 120,prospect120@lead-demo.com,9600000120,Working,Web,32,Life
-Prospect121,Verma121,Individual Prospect 121,prospect121@lead-demo.com,9600000121,New,Phone Inquiry,52,Health
-Prospect122,Verma122,Individual Prospect 122,prospect122@lead-demo.com,9600000122,Working,Partner Referral,50,Vehicle
-Prospect123,Verma123,Individual Prospect 123,prospect123@lead-demo.com,9600000123,New,Walk-In,38,Home
-Prospect124,Verma124,Individual Prospect 124,prospect124@lead-demo.com,9600000124,Working,Campaign,37,Life
-Prospect125,Verma125,Individual Prospect 125,prospect125@lead-demo.com,9600000125,New,Web,39,Health
-Prospect126,Verma126,Individual Prospect 126,prospect126@lead-demo.com,9600000126,Working,Phone Inquiry,55,Vehicle
-Prospect127,Verma127,Individual Prospect 127,prospect127@lead-demo.com,9600000127,New,Partner Referral,53,Home
-Prospect128,Verma128,Individual Prospect 128,prospect128@lead-demo.com,9600000128,Working,Walk-In,37,Life
-Prospect129,Verma129,Individual Prospect 129,prospect129@lead-demo.com,9600000129,New,Campaign,39,Health
-Prospect130,Verma130,Individual Prospect 130,prospect130@lead-demo.com,9600000130,Working,Web,50,Vehicle
-Prospect131,Verma131,Individual Prospect 131,prospect131@lead-demo.com,9600000131,New,Phone Inquiry,26,Home
-Prospect132,Verma132,Individual Prospect 132,prospect132@lead-demo.com,9600000132,Working,Partner Referral,40,Life
-Prospect133,Verma133,Individual Prospect 133,prospect133@lead-demo.com,9600000133,New,Walk-In,37,Health
-Prospect134,Verma134,Individual Prospect 134,prospect134@lead-demo.com,9600000134,Working,Campaign,39,Vehicle
-Prospect135,Verma135,Individual Prospect 135,prospect135@lead-demo.com,9600000135,New,Web,43,Home
-Prospect136,Verma136,Individual Prospect 136,prospect136@lead-demo.com,9600000136,Working,Phone Inquiry,42,Life
-Prospect137,Verma137,Individual Prospect 137,prospect137@lead-demo.com,9600000137,New,Partner Referral,56,Health
-Prospect138,Verma138,Individual Prospect 138,prospect138@lead-demo.com,9600000138,Working,Walk-In,27,Vehicle
-Prospect139,Verma139,Individual Prospect 139,prospect139@lead-demo.com,9600000139,New,Campaign,30,Home
-Prospect140,Verma140,Individual Prospect 140,prospect140@lead-demo.com,9600000140,Working,Web,31,Life
-Prospect141,Verma141,Individual Prospect 141,prospect141@lead-demo.com,9600000141,New,Phone Inquiry,36,Health
-Prospect142,Verma142,Individual Prospect 142,prospect142@lead-demo.com,9600000142,Working,Partner Referral,46,Vehicle
-Prospect143,Verma143,Individual Prospect 143,prospect143@lead-demo.com,9600000143,New,Walk-In,31,Home
-Prospect144,Verma144,Individual Prospect 144,prospect144@lead-demo.com,9600000144,Working,Campaign,35,Life
-Prospect145,Verma145,Individual Prospect 145,prospect145@lead-demo.com,9600000145,New,Web,26,Health
-Prospect146,Verma146,Individual Prospect 146,prospect146@lead-demo.com,9600000146,Working,Phone Inquiry,48,Vehicle
-Prospect147,Verma147,Individual Prospect 147,prospect147@lead-demo.com,9600000147,New,Partner Referral,48,Home
-Prospect148,Verma148,Individual Prospect 148,prospect148@lead-demo.com,9600000148,Working,Walk-In,43,Life
-Prospect149,Verma149,Individual Prospect 149,prospect149@lead-demo.com,9600000149,New,Campaign,56,Health
-Prospect150,Verma150,Individual Prospect 150,prospect150@lead-demo.com,9600000150,Working,Web,51,Vehicle
-Prospect151,Verma151,Individual Prospect 151,prospect151@lead-demo.com,9600000151,New,Phone Inquiry,48,Home
-Prospect152,Verma152,Individual Prospect 152,prospect152@lead-demo.com,9600000152,Working,Partner Referral,25,Life
-Prospect153,Verma153,Individual Prospect 153,prospect153@lead-demo.com,9600000153,New,Walk-In,35,Health
-Prospect154,Verma154,Individual Prospect 154,prospect154@lead-demo.com,9600000154,Working,Campaign,48,Vehicle
-Prospect155,Verma155,Individual Prospect 155,prospect155@lead-demo.com,9600000155,New,Web,46,Home
-Prospect156,Verma156,Individual Prospect 156,prospect156@lead-demo.com,9600000156,Working,Phone Inquiry,59,Life
-Prospect157,Verma157,Individual Prospect 157,prospect157@lead-demo.com,9600000157,New,Partner Referral,23,Health
-Prospect158,Verma158,Individual Prospect 158,prospect158@lead-demo.com,9600000158,Working,Walk-In,58,Vehicle
-Prospect159,Verma159,Individual Prospect 159,prospect159@lead-demo.com,9600000159,New,Campaign,46,Home
-Prospect160,Verma160,Individual Prospect 160,prospect160@lead-demo.com,9600000160,Working,Web,52,Life
-Prospect161,Verma161,Individual Prospect 161,prospect161@lead-demo.com,9600000161,New,Phone Inquiry,22,Health
-Prospect162,Verma162,Individual Prospect 162,prospect162@lead-demo.com,9600000162,Working,Partner Referral,44,Vehicle
-Prospect163,Verma163,Individual Prospect 163,prospect163@lead-demo.com,9600000163,New,Walk-In,41,Home
-Prospect164,Verma164,Individual Prospect 164,prospect164@lead-demo.com,9600000164,Working,Campaign,46,Life
-Prospect165,Verma165,Individual Prospect 165,prospect165@lead-demo.com,9600000165,New,Web,48,Health
-Prospect166,Verma166,Individual Prospect 166,prospect166@lead-demo.com,9600000166,Working,Phone Inquiry,56,Vehicle
-Prospect167,Verma167,Individual Prospect 167,prospect167@lead-demo.com,9600000167,New,Partner Referral,56,Home
-Prospect168,Verma168,Individual Prospect 168,prospect168@lead-demo.com,9600000168,Working,Walk-In,60,Life
-Prospect169,Verma169,Individual Prospect 169,prospect169@lead-demo.com,9600000169,New,Campaign,36,Health
-Prospect170,Verma170,Individual Prospect 170,prospect170@lead-demo.com,9600000170,Working,Web,53,Vehicle
-Prospect171,Verma171,Individual Prospect 171,prospect171@lead-demo.com,9600000171,New,Phone Inquiry,36,Home
-Prospect172,Verma172,Individual Prospect 172,prospect172@lead-demo.com,9600000172,Working,Partner Referral,39,Life
-Prospect173,Verma173,Individual Prospect 173,prospect173@lead-demo.com,9600000173,New,Walk-In,49,Health
-Prospect174,Verma174,Individual Prospect 174,prospect174@lead-demo.com,9600000174,Working,Campaign,53,Vehicle
-Prospect175,Verma175,Individual Prospect 175,prospect175@lead-demo.com,9600000175,New,Web,23,Home
-Prospect176,Verma176,Individual Prospect 176,prospect176@lead-demo.com,9600000176,Working,Phone Inquiry,46,Life
-Prospect177,Verma177,Individual Prospect 177,prospect177@lead-demo.com,9600000177,New,Partner Referral,43,Health
-Prospect178,Verma178,Individual Prospect 178,prospect178@lead-demo.com,9600000178,Working,Walk-In,47,Vehicle
-Prospect179,Verma179,Individual Prospect 179,prospect179@lead-demo.com,9600000179,New,Campaign,32,Home
-Prospect180,Verma180,Individual Prospect 180,prospect180@lead-demo.com,9600000180,Working,Web,51,Life
-Prospect181,Verma181,Individual Prospect 181,prospect181@lead-demo.com,9600000181,New,Phone Inquiry,30,Health
-Prospect182,Verma182,Individual Prospect 182,prospect182@lead-demo.com,9600000182,Working,Partner Referral,56,Vehicle
-Prospect183,Verma183,Individual Prospect 183,prospect183@lead-demo.com,9600000183,New,Walk-In,23,Home
-Prospect184,Verma184,Individual Prospect 184,prospect184@lead-demo.com,9600000184,Working,Campaign,47,Life
-Prospect185,Verma185,Individual Prospect 185,prospect185@lead-demo.com,9600000185,New,Web,59,Health
-Prospect186,Verma186,Individual Prospect 186,prospect186@lead-demo.com,9600000186,Working,Phone Inquiry,58,Vehicle
-Prospect187,Verma187,Individual Prospect 187,prospect187@lead-demo.com,9600000187,New,Partner Referral,23,Home
-Prospect188,Verma188,Individual Prospect 188,prospect188@lead-demo.com,9600000188,Working,Walk-In,27,Life
-Prospect189,Verma189,Individual Prospect 189,prospect189@lead-demo.com,9600000189,New,Campaign,49,Health
-Prospect190,Verma190,Individual Prospect 190,prospect190@lead-demo.com,9600000190,Working,Web,30,Vehicle
-Prospect191,Verma191,Individual Prospect 191,prospect191@lead-demo.com,9600000191,New,Phone Inquiry,51,Home
-Prospect192,Verma192,Individual Prospect 192,prospect192@lead-demo.com,9600000192,Working,Partner Referral,33,Life
-Prospect193,Verma193,Individual Prospect 193,prospect193@lead-demo.com,9600000193,New,Walk-In,25,Health
-Prospect194,Verma194,Individual Prospect 194,prospect194@lead-demo.com,9600000194,Working,Campaign,38,Vehicle
-Prospect195,Verma195,Individual Prospect 195,prospect195@lead-demo.com,9600000195,New,Web,46,Home
-Prospect196,Verma196,Individual Prospect 196,prospect196@lead-demo.com,9600000196,Working,Phone Inquiry,42,Life
-Prospect197,Verma197,Individual Prospect 197,prospect197@lead-demo.com,9600000197,New,Partner Referral,35,Health
-Prospect198,Verma198,Individual Prospect 198,prospect198@lead-demo.com,9600000198,Working,Walk-In,51,Vehicle
-Prospect199,Verma199,Individual Prospect 199,prospect199@lead-demo.com,9600000199,New,Campaign,42,Home
-Prospect200,Verma200,Individual Prospect 200,prospect200@lead-demo.com,9600000200,Working,Web,43,Life
+Arjun,Patel,Patel Logistics 201,lead201@autoprotectdemo.com,+919798625980,Closed - Converted,Web,37,Comprehensive
+Aarav,Reddy,Reddy Logistics 202,lead202@autoprotectdemo.com,+919792262749,Closed - Not Converted,Web,27,Zero Depreciation
+Arjun,Deshmukh,Deshmukh Logistics 203,lead203@autoprotectdemo.com,+919772462400,Closed - Not Converted,Partner Referral,55,Two-Wheeler
+Pooja,Joshi,Joshi Logistics 204,lead204@autoprotectdemo.com,+919746098778,Closed - Not Converted,Other,61,Comprehensive
+Diya,Joshi,Joshi Logistics 205,lead205@autoprotectdemo.com,+919791132316,Closed - Not Converted,Purchased List,41,Commercial Fleet
+Pari,Gupta,Gupta Logistics 206,lead206@autoprotectdemo.com,+919730141947,Open - Not Contacted,Purchased List,56,Two-Wheeler
+Ira,Menon,Menon Logistics 207,lead207@autoprotectdemo.com,+919754221342,Closed - Not Converted,Web,36,Zero Depreciation
+Rohan,Das,Das Logistics 208,lead208@autoprotectdemo.com,+919717606955,Open - Not Contacted,Phone Inquiry,62,Comprehensive
+Kavita,Nair,Nair Logistics 209,lead209@autoprotectdemo.com,+919745647254,Closed - Not Converted,Partner Referral,27,Comprehensive
+Reyansh,Choudhury,Choudhury Logistics 210,lead210@autoprotectdemo.com,+919712439311,Closed - Converted,Web,28,Commercial Fleet
+Karan,Joshi,Joshi Logistics 211,lead211@autoprotectdemo.com,+919736713293,Closed - Converted,Other,33,Two-Wheeler
+Anika,Das,Das Logistics 212,lead212@autoprotectdemo.com,+919791727094,Closed - Converted,Purchased List,48,Third-Party
+Myra,Mehta,Mehta Logistics 213,lead213@autoprotectdemo.com,+919796285840,Working - Contacted,Other,34,Commercial Fleet
+Ananya,Deshmukh,Deshmukh Logistics 214,lead214@autoprotectdemo.com,+919726313642,Closed - Converted,Other,30,Comprehensive
+Anika,Deshmukh,Deshmukh Logistics 215,lead215@autoprotectdemo.com,+919758853492,Closed - Converted,Other,43,Zero Depreciation
+Sai,Gupta,Gupta Logistics 216,lead216@autoprotectdemo.com,+919781622170,Working - Contacted,Partner Referral,30,Two-Wheeler
+Pooja,Malhotra,Malhotra Logistics 217,lead217@autoprotectdemo.com,+919737269580,Open - Not Contacted,Other,54,Commercial Fleet
+Vihaan,Rao,Rao Logistics 218,lead218@autoprotectdemo.com,+919780571873,Open - Not Contacted,Phone Inquiry,25,Two-Wheeler
+Vivaan,Bhatia,Bhatia Logistics 219,lead219@autoprotectdemo.com,+919718440440,Closed - Not Converted,Phone Inquiry,22,Comprehensive
+Reyansh,Bose,Bose Logistics 220,lead220@autoprotectdemo.com,+919769658541,Working - Contacted,Web,33,Third-Party
+Vikram,Bose,Bose Logistics 221,lead221@autoprotectdemo.com,+919794354950,Closed - Converted,Phone Inquiry,42,Commercial Fleet
+Angel,Deshmukh,Deshmukh Logistics 222,lead222@autoprotectdemo.com,+919760747379,Closed - Converted,Web,49,Commercial Fleet
+Vikram,Bhatia,Bhatia Logistics 223,lead223@autoprotectdemo.com,+919759115367,Closed - Converted,Phone Inquiry,27,Two-Wheeler
+Sneha,Iyer,Iyer Logistics 224,lead224@autoprotectdemo.com,+919780001886,Closed - Not Converted,Purchased List,53,Comprehensive
+Kavita,Choudhury,Choudhury Logistics 225,lead225@autoprotectdemo.com,+919788294798,Closed - Converted,Other,47,Third-Party
+Rohan,Bose,Bose Logistics 226,lead226@autoprotectdemo.com,+919740132597,Working - Contacted,Web,33,Commercial Fleet
+Reyansh,Kulkarni,Kulkarni Logistics 227,lead227@autoprotectdemo.com,+919711054033,Working - Contacted,Web,43,Two-Wheeler
+Sai,Iyer,Iyer Logistics 228,lead228@autoprotectdemo.com,+919784698586,Working - Contacted,Web,47,Commercial Fleet
+Aditya,Bhatia,Bhatia Logistics 229,lead229@autoprotectdemo.com,+919724756087,Closed - Converted,Phone Inquiry,32,Zero Depreciation
+Vihaan,Mehta,Mehta Logistics 230,lead230@autoprotectdemo.com,+919721190610,Open - Not Contacted,Other,34,Zero Depreciation
+Kavita,Iyer,Iyer Logistics 231,lead231@autoprotectdemo.com,+919740752617,Working - Contacted,Purchased List,23,Third-Party
+Myra,Menon,Menon Logistics 232,lead232@autoprotectdemo.com,+919753472377,Closed - Not Converted,Other,31,Third-Party
+Ishaan,Mehta,Mehta Logistics 233,lead233@autoprotectdemo.com,+919721891684,Working - Contacted,Web,52,Two-Wheeler
+Vihaan,Malhotra,Malhotra Logistics 234,lead234@autoprotectdemo.com,+919778724731,Closed - Not Converted,Web,51,Comprehensive
+Vivaan,Choudhury,Choudhury Logistics 235,lead235@autoprotectdemo.com,+919758327177,Open - Not Contacted,Partner Referral,28,Two-Wheeler
+Neha,Bose,Bose Logistics 236,lead236@autoprotectdemo.com,+919760513193,Working - Contacted,Partner Referral,56,Comprehensive
+Ishaan,Tiwari,Tiwari Logistics 237,lead237@autoprotectdemo.com,+919783076803,Working - Contacted,Purchased List,23,Zero Depreciation
+Sai,Patel,Patel Logistics 238,lead238@autoprotectdemo.com,+919746637283,Closed - Converted,Partner Referral,52,Zero Depreciation
+Sara,Gupta,Gupta Logistics 239,lead239@autoprotectdemo.com,+919733290920,Closed - Not Converted,Phone Inquiry,32,Commercial Fleet
+Myra,Nair,Nair Logistics 240,lead240@autoprotectdemo.com,+919747360586,Closed - Not Converted,Phone Inquiry,40,Third-Party
+Anika,Verma,Verma Logistics 241,lead241@autoprotectdemo.com,+919782686101,Closed - Converted,Partner Referral,34,Comprehensive
+Myra,Deshmukh,Deshmukh Logistics 242,lead242@autoprotectdemo.com,+919764033507,Open - Not Contacted,Web,37,Comprehensive
+Angel,Sharma,Sharma Logistics 243,lead243@autoprotectdemo.com,+919728954172,Closed - Converted,Web,33,Two-Wheeler
+Aditya,Sharma,Sharma Logistics 244,lead244@autoprotectdemo.com,+919778401154,Closed - Converted,Web,30,Zero Depreciation
+Aditya,Reddy,Reddy Logistics 245,lead245@autoprotectdemo.com,+919722172159,Closed - Not Converted,Purchased List,23,Commercial Fleet
+Vihaan,Menon,Menon Logistics 246,lead246@autoprotectdemo.com,+919799480636,Working - Contacted,Purchased List,29,Zero Depreciation
+Pooja,Choudhury,Choudhury Logistics 247,lead247@autoprotectdemo.com,+919737287863,Open - Not Contacted,Other,45,Zero Depreciation
+Vikram,Tiwari,Tiwari Logistics 248,lead248@autoprotectdemo.com,+919799384705,Working - Contacted,Purchased List,51,Commercial Fleet
+Sai,Rao,Rao Logistics 249,lead249@autoprotectdemo.com,+919717951323,Open - Not Contacted,Partner Referral,31,Zero Depreciation
+Navya,Reddy,Reddy Logistics 250,lead250@autoprotectdemo.com,+919770704379,Open - Not Contacted,Web,29,Two-Wheeler
+Rahul,Deshmukh,Deshmukh Logistics 251,lead251@autoprotectdemo.com,+919729378306,Closed - Not Converted,Purchased List,22,Zero Depreciation
+Anika,Reddy,Reddy Logistics 252,lead252@autoprotectdemo.com,+919770470019,Closed - Not Converted,Partner Referral,43,Commercial Fleet
+Myra,Iyer,Iyer Logistics 253,lead253@autoprotectdemo.com,+919792030338,Closed - Not Converted,Partner Referral,28,Zero Depreciation
+Diya,Nair,Nair Logistics 254,lead254@autoprotectdemo.com,+919784619473,Open - Not Contacted,Other,37,Comprehensive
+Aditya,Nair,Nair Logistics 255,lead255@autoprotectdemo.com,+919769949897,Closed - Not Converted,Partner Referral,44,Zero Depreciation
+Ira,Bhatia,Bhatia Logistics 256,lead256@autoprotectdemo.com,+919775020544,Closed - Not Converted,Other,26,Zero Depreciation
+Sai,Das,Das Logistics 257,lead257@autoprotectdemo.com,+919799923822,Open - Not Contacted,Purchased List,60,Commercial Fleet
+Rahul,Patel,Patel Logistics 258,lead258@autoprotectdemo.com,+919745057310,Closed - Not Converted,Purchased List,57,Third-Party
+Amit,Mehta,Mehta Logistics 259,lead259@autoprotectdemo.com,+919788240292,Closed - Not Converted,Partner Referral,47,Third-Party
+Karan,Sharma,Sharma Logistics 260,lead260@autoprotectdemo.com,+919786202298,Closed - Not Converted,Other,62,Comprehensive
+Ishaan,Reddy,Reddy Logistics 261,lead261@autoprotectdemo.com,+919779591380,Closed - Converted,Web,34,Two-Wheeler
+Ayaan,Verma,Verma Logistics 262,lead262@autoprotectdemo.com,+919754506471,Closed - Converted,Purchased List,40,Third-Party
+Reyansh,Malhotra,Malhotra Logistics 263,lead263@autoprotectdemo.com,+919749849981,Working - Contacted,Web,29,Zero Depreciation
+Rohan,Malhotra,Malhotra Logistics 264,lead264@autoprotectdemo.com,+919745271855,Open - Not Contacted,Phone Inquiry,37,Commercial Fleet
+Aditya,Bhatia,Bhatia Logistics 265,lead265@autoprotectdemo.com,+919748814411,Open - Not Contacted,Other,24,Commercial Fleet
+Vivaan,Choudhury,Choudhury Logistics 266,lead266@autoprotectdemo.com,+919751828028,Closed - Not Converted,Web,27,Zero Depreciation
+Kavita,Patel,Patel Logistics 267,lead267@autoprotectdemo.com,+919759614749,Working - Contacted,Purchased List,59,Two-Wheeler
+Angel,Menon,Menon Logistics 268,lead268@autoprotectdemo.com,+919742575656,Working - Contacted,Web,22,Zero Depreciation
+Pari,Gupta,Gupta Logistics 269,lead269@autoprotectdemo.com,+919715659793,Closed - Converted,Web,31,Third-Party
+Ayaan,Rao,Rao Logistics 270,lead270@autoprotectdemo.com,+919778941608,Working - Contacted,Partner Referral,24,Third-Party
+Angel,Choudhury,Choudhury Logistics 271,lead271@autoprotectdemo.com,+919721890236,Working - Contacted,Other,54,Comprehensive
+Sara,Sharma,Sharma Logistics 272,lead272@autoprotectdemo.com,+919751418680,Working - Contacted,Purchased List,29,Two-Wheeler
+Ishaan,Mehta,Mehta Logistics 273,lead273@autoprotectdemo.com,+919777751768,Closed - Not Converted,Purchased List,29,Comprehensive
+Kavita,Joshi,Joshi Logistics 274,lead274@autoprotectdemo.com,+919771699774,Closed - Not Converted,Partner Referral,29,Zero Depreciation
+Ayaan,Patel,Patel Logistics 275,lead275@autoprotectdemo.com,+919792579983,Closed - Converted,Other,57,Zero Depreciation
+Amit,Das,Das Logistics 276,lead276@autoprotectdemo.com,+919785449173,Working - Contacted,Phone Inquiry,47,Zero Depreciation
+Krishna,Kulkarni,Kulkarni Logistics 277,lead277@autoprotectdemo.com,+919789056138,Closed - Not Converted,Other,60,Third-Party
+Sneha,Tiwari,Tiwari Logistics 278,lead278@autoprotectdemo.com,+919769138966,Open - Not Contacted,Partner Referral,23,Two-Wheeler
+Kavita,Rao,Rao Logistics 279,lead279@autoprotectdemo.com,+919762275058,Closed - Not Converted,Partner Referral,60,Two-Wheeler
+Priya,Bose,Bose Logistics 280,lead280@autoprotectdemo.com,+919739988402,Working - Contacted,Other,32,Third-Party
+Rahul,Patel,Patel Logistics 281,lead281@autoprotectdemo.com,+919713374314,Closed - Converted,Other,47,Zero Depreciation
+Sai,Kulkarni,Kulkarni Logistics 282,lead282@autoprotectdemo.com,+919742928451,Closed - Not Converted,Web,56,Comprehensive
+Vikram,Nair,Nair Logistics 283,lead283@autoprotectdemo.com,+919768702681,Closed - Not Converted,Partner Referral,34,Third-Party
+Anika,Reddy,Reddy Logistics 284,lead284@autoprotectdemo.com,+919774468284,Closed - Not Converted,Other,31,Comprehensive
+Sara,Verma,Verma Logistics 285,lead285@autoprotectdemo.com,+919772210990,Open - Not Contacted,Web,35,Comprehensive
+Ishaan,Choudhury,Choudhury Logistics 286,lead286@autoprotectdemo.com,+919711665313,Closed - Not Converted,Other,45,Two-Wheeler
+Vihaan,Verma,Verma Logistics 287,lead287@autoprotectdemo.com,+919738874893,Closed - Converted,Phone Inquiry,34,Third-Party
+Karan,Sharma,Sharma Logistics 288,lead288@autoprotectdemo.com,+919759973335,Open - Not Contacted,Purchased List,36,Zero Depreciation
+Pooja,Joshi,Joshi Logistics 289,lead289@autoprotectdemo.com,+919723779482,Working - Contacted,Purchased List,61,Zero Depreciation
+Aadhya,Menon,Menon Logistics 290,lead290@autoprotectdemo.com,+919786987905,Closed - Converted,Web,27,Zero Depreciation
+Aarav,Iyer,Iyer Logistics 291,lead291@autoprotectdemo.com,+919743310827,Closed - Not Converted,Partner Referral,61,Third-Party
+Neha,Malhotra,Malhotra Logistics 292,lead292@autoprotectdemo.com,+919754551744,Working - Contacted,Phone Inquiry,24,Comprehensive
+Pari,Sharma,Sharma Logistics 293,lead293@autoprotectdemo.com,+919745649842,Closed - Not Converted,Purchased List,57,Third-Party
+Navya,Nair,Nair Logistics 294,lead294@autoprotectdemo.com,+919719465443,Closed - Converted,Other,52,Two-Wheeler
+Sneha,Joshi,Joshi Logistics 295,lead295@autoprotectdemo.com,+919712385414,Working - Contacted,Partner Referral,37,Zero Depreciation
+Rahul,Kulkarni,Kulkarni Logistics 296,lead296@autoprotectdemo.com,+919730185587,Open - Not Contacted,Purchased List,32,Commercial Fleet
+Reyansh,Das,Das Logistics 297,lead297@autoprotectdemo.com,+919770188068,Working - Contacted,Purchased List,26,Zero Depreciation
+Ananya,Das,Das Logistics 298,lead298@autoprotectdemo.com,+919713511145,Closed - Not Converted,Partner Referral,39,Zero Depreciation
+Navya,Iyer,Iyer Logistics 299,lead299@autoprotectdemo.com,+919765914822,Closed - Converted,Purchased List,61,Two-Wheeler
+Pooja,Reddy,Reddy Logistics 300,lead300@autoprotectdemo.com,+919740095221,Open - Not Contacted,Purchased List,36,Third-Party
+Arjun,Verma,Verma Logistics 301,lead301@autoprotectdemo.com,+919775026133,Closed - Not Converted,Purchased List,47,Zero Depreciation
+Aditya,Reddy,Reddy Logistics 302,lead302@autoprotectdemo.com,+919752107959,Working - Contacted,Partner Referral,41,Commercial Fleet
+Rahul,Malhotra,Malhotra Logistics 303,lead303@autoprotectdemo.com,+919773956727,Working - Contacted,Web,57,Commercial Fleet
+Vihaan,Reddy,Reddy Logistics 304,lead304@autoprotectdemo.com,+919730646547,Working - Contacted,Other,38,Comprehensive
+Neha,Reddy,Reddy Logistics 305,lead305@autoprotectdemo.com,+919779796649,Closed - Not Converted,Other,46,Third-Party
+Priya,Bhatia,Bhatia Logistics 306,lead306@autoprotectdemo.com,+919736959543,Open - Not Contacted,Web,42,Two-Wheeler
+Vivaan,Menon,Menon Logistics 307,lead307@autoprotectdemo.com,+919740382611,Closed - Converted,Purchased List,52,Commercial Fleet
+Kavita,Deshmukh,Deshmukh Logistics 308,lead308@autoprotectdemo.com,+919741706475,Open - Not Contacted,Other,30,Zero Depreciation
+Myra,Rao,Rao Logistics 309,lead309@autoprotectdemo.com,+919773365050,Closed - Converted,Phone Inquiry,50,Two-Wheeler
+Arjun,Bhatia,Bhatia Logistics 310,lead310@autoprotectdemo.com,+919747676450,Working - Contacted,Purchased List,28,Two-Wheeler
+Angel,Deshmukh,Deshmukh Logistics 311,lead311@autoprotectdemo.com,+919784952346,Closed - Converted,Other,31,Comprehensive
+Aditya,Mehta,Mehta Logistics 312,lead312@autoprotectdemo.com,+919753457058,Closed - Not Converted,Purchased List,61,Third-Party
+Pooja,Das,Das Logistics 313,lead313@autoprotectdemo.com,+919790928125,Closed - Not Converted,Partner Referral,38,Comprehensive
+Rohan,Reddy,Reddy Logistics 314,lead314@autoprotectdemo.com,+919710885990,Closed - Converted,Purchased List,57,Third-Party
+Aditya,Verma,Verma Logistics 315,lead315@autoprotectdemo.com,+919756668456,Working - Contacted,Other,27,Two-Wheeler
+Aadhya,Gupta,Gupta Logistics 316,lead316@autoprotectdemo.com,+919797032276,Working - Contacted,Purchased List,54,Comprehensive
+Rohan,Mehta,Mehta Logistics 317,lead317@autoprotectdemo.com,+919729887112,Closed - Converted,Purchased List,48,Zero Depreciation
+Rohan,Bhatia,Bhatia Logistics 318,lead318@autoprotectdemo.com,+919775814989,Working - Contacted,Purchased List,39,Third-Party
+Karan,Joshi,Joshi Logistics 319,lead319@autoprotectdemo.com,+919785823308,Open - Not Contacted,Partner Referral,46,Commercial Fleet
+Pari,Nair,Nair Logistics 320,lead320@autoprotectdemo.com,+919742602082,Open - Not Contacted,Phone Inquiry,45,Two-Wheeler
+Ananya,Mehta,Mehta Logistics 321,lead321@autoprotectdemo.com,+919792828014,Working - Contacted,Partner Referral,29,Two-Wheeler
+Vihaan,Iyer,Iyer Logistics 322,lead322@autoprotectdemo.com,+919769777461,Open - Not Contacted,Partner Referral,60,Third-Party
+Ananya,Rao,Rao Logistics 323,lead323@autoprotectdemo.com,+919783434204,Closed - Converted,Partner Referral,37,Third-Party
+Sai,Sharma,Sharma Logistics 324,lead324@autoprotectdemo.com,+919777668063,Closed - Not Converted,Other,61,Zero Depreciation
+Myra,Iyer,Iyer Logistics 325,lead325@autoprotectdemo.com,+919737971209,Closed - Converted,Partner Referral,38,Comprehensive
+Ayaan,Joshi,Joshi Logistics 326,lead326@autoprotectdemo.com,+919787577839,Open - Not Contacted,Phone Inquiry,36,Comprehensive
+Ayaan,Nair,Nair Logistics 327,lead327@autoprotectdemo.com,+919752688631,Closed - Converted,Phone Inquiry,39,Comprehensive
+Navya,Rao,Rao Logistics 328,lead328@autoprotectdemo.com,+919721491488,Open - Not Contacted,Partner Referral,42,Zero Depreciation
+Vikram,Rao,Rao Logistics 329,lead329@autoprotectdemo.com,+919766497714,Working - Contacted,Purchased List,43,Two-Wheeler
+Priya,Sharma,Sharma Logistics 330,lead330@autoprotectdemo.com,+919755379155,Working - Contacted,Web,22,Comprehensive
+Pooja,Sinha,Sinha Logistics 331,lead331@autoprotectdemo.com,+919799830307,Closed - Not Converted,Partner Referral,60,Third-Party
+Pooja,Kulkarni,Kulkarni Logistics 332,lead332@autoprotectdemo.com,+919797442787,Closed - Not Converted,Other,27,Two-Wheeler
+Priya,Patel,Patel Logistics 333,lead333@autoprotectdemo.com,+919734946892,Closed - Not Converted,Partner Referral,46,Third-Party
+Rohan,Bhatia,Bhatia Logistics 334,lead334@autoprotectdemo.com,+919756668438,Closed - Not Converted,Purchased List,58,Comprehensive
+Arjun,Deshmukh,Deshmukh Logistics 335,lead335@autoprotectdemo.com,+919710093117,Open - Not Contacted,Other,40,Comprehensive
+Karan,Sinha,Sinha Logistics 336,lead336@autoprotectdemo.com,+919760607017,Working - Contacted,Other,44,Comprehensive
+Amit,Verma,Verma Logistics 337,lead337@autoprotectdemo.com,+919724603375,Working - Contacted,Partner Referral,45,Commercial Fleet
+Neha,Patel,Patel Logistics 338,lead338@autoprotectdemo.com,+919737883045,Closed - Converted,Web,37,Two-Wheeler
+Amit,Nair,Nair Logistics 339,lead339@autoprotectdemo.com,+919796412349,Working - Contacted,Phone Inquiry,44,Zero Depreciation
+Ira,Bhatia,Bhatia Logistics 340,lead340@autoprotectdemo.com,+919729461509,Closed - Not Converted,Partner Referral,24,Two-Wheeler
+Neha,Das,Das Logistics 341,lead341@autoprotectdemo.com,+919761926363,Closed - Converted,Partner Referral,37,Two-Wheeler
+Vihaan,Sinha,Sinha Logistics 342,lead342@autoprotectdemo.com,+919774365835,Closed - Converted,Purchased List,43,Comprehensive
+Krishna,Rao,Rao Logistics 343,lead343@autoprotectdemo.com,+919711778697,Working - Contacted,Phone Inquiry,46,Third-Party
+Reyansh,Tiwari,Tiwari Logistics 344,lead344@autoprotectdemo.com,+919794409223,Working - Contacted,Partner Referral,39,Comprehensive
+Rohan,Sharma,Sharma Logistics 345,lead345@autoprotectdemo.com,+919788110114,Open - Not Contacted,Other,55,Zero Depreciation
+Vivaan,Kulkarni,Kulkarni Logistics 346,lead346@autoprotectdemo.com,+919784011921,Closed - Not Converted,Purchased List,39,Commercial Fleet
+Arjun,Rao,Rao Logistics 347,lead347@autoprotectdemo.com,+919729868139,Working - Contacted,Web,26,Third-Party
+Angel,Bose,Bose Logistics 348,lead348@autoprotectdemo.com,+919755690990,Closed - Converted,Other,36,Zero Depreciation
+Ayaan,Iyer,Iyer Logistics 349,lead349@autoprotectdemo.com,+919798525925,Closed - Converted,Other,44,Zero Depreciation
+Sara,Patel,Patel Logistics 350,lead350@autoprotectdemo.com,+919769673663,Closed - Not Converted,Purchased List,52,Third-Party
+Reyansh,Verma,Verma Logistics 351,lead351@autoprotectdemo.com,+919788292253,Closed - Not Converted,Partner Referral,33,Third-Party
+Neha,Menon,Menon Logistics 352,lead352@autoprotectdemo.com,+919755257863,Closed - Converted,Web,60,Commercial Fleet
+Vihaan,Kulkarni,Kulkarni Logistics 353,lead353@autoprotectdemo.com,+919761129580,Closed - Converted,Partner Referral,47,Third-Party
+Myra,Kulkarni,Kulkarni Logistics 354,lead354@autoprotectdemo.com,+919721374492,Closed - Converted,Purchased List,51,Comprehensive
+Vihaan,Deshmukh,Deshmukh Logistics 355,lead355@autoprotectdemo.com,+919730809587,Working - Contacted,Other,46,Third-Party
+Aadhya,Iyer,Iyer Logistics 356,lead356@autoprotectdemo.com,+919779850978,Closed - Not Converted,Web,44,Third-Party
+Pari,Gupta,Gupta Logistics 357,lead357@autoprotectdemo.com,+919767853209,Closed - Not Converted,Partner Referral,26,Zero Depreciation
+Ananya,Menon,Menon Logistics 358,lead358@autoprotectdemo.com,+919736966432,Working - Contacted,Web,45,Zero Depreciation
+Krishna,Malhotra,Malhotra Logistics 359,lead359@autoprotectdemo.com,+919738731688,Closed - Converted,Web,53,Zero Depreciation
+Aarav,Tiwari,Tiwari Logistics 360,lead360@autoprotectdemo.com,+919746525275,Closed - Converted,Other,56,Commercial Fleet
+Pooja,Mehta,Mehta Logistics 361,lead361@autoprotectdemo.com,+919766647147,Working - Contacted,Purchased List,42,Commercial Fleet
+Amit,Verma,Verma Logistics 362,lead362@autoprotectdemo.com,+919729358038,Closed - Not Converted,Web,44,Commercial Fleet
+Diya,Menon,Menon Logistics 363,lead363@autoprotectdemo.com,+919794138448,Closed - Not Converted,Web,25,Commercial Fleet
+Navya,Choudhury,Choudhury Logistics 364,lead364@autoprotectdemo.com,+919724685879,Open - Not Contacted,Web,25,Third-Party
+Ira,Patel,Patel Logistics 365,lead365@autoprotectdemo.com,+919780937339,Open - Not Contacted,Web,60,Commercial Fleet
+Arjun,Mehta,Mehta Logistics 366,lead366@autoprotectdemo.com,+919767357288,Closed - Converted,Partner Referral,34,Commercial Fleet
+Ishaan,Kulkarni,Kulkarni Logistics 367,lead367@autoprotectdemo.com,+919752774314,Open - Not Contacted,Partner Referral,50,Commercial Fleet
+Ananya,Iyer,Iyer Logistics 368,lead368@autoprotectdemo.com,+919742715448,Open - Not Contacted,Web,54,Two-Wheeler
+Amit,Kulkarni,Kulkarni Logistics 369,lead369@autoprotectdemo.com,+919793050200,Open - Not Contacted,Web,57,Comprehensive
+Vihaan,Bhatia,Bhatia Logistics 370,lead370@autoprotectdemo.com,+919776967476,Closed - Not Converted,Phone Inquiry,51,Third-Party
+Ananya,Malhotra,Malhotra Logistics 371,lead371@autoprotectdemo.com,+919762646310,Open - Not Contacted,Partner Referral,38,Third-Party
+Sneha,Gupta,Gupta Logistics 372,lead372@autoprotectdemo.com,+919744676127,Working - Contacted,Other,55,Two-Wheeler
+Ayaan,Choudhury,Choudhury Logistics 373,lead373@autoprotectdemo.com,+919718546356,Closed - Converted,Other,52,Third-Party
+Arjun,Bhatia,Bhatia Logistics 374,lead374@autoprotectdemo.com,+919745349933,Closed - Converted,Partner Referral,51,Commercial Fleet
+Rohan,Malhotra,Malhotra Logistics 375,lead375@autoprotectdemo.com,+919791166012,Working - Contacted,Purchased List,28,Commercial Fleet
+Amit,Bhatia,Bhatia Logistics 376,lead376@autoprotectdemo.com,+919732631405,Open - Not Contacted,Other,47,Comprehensive
+Neha,Das,Das Logistics 377,lead377@autoprotectdemo.com,+919743230118,Open - Not Contacted,Web,23,Commercial Fleet
+Aadhya,Joshi,Joshi Logistics 378,lead378@autoprotectdemo.com,+919761641215,Closed - Not Converted,Web,57,Zero Depreciation
+Amit,Mehta,Mehta Logistics 379,lead379@autoprotectdemo.com,+919714296864,Working - Contacted,Other,22,Comprehensive
+Ira,Rao,Rao Logistics 380,lead380@autoprotectdemo.com,+919719028206,Closed - Not Converted,Partner Referral,60,Commercial Fleet
+Sara,Sinha,Sinha Logistics 381,lead381@autoprotectdemo.com,+919721968102,Open - Not Contacted,Other,48,Commercial Fleet
+Diya,Sinha,Sinha Logistics 382,lead382@autoprotectdemo.com,+919765757562,Working - Contacted,Purchased List,52,Commercial Fleet
+Rohan,Patel,Patel Logistics 383,lead383@autoprotectdemo.com,+919724349304,Working - Contacted,Web,45,Zero Depreciation
+Amit,Joshi,Joshi Logistics 384,lead384@autoprotectdemo.com,+919718530025,Working - Contacted,Purchased List,31,Comprehensive
+Ishaan,Tiwari,Tiwari Logistics 385,lead385@autoprotectdemo.com,+919773147550,Closed - Converted,Phone Inquiry,59,Third-Party
+Karan,Verma,Verma Logistics 386,lead386@autoprotectdemo.com,+919733083175,Closed - Not Converted,Other,53,Two-Wheeler
+Myra,Kulkarni,Kulkarni Logistics 387,lead387@autoprotectdemo.com,+919720905717,Working - Contacted,Other,42,Comprehensive
+Sneha,Menon,Menon Logistics 388,lead388@autoprotectdemo.com,+919795978452,Closed - Converted,Web,45,Commercial Fleet
+Sai,Malhotra,Malhotra Logistics 389,lead389@autoprotectdemo.com,+919763593141,Closed - Not Converted,Partner Referral,39,Commercial Fleet
+Anika,Tiwari,Tiwari Logistics 390,lead390@autoprotectdemo.com,+919747161297,Working - Contacted,Phone Inquiry,40,Third-Party
+Angel,Iyer,Iyer Logistics 391,lead391@autoprotectdemo.com,+919748475279,Open - Not Contacted,Web,22,Comprehensive
+Arjun,Deshmukh,Deshmukh Logistics 392,lead392@autoprotectdemo.com,+919748109971,Closed - Converted,Phone Inquiry,54,Comprehensive
+Ananya,Patel,Patel Logistics 393,lead393@autoprotectdemo.com,+919714625336,Closed - Not Converted,Purchased List,44,Comprehensive
+Pooja,Choudhury,Choudhury Logistics 394,lead394@autoprotectdemo.com,+919710142967,Closed - Converted,Web,60,Zero Depreciation
+Ayaan,Menon,Menon Logistics 395,lead395@autoprotectdemo.com,+919769706394,Closed - Not Converted,Phone Inquiry,46,Zero Depreciation
+Aditya,Tiwari,Tiwari Logistics 396,lead396@autoprotectdemo.com,+919732296307,Working - Contacted,Other,58,Two-Wheeler
+Arjun,Gupta,Gupta Logistics 397,lead397@autoprotectdemo.com,+919785096961,Closed - Converted,Other,42,Two-Wheeler
+Sara,Reddy,Reddy Logistics 398,lead398@autoprotectdemo.com,+919710118996,Closed - Converted,Other,40,Third-Party
+Ishaan,Joshi,Joshi Logistics 399,lead399@autoprotectdemo.com,+919711086002,Closed - Converted,Phone Inquiry,39,Zero Depreciation
+Pooja,Reddy,Reddy Logistics 400,lead400@autoprotectdemo.com,+919781355056,Closed - Not Converted,Phone Inquiry,39,Third-Party
+Kavita,Bose,Bose Logistics 401,lead401@autoprotectdemo.com,+919726051332,Open - Not Contacted,Purchased List,47,Commercial Fleet
+Vivaan,Sinha,Sinha Logistics 402,lead402@autoprotectdemo.com,+919773587230,Working - Contacted,Purchased List,29,Commercial Fleet
+Rohan,Rao,Rao Logistics 403,lead403@autoprotectdemo.com,+919766572511,Closed - Not Converted,Partner Referral,56,Comprehensive
+Pari,Tiwari,Tiwari Logistics 404,lead404@autoprotectdemo.com,+919796742188,Open - Not Contacted,Phone Inquiry,58,Two-Wheeler
+Pari,Joshi,Joshi Logistics 405,lead405@autoprotectdemo.com,+919797809585,Open - Not Contacted,Purchased List,51,Commercial Fleet
+Navya,Patel,Patel Logistics 406,lead406@autoprotectdemo.com,+919796498513,Closed - Converted,Partner Referral,28,Zero Depreciation
+Ishaan,Iyer,Iyer Logistics 407,lead407@autoprotectdemo.com,+919796442172,Closed - Not Converted,Other,33,Zero Depreciation
+Neha,Das,Das Logistics 408,lead408@autoprotectdemo.com,+919731470359,Closed - Converted,Phone Inquiry,60,Third-Party
+Arjun,Kulkarni,Kulkarni Logistics 409,lead409@autoprotectdemo.com,+919765323061,Closed - Not Converted,Web,30,Third-Party
+Sai,Choudhury,Choudhury Logistics 410,lead410@autoprotectdemo.com,+919758040805,Closed - Converted,Web,33,Commercial Fleet
+Rohan,Bose,Bose Logistics 411,lead411@autoprotectdemo.com,+919769325542,Working - Contacted,Web,38,Third-Party
+Ishaan,Iyer,Iyer Logistics 412,lead412@autoprotectdemo.com,+919777054190,Working - Contacted,Purchased List,53,Zero Depreciation
+Ira,Sinha,Sinha Logistics 413,lead413@autoprotectdemo.com,+919744945289,Closed - Converted,Phone Inquiry,42,Two-Wheeler
+Neha,Das,Das Logistics 414,lead414@autoprotectdemo.com,+919740870233,Working - Contacted,Partner Referral,33,Zero Depreciation
+Aadhya,Nair,Nair Logistics 415,lead415@autoprotectdemo.com,+919761176097,Closed - Converted,Partner Referral,51,Comprehensive
+Neha,Sinha,Sinha Logistics 416,lead416@autoprotectdemo.com,+919714196776,Closed - Converted,Phone Inquiry,50,Zero Depreciation
+Sneha,Menon,Menon Logistics 417,lead417@autoprotectdemo.com,+919749350524,Open - Not Contacted,Web,54,Two-Wheeler
+Ishaan,Nair,Nair Logistics 418,lead418@autoprotectdemo.com,+919715925658,Open - Not Contacted,Other,62,Commercial Fleet
+Diya,Deshmukh,Deshmukh Logistics 419,lead419@autoprotectdemo.com,+919753065758,Closed - Not Converted,Partner Referral,56,Comprehensive
+Sai,Bhatia,Bhatia Logistics 420,lead420@autoprotectdemo.com,+919784971798,Working - Contacted,Other,59,Two-Wheeler
+Ishaan,Kulkarni,Kulkarni Logistics 421,lead421@autoprotectdemo.com,+919796720469,Open - Not Contacted,Web,47,Two-Wheeler
+Neha,Bose,Bose Logistics 422,lead422@autoprotectdemo.com,+919795070300,Closed - Not Converted,Purchased List,34,Comprehensive
+Karan,Patel,Patel Logistics 423,lead423@autoprotectdemo.com,+919759350574,Closed - Converted,Web,45,Two-Wheeler
+Diya,Menon,Menon Logistics 424,lead424@autoprotectdemo.com,+919722326806,Closed - Not Converted,Phone Inquiry,28,Zero Depreciation
+Vihaan,Rao,Rao Logistics 425,lead425@autoprotectdemo.com,+919762901562,Working - Contacted,Other,29,Third-Party
+Rahul,Bhatia,Bhatia Logistics 426,lead426@autoprotectdemo.com,+919710874121,Open - Not Contacted,Other,52,Comprehensive
+Anika,Bhatia,Bhatia Logistics 427,lead427@autoprotectdemo.com,+919733092061,Open - Not Contacted,Partner Referral,58,Third-Party
+Angel,Rao,Rao Logistics 428,lead428@autoprotectdemo.com,+919787388190,Open - Not Contacted,Other,57,Commercial Fleet
+Amit,Kulkarni,Kulkarni Logistics 429,lead429@autoprotectdemo.com,+919774902138,Closed - Converted,Phone Inquiry,42,Commercial Fleet
+Vivaan,Mehta,Mehta Logistics 430,lead430@autoprotectdemo.com,+919752294634,Closed - Not Converted,Other,40,Comprehensive
+Anika,Sharma,Sharma Logistics 431,lead431@autoprotectdemo.com,+919749708933,Closed - Not Converted,Partner Referral,34,Zero Depreciation
+Ishaan,Choudhury,Choudhury Logistics 432,lead432@autoprotectdemo.com,+919742049850,Open - Not Contacted,Purchased List,24,Zero Depreciation
+Rahul,Das,Das Logistics 433,lead433@autoprotectdemo.com,+919777919721,Closed - Not Converted,Purchased List,62,Two-Wheeler
+Aarav,Bose,Bose Logistics 434,lead434@autoprotectdemo.com,+919763240339,Open - Not Contacted,Web,25,Comprehensive
+Ayaan,Kulkarni,Kulkarni Logistics 435,lead435@autoprotectdemo.com,+919799239704,Working - Contacted,Purchased List,41,Two-Wheeler
+Rohan,Mehta,Mehta Logistics 436,lead436@autoprotectdemo.com,+919787381876,Open - Not Contacted,Other,59,Zero Depreciation
+Reyansh,Kulkarni,Kulkarni Logistics 437,lead437@autoprotectdemo.com,+919762233942,Working - Contacted,Purchased List,26,Two-Wheeler
+Neha,Gupta,Gupta Logistics 438,lead438@autoprotectdemo.com,+919715698107,Working - Contacted,Web,54,Commercial Fleet
+Anika,Malhotra,Malhotra Logistics 439,lead439@autoprotectdemo.com,+919717134807,Open - Not Contacted,Other,58,Comprehensive
+Priya,Sharma,Sharma Logistics 440,lead440@autoprotectdemo.com,+919761084987,Closed - Not Converted,Purchased List,58,Zero Depreciation
+Vihaan,Verma,Verma Logistics 441,lead441@autoprotectdemo.com,+919733645669,Closed - Converted,Purchased List,42,Zero Depreciation
+Rohan,Menon,Menon Logistics 442,lead442@autoprotectdemo.com,+919765717273,Working - Contacted,Partner Referral,25,Third-Party
+Krishna,Malhotra,Malhotra Logistics 443,lead443@autoprotectdemo.com,+919738124339,Open - Not Contacted,Phone Inquiry,31,Commercial Fleet
+Pari,Reddy,Reddy Logistics 444,lead444@autoprotectdemo.com,+919756500047,Closed - Not Converted,Partner Referral,30,Comprehensive
+Navya,Bose,Bose Logistics 445,lead445@autoprotectdemo.com,+919711588239,Closed - Not Converted,Purchased List,23,Comprehensive
+Diya,Sinha,Sinha Logistics 446,lead446@autoprotectdemo.com,+919755984432,Open - Not Contacted,Web,28,Third-Party
+Myra,Joshi,Joshi Logistics 447,lead447@autoprotectdemo.com,+919731500955,Closed - Converted,Other,23,Third-Party
+Diya,Patel,Patel Logistics 448,lead448@autoprotectdemo.com,+919717146964,Closed - Not Converted,Purchased List,53,Commercial Fleet
+Navya,Bhatia,Bhatia Logistics 449,lead449@autoprotectdemo.com,+919766555147,Closed - Converted,Other,60,Two-Wheeler
+Vivaan,Iyer,Iyer Logistics 450,lead450@autoprotectdemo.com,+919732862282,Closed - Converted,Web,44,Comprehensive
+Aditya,Mehta,Mehta Logistics 451,lead451@autoprotectdemo.com,+919719572519,Open - Not Contacted,Purchased List,58,Two-Wheeler
+Ira,Das,Das Logistics 452,lead452@autoprotectdemo.com,+919744824564,Working - Contacted,Partner Referral,59,Zero Depreciation
+Pooja,Verma,Verma Logistics 453,lead453@autoprotectdemo.com,+919713180578,Working - Contacted,Purchased List,57,Comprehensive
+Sara,Sharma,Sharma Logistics 454,lead454@autoprotectdemo.com,+919735148090,Closed - Converted,Partner Referral,49,Zero Depreciation
+Ananya,Joshi,Joshi Logistics 455,lead455@autoprotectdemo.com,+919716158650,Closed - Converted,Other,60,Zero Depreciation
+Sai,Sharma,Sharma Logistics 456,lead456@autoprotectdemo.com,+919776240539,Closed - Converted,Web,26,Zero Depreciation
+Arjun,Verma,Verma Logistics 457,lead457@autoprotectdemo.com,+919724519859,Working - Contacted,Purchased List,43,Comprehensive
+Sara,Mehta,Mehta Logistics 458,lead458@autoprotectdemo.com,+919792763682,Working - Contacted,Phone Inquiry,23,Zero Depreciation
+Arjun,Kulkarni,Kulkarni Logistics 459,lead459@autoprotectdemo.com,+919779051911,Open - Not Contacted,Other,24,Zero Depreciation
+Amit,Iyer,Iyer Logistics 460,lead460@autoprotectdemo.com,+919721726971,Open - Not Contacted,Other,47,Commercial Fleet
+Sai,Iyer,Iyer Logistics 461,lead461@autoprotectdemo.com,+919736848008,Working - Contacted,Phone Inquiry,41,Zero Depreciation
+Myra,Reddy,Reddy Logistics 462,lead462@autoprotectdemo.com,+919744451404,Closed - Not Converted,Web,30,Comprehensive
+Ananya,Menon,Menon Logistics 463,lead463@autoprotectdemo.com,+919794966639,Open - Not Contacted,Web,52,Third-Party
+Kavita,Bose,Bose Logistics 464,lead464@autoprotectdemo.com,+919778247900,Open - Not Contacted,Web,46,Commercial Fleet
+Arjun,Choudhury,Choudhury Logistics 465,lead465@autoprotectdemo.com,+919757130386,Working - Contacted,Web,43,Comprehensive
+Pooja,Malhotra,Malhotra Logistics 466,lead466@autoprotectdemo.com,+919787361011,Closed - Not Converted,Purchased List,35,Commercial Fleet
+Aadhya,Bhatia,Bhatia Logistics 467,lead467@autoprotectdemo.com,+919786533857,Closed - Converted,Phone Inquiry,50,Two-Wheeler
+Pari,Verma,Verma Logistics 468,lead468@autoprotectdemo.com,+919759864148,Working - Contacted,Phone Inquiry,27,Third-Party
+Myra,Gupta,Gupta Logistics 469,lead469@autoprotectdemo.com,+919723852504,Open - Not Contacted,Web,45,Third-Party
+Ananya,Iyer,Iyer Logistics 470,lead470@autoprotectdemo.com,+919747574732,Closed - Not Converted,Web,24,Two-Wheeler
+Sara,Bose,Bose Logistics 471,lead471@autoprotectdemo.com,+919782870144,Working - Contacted,Web,60,Comprehensive
+Sneha,Das,Das Logistics 472,lead472@autoprotectdemo.com,+919732003616,Working - Contacted,Other,46,Two-Wheeler
+Navya,Joshi,Joshi Logistics 473,lead473@autoprotectdemo.com,+919782465565,Open - Not Contacted,Web,51,Two-Wheeler
+Pari,Patel,Patel Logistics 474,lead474@autoprotectdemo.com,+919767402573,Closed - Not Converted,Other,53,Third-Party
+Priya,Bose,Bose Logistics 475,lead475@autoprotectdemo.com,+919736103037,Closed - Converted,Purchased List,26,Comprehensive
+Kavita,Choudhury,Choudhury Logistics 476,lead476@autoprotectdemo.com,+919792895651,Closed - Not Converted,Phone Inquiry,41,Two-Wheeler
+Vivaan,Nair,Nair Logistics 477,lead477@autoprotectdemo.com,+919741786139,Working - Contacted,Phone Inquiry,24,Commercial Fleet
+Kavita,Bose,Bose Logistics 478,lead478@autoprotectdemo.com,+919725125350,Closed - Not Converted,Partner Referral,22,Comprehensive
+Pooja,Sharma,Sharma Logistics 479,lead479@autoprotectdemo.com,+919762385697,Working - Contacted,Partner Referral,39,Two-Wheeler
+Krishna,Choudhury,Choudhury Logistics 480,lead480@autoprotectdemo.com,+919729203176,Working - Contacted,Partner Referral,60,Zero Depreciation
+Amit,Bose,Bose Logistics 481,lead481@autoprotectdemo.com,+919742864653,Open - Not Contacted,Phone Inquiry,43,Third-Party
+Karan,Menon,Menon Logistics 482,lead482@autoprotectdemo.com,+919736060575,Open - Not Contacted,Purchased List,57,Two-Wheeler
+Ishaan,Bhatia,Bhatia Logistics 483,lead483@autoprotectdemo.com,+919785577589,Working - Contacted,Partner Referral,60,Third-Party
+Arjun,Mehta,Mehta Logistics 484,lead484@autoprotectdemo.com,+919791667799,Closed - Converted,Purchased List,54,Commercial Fleet
+Krishna,Sinha,Sinha Logistics 485,lead485@autoprotectdemo.com,+919717337272,Open - Not Contacted,Purchased List,25,Comprehensive
+Rohan,Patel,Patel Logistics 486,lead486@autoprotectdemo.com,+919749845138,Working - Contacted,Other,51,Third-Party
+Rohan,Tiwari,Tiwari Logistics 487,lead487@autoprotectdemo.com,+919763751669,Closed - Converted,Phone Inquiry,23,Zero Depreciation
+Karan,Gupta,Gupta Logistics 488,lead488@autoprotectdemo.com,+919729117773,Closed - Converted,Partner Referral,36,Comprehensive
+Priya,Sharma,Sharma Logistics 489,lead489@autoprotectdemo.com,+919795417714,Closed - Converted,Partner Referral,33,Commercial Fleet
+Karan,Reddy,Reddy Logistics 490,lead490@autoprotectdemo.com,+919735421048,Closed - Not Converted,Phone Inquiry,30,Commercial Fleet
+Diya,Deshmukh,Deshmukh Logistics 491,lead491@autoprotectdemo.com,+919727092595,Working - Contacted,Partner Referral,40,Commercial Fleet
+Rahul,Deshmukh,Deshmukh Logistics 492,lead492@autoprotectdemo.com,+919779356792,Open - Not Contacted,Purchased List,25,Two-Wheeler
+Neha,Choudhury,Choudhury Logistics 493,lead493@autoprotectdemo.com,+919791042582,Closed - Converted,Web,47,Zero Depreciation
+Rohan,Das,Das Logistics 494,lead494@autoprotectdemo.com,+919712435406,Closed - Converted,Web,25,Two-Wheeler
+Vikram,Kulkarni,Kulkarni Logistics 495,lead495@autoprotectdemo.com,+919721847836,Closed - Converted,Web,31,Commercial Fleet
+Vihaan,Choudhury,Choudhury Logistics 496,lead496@autoprotectdemo.com,+919796037412,Open - Not Contacted,Partner Referral,61,Two-Wheeler
+Amit,Kulkarni,Kulkarni Logistics 497,lead497@autoprotectdemo.com,+919718708018,Open - Not Contacted,Web,39,Comprehensive
+Ananya,Sinha,Sinha Logistics 498,lead498@autoprotectdemo.com,+919771885085,Open - Not Contacted,Partner Referral,22,Two-Wheeler
+Aditya,Deshmukh,Deshmukh Logistics 499,lead499@autoprotectdemo.com,+919716259846,Open - Not Contacted,Phone Inquiry,43,Zero Depreciation
+Pari,Sharma,Sharma Logistics 500,lead500@autoprotectdemo.com,+919783158673,Working - Contacted,Purchased List,34,Third-Party
+Sai,Deshmukh,Deshmukh Logistics 501,lead501@autoprotectdemo.com,+919769879624,Working - Contacted,Other,24,Comprehensive
+Angel,Das,Das Logistics 502,lead502@autoprotectdemo.com,+919799761248,Working - Contacted,Partner Referral,62,Commercial Fleet
+Amit,Patel,Patel Logistics 503,lead503@autoprotectdemo.com,+919799485814,Open - Not Contacted,Purchased List,34,Two-Wheeler
+Pooja,Patel,Patel Logistics 504,lead504@autoprotectdemo.com,+919791277023,Closed - Not Converted,Partner Referral,47,Comprehensive
+Sneha,Nair,Nair Logistics 505,lead505@autoprotectdemo.com,+919756590006,Closed - Not Converted,Partner Referral,47,Two-Wheeler
+Amit,Tiwari,Tiwari Logistics 506,lead506@autoprotectdemo.com,+919787780064,Closed - Converted,Other,44,Two-Wheeler
+Ira,Nair,Nair Logistics 507,lead507@autoprotectdemo.com,+919748189095,Open - Not Contacted,Purchased List,51,Two-Wheeler
+Amit,Tiwari,Tiwari Logistics 508,lead508@autoprotectdemo.com,+919739611741,Closed - Not Converted,Phone Inquiry,29,Two-Wheeler
+Kavita,Reddy,Reddy Logistics 509,lead509@autoprotectdemo.com,+919792164263,Closed - Not Converted,Other,37,Commercial Fleet
+Angel,Mehta,Mehta Logistics 510,lead510@autoprotectdemo.com,+919720028454,Closed - Converted,Web,22,Third-Party
+Kavita,Patel,Patel Logistics 511,lead511@autoprotectdemo.com,+919792976752,Closed - Converted,Phone Inquiry,34,Comprehensive
+Arjun,Menon,Menon Logistics 512,lead512@autoprotectdemo.com,+919758969986,Closed - Converted,Phone Inquiry,22,Two-Wheeler
+Vikram,Sharma,Sharma Logistics 513,lead513@autoprotectdemo.com,+919796481594,Open - Not Contacted,Partner Referral,31,Two-Wheeler
+Sara,Nair,Nair Logistics 514,lead514@autoprotectdemo.com,+919742648794,Closed - Converted,Purchased List,32,Comprehensive
+Anika,Menon,Menon Logistics 515,lead515@autoprotectdemo.com,+919719524275,Closed - Not Converted,Partner Referral,50,Two-Wheeler
+Vikram,Rao,Rao Logistics 516,lead516@autoprotectdemo.com,+919749465379,Closed - Not Converted,Web,23,Comprehensive
+Krishna,Das,Das Logistics 517,lead517@autoprotectdemo.com,+919775492680,Working - Contacted,Phone Inquiry,57,Commercial Fleet
+Aarav,Bhatia,Bhatia Logistics 518,lead518@autoprotectdemo.com,+919729575208,Closed - Converted,Web,44,Commercial Fleet
+Ananya,Sharma,Sharma Logistics 519,lead519@autoprotectdemo.com,+919772640818,Open - Not Contacted,Purchased List,27,Zero Depreciation
+Neha,Patel,Patel Logistics 520,lead520@autoprotectdemo.com,+919764181774,Closed - Not Converted,Partner Referral,35,Two-Wheeler
+Kavita,Iyer,Iyer Logistics 521,lead521@autoprotectdemo.com,+919716900078,Working - Contacted,Phone Inquiry,29,Comprehensive
+Pari,Tiwari,Tiwari Logistics 522,lead522@autoprotectdemo.com,+919745330034,Closed - Converted,Phone Inquiry,47,Third-Party
+Sai,Sinha,Sinha Logistics 523,lead523@autoprotectdemo.com,+919746348599,Closed - Converted,Other,62,Commercial Fleet
+Reyansh,Joshi,Joshi Logistics 524,lead524@autoprotectdemo.com,+919725222139,Open - Not Contacted,Other,35,Third-Party
+Vivaan,Reddy,Reddy Logistics 525,lead525@autoprotectdemo.com,+919781255083,Closed - Not Converted,Web,51,Zero Depreciation
+Aadhya,Malhotra,Malhotra Logistics 526,lead526@autoprotectdemo.com,+919796077930,Open - Not Contacted,Other,60,Two-Wheeler
+Priya,Iyer,Iyer Logistics 527,lead527@autoprotectdemo.com,+919747672904,Open - Not Contacted,Phone Inquiry,40,Two-Wheeler
+Diya,Reddy,Reddy Logistics 528,lead528@autoprotectdemo.com,+919750187103,Working - Contacted,Purchased List,38,Comprehensive
+Ananya,Bose,Bose Logistics 529,lead529@autoprotectdemo.com,+919778698228,Working - Contacted,Purchased List,54,Third-Party
+Vikram,Kulkarni,Kulkarni Logistics 530,lead530@autoprotectdemo.com,+919784585320,Open - Not Contacted,Purchased List,50,Commercial Fleet
+Ayaan,Malhotra,Malhotra Logistics 531,lead531@autoprotectdemo.com,+919739215490,Working - Contacted,Other,35,Two-Wheeler
+Priya,Malhotra,Malhotra Logistics 532,lead532@autoprotectdemo.com,+919762352017,Working - Contacted,Partner Referral,47,Zero Depreciation
+Ananya,Das,Das Logistics 533,lead533@autoprotectdemo.com,+919730691092,Working - Contacted,Purchased List,50,Two-Wheeler
+Arjun,Verma,Verma Logistics 534,lead534@autoprotectdemo.com,+919781860656,Closed - Converted,Other,57,Third-Party
+Neha,Tiwari,Tiwari Logistics 535,lead535@autoprotectdemo.com,+919756277559,Open - Not Contacted,Purchased List,38,Two-Wheeler
+Reyansh,Deshmukh,Deshmukh Logistics 536,lead536@autoprotectdemo.com,+919778606194,Working - Contacted,Other,29,Zero Depreciation
+Ayaan,Kulkarni,Kulkarni Logistics 537,lead537@autoprotectdemo.com,+919753582623,Working - Contacted,Other,37,Commercial Fleet
+Rohan,Iyer,Iyer Logistics 538,lead538@autoprotectdemo.com,+919716689031,Open - Not Contacted,Web,54,Comprehensive
+Sara,Sinha,Sinha Logistics 539,lead539@autoprotectdemo.com,+919758393629,Working - Contacted,Partner Referral,50,Commercial Fleet
+Aditya,Bose,Bose Logistics 540,lead540@autoprotectdemo.com,+919759447106,Open - Not Contacted,Web,47,Commercial Fleet
+Aditya,Nair,Nair Logistics 541,lead541@autoprotectdemo.com,+919733483949,Closed - Not Converted,Phone Inquiry,62,Zero Depreciation
+Vivaan,Das,Das Logistics 542,lead542@autoprotectdemo.com,+919773153951,Working - Contacted,Web,22,Commercial Fleet
+Arjun,Patel,Patel Logistics 543,lead543@autoprotectdemo.com,+919771920999,Open - Not Contacted,Partner Referral,38,Comprehensive
+Rohan,Deshmukh,Deshmukh Logistics 544,lead544@autoprotectdemo.com,+919728902101,Open - Not Contacted,Phone Inquiry,35,Commercial Fleet
+Ananya,Rao,Rao Logistics 545,lead545@autoprotectdemo.com,+919724160233,Closed - Converted,Other,22,Third-Party
+Amit,Bose,Bose Logistics 546,lead546@autoprotectdemo.com,+919792050885,Open - Not Contacted,Purchased List,22,Third-Party
+Pooja,Reddy,Reddy Logistics 547,lead547@autoprotectdemo.com,+919752033620,Open - Not Contacted,Phone Inquiry,62,Commercial Fleet
+Priya,Sharma,Sharma Logistics 548,lead548@autoprotectdemo.com,+919791308673,Working - Contacted,Phone Inquiry,46,Two-Wheeler
+Reyansh,Kulkarni,Kulkarni Logistics 549,lead549@autoprotectdemo.com,+919791891650,Open - Not Contacted,Purchased List,36,Third-Party
+Amit,Reddy,Reddy Logistics 550,lead550@autoprotectdemo.com,+919791170934,Open - Not Contacted,Phone Inquiry,46,Third-Party
+Ishaan,Deshmukh,Deshmukh Logistics 551,lead551@autoprotectdemo.com,+919792882438,Open - Not Contacted,Phone Inquiry,24,Two-Wheeler
+Krishna,Mehta,Mehta Logistics 552,lead552@autoprotectdemo.com,+919773780915,Open - Not Contacted,Phone Inquiry,50,Commercial Fleet
+Rahul,Mehta,Mehta Logistics 553,lead553@autoprotectdemo.com,+919784420669,Working - Contacted,Purchased List,22,Zero Depreciation
+Reyansh,Malhotra,Malhotra Logistics 554,lead554@autoprotectdemo.com,+919730261562,Working - Contacted,Other,25,Third-Party
+Arjun,Choudhury,Choudhury Logistics 555,lead555@autoprotectdemo.com,+919724134905,Open - Not Contacted,Phone Inquiry,23,Zero Depreciation
+Myra,Bose,Bose Logistics 556,lead556@autoprotectdemo.com,+919785722599,Open - Not Contacted,Web,57,Comprehensive
+Arjun,Bose,Bose Logistics 557,lead557@autoprotectdemo.com,+919744818964,Open - Not Contacted,Purchased List,60,Comprehensive
+Krishna,Bhatia,Bhatia Logistics 558,lead558@autoprotectdemo.com,+919738407798,Closed - Converted,Web,62,Two-Wheeler
+Ananya,Reddy,Reddy Logistics 559,lead559@autoprotectdemo.com,+919752258629,Closed - Converted,Other,54,Commercial Fleet
+Priya,Iyer,Iyer Logistics 560,lead560@autoprotectdemo.com,+919715900407,Closed - Converted,Partner Referral,42,Two-Wheeler
+Aditya,Rao,Rao Logistics 561,lead561@autoprotectdemo.com,+919753060505,Open - Not Contacted,Purchased List,55,Commercial Fleet
+Sneha,Menon,Menon Logistics 562,lead562@autoprotectdemo.com,+919763789773,Closed - Not Converted,Purchased List,38,Third-Party
+Vihaan,Deshmukh,Deshmukh Logistics 563,lead563@autoprotectdemo.com,+919769015816,Working - Contacted,Web,49,Comprehensive
+Ishaan,Kulkarni,Kulkarni Logistics 564,lead564@autoprotectdemo.com,+919767707604,Open - Not Contacted,Web,56,Two-Wheeler
+Sneha,Mehta,Mehta Logistics 565,lead565@autoprotectdemo.com,+919757256252,Working - Contacted,Web,22,Two-Wheeler
+Ira,Gupta,Gupta Logistics 566,lead566@autoprotectdemo.com,+919726186519,Working - Contacted,Phone Inquiry,27,Zero Depreciation
+Neha,Sharma,Sharma Logistics 567,lead567@autoprotectdemo.com,+919769050406,Closed - Converted,Purchased List,30,Comprehensive
+Ayaan,Iyer,Iyer Logistics 568,lead568@autoprotectdemo.com,+919777007106,Open - Not Contacted,Web,46,Commercial Fleet
+Sara,Gupta,Gupta Logistics 569,lead569@autoprotectdemo.com,+919728308385,Open - Not Contacted,Web,54,Zero Depreciation
+Krishna,Nair,Nair Logistics 570,lead570@autoprotectdemo.com,+919757941469,Closed - Converted,Purchased List,32,Third-Party
+Anika,Tiwari,Tiwari Logistics 571,lead571@autoprotectdemo.com,+919768815117,Closed - Not Converted,Phone Inquiry,57,Comprehensive
+Rohan,Kulkarni,Kulkarni Logistics 572,lead572@autoprotectdemo.com,+919773080578,Working - Contacted,Other,56,Commercial Fleet
+Ishaan,Das,Das Logistics 573,lead573@autoprotectdemo.com,+919721288010,Closed - Converted,Partner Referral,46,Comprehensive
+Priya,Menon,Menon Logistics 574,lead574@autoprotectdemo.com,+919779892941,Closed - Not Converted,Partner Referral,28,Comprehensive
+Sara,Mehta,Mehta Logistics 575,lead575@autoprotectdemo.com,+919739441791,Working - Contacted,Web,51,Commercial Fleet
+Vivaan,Bose,Bose Logistics 576,lead576@autoprotectdemo.com,+919730822821,Closed - Not Converted,Partner Referral,52,Zero Depreciation
+Aadhya,Sharma,Sharma Logistics 577,lead577@autoprotectdemo.com,+919757738339,Closed - Not Converted,Web,38,Two-Wheeler
+Sai,Sinha,Sinha Logistics 578,lead578@autoprotectdemo.com,+919717217675,Closed - Converted,Purchased List,37,Zero Depreciation
+Sneha,Nair,Nair Logistics 579,lead579@autoprotectdemo.com,+919739825206,Open - Not Contacted,Other,39,Commercial Fleet
+Myra,Nair,Nair Logistics 580,lead580@autoprotectdemo.com,+919761767268,Closed - Not Converted,Phone Inquiry,42,Third-Party
+Angel,Tiwari,Tiwari Logistics 581,lead581@autoprotectdemo.com,+919777569126,Closed - Converted,Web,35,Third-Party
+Neha,Nair,Nair Logistics 582,lead582@autoprotectdemo.com,+919718748207,Closed - Not Converted,Phone Inquiry,50,Two-Wheeler
+Kavita,Sinha,Sinha Logistics 583,lead583@autoprotectdemo.com,+919737782920,Working - Contacted,Purchased List,30,Comprehensive
+Aarav,Malhotra,Malhotra Logistics 584,lead584@autoprotectdemo.com,+919727519746,Closed - Not Converted,Partner Referral,59,Comprehensive
+Karan,Tiwari,Tiwari Logistics 585,lead585@autoprotectdemo.com,+919783298353,Open - Not Contacted,Web,34,Third-Party
+Pari,Sharma,Sharma Logistics 586,lead586@autoprotectdemo.com,+919742045316,Closed - Not Converted,Purchased List,28,Third-Party
+Rohan,Das,Das Logistics 587,lead587@autoprotectdemo.com,+919775237077,Working - Contacted,Partner Referral,46,Comprehensive
+Pooja,Nair,Nair Logistics 588,lead588@autoprotectdemo.com,+919793528217,Closed - Converted,Purchased List,46,Commercial Fleet
+Rahul,Mehta,Mehta Logistics 589,lead589@autoprotectdemo.com,+919758056784,Closed - Converted,Phone Inquiry,39,Comprehensive
+Ananya,Nair,Nair Logistics 590,lead590@autoprotectdemo.com,+919714431452,Open - Not Contacted,Web,28,Two-Wheeler
+Reyansh,Joshi,Joshi Logistics 591,lead591@autoprotectdemo.com,+919715004967,Closed - Not Converted,Other,54,Comprehensive
+Rohan,Bose,Bose Logistics 592,lead592@autoprotectdemo.com,+919727860266,Working - Contacted,Purchased List,58,Zero Depreciation
+Sai,Choudhury,Choudhury Logistics 593,lead593@autoprotectdemo.com,+919711048891,Closed - Converted,Partner Referral,50,Zero Depreciation
+Vikram,Choudhury,Choudhury Logistics 594,lead594@autoprotectdemo.com,+919777377873,Closed - Converted,Phone Inquiry,35,Third-Party
+Sai,Tiwari,Tiwari Logistics 595,lead595@autoprotectdemo.com,+919757133215,Closed - Converted,Phone Inquiry,55,Comprehensive
+Aditya,Sharma,Sharma Logistics 596,lead596@autoprotectdemo.com,+919726114561,Closed - Converted,Partner Referral,27,Commercial Fleet
+Ananya,Bose,Bose Logistics 597,lead597@autoprotectdemo.com,+919794232823,Working - Contacted,Partner Referral,23,Zero Depreciation
+Aarav,Bhatia,Bhatia Logistics 598,lead598@autoprotectdemo.com,+919798232493,Working - Contacted,Partner Referral,22,Two-Wheeler
+Priya,Menon,Menon Logistics 599,lead599@autoprotectdemo.com,+919754790935,Open - Not Contacted,Other,25,Comprehensive
+Kavita,Kulkarni,Kulkarni Logistics 600,lead600@autoprotectdemo.com,+919744030361,Open - Not Contacted,Phone Inquiry,32,Zero Depreciation
+Aditya,Patel,Patel Logistics 601,lead601@autoprotectdemo.com,+919727216441,Open - Not Contacted,Partner Referral,38,Third-Party
+Vikram,Menon,Menon Logistics 602,lead602@autoprotectdemo.com,+919741565435,Closed - Not Converted,Phone Inquiry,34,Commercial Fleet
+Ishaan,Deshmukh,Deshmukh Logistics 603,lead603@autoprotectdemo.com,+919763311518,Working - Contacted,Other,25,Third-Party
+Priya,Verma,Verma Logistics 604,lead604@autoprotectdemo.com,+919787343075,Closed - Converted,Partner Referral,32,Third-Party
+Priya,Menon,Menon Logistics 605,lead605@autoprotectdemo.com,+919791239455,Closed - Not Converted,Other,22,Zero Depreciation
+Ayaan,Malhotra,Malhotra Logistics 606,lead606@autoprotectdemo.com,+919741306243,Working - Contacted,Other,58,Two-Wheeler
+Rohan,Bose,Bose Logistics 607,lead607@autoprotectdemo.com,+919710692101,Working - Contacted,Partner Referral,44,Comprehensive
+Aditya,Sharma,Sharma Logistics 608,lead608@autoprotectdemo.com,+919764915135,Closed - Not Converted,Purchased List,28,Comprehensive
+Vikram,Joshi,Joshi Logistics 609,lead609@autoprotectdemo.com,+919737022264,Closed - Converted,Other,41,Zero Depreciation
+Sara,Malhotra,Malhotra Logistics 610,lead610@autoprotectdemo.com,+919728429035,Open - Not Contacted,Other,35,Comprehensive
+Krishna,Bose,Bose Logistics 611,lead611@autoprotectdemo.com,+919726663999,Closed - Converted,Phone Inquiry,47,Commercial Fleet
+Arjun,Gupta,Gupta Logistics 612,lead612@autoprotectdemo.com,+919716500843,Working - Contacted,Purchased List,59,Comprehensive
+Krishna,Das,Das Logistics 613,lead613@autoprotectdemo.com,+919784603743,Open - Not Contacted,Other,43,Two-Wheeler
+Diya,Bose,Bose Logistics 614,lead614@autoprotectdemo.com,+919777294269,Working - Contacted,Web,30,Two-Wheeler
+Sara,Bose,Bose Logistics 615,lead615@autoprotectdemo.com,+919713191754,Closed - Converted,Other,60,Zero Depreciation
+Neha,Tiwari,Tiwari Logistics 616,lead616@autoprotectdemo.com,+919797072362,Closed - Converted,Other,62,Third-Party
+Krishna,Nair,Nair Logistics 617,lead617@autoprotectdemo.com,+919796495146,Working - Contacted,Other,50,Commercial Fleet
+Sara,Deshmukh,Deshmukh Logistics 618,lead618@autoprotectdemo.com,+919749909173,Working - Contacted,Phone Inquiry,55,Commercial Fleet
+Pooja,Iyer,Iyer Logistics 619,lead619@autoprotectdemo.com,+919740201819,Closed - Converted,Partner Referral,32,Third-Party
+Sara,Rao,Rao Logistics 620,lead620@autoprotectdemo.com,+919717955956,Closed - Not Converted,Web,31,Comprehensive
+Sara,Mehta,Mehta Logistics 621,lead621@autoprotectdemo.com,+919721963886,Open - Not Contacted,Other,28,Comprehensive
+Diya,Nair,Nair Logistics 622,lead622@autoprotectdemo.com,+919754591989,Closed - Not Converted,Other,47,Zero Depreciation
+Aarav,Verma,Verma Logistics 623,lead623@autoprotectdemo.com,+919750407508,Open - Not Contacted,Phone Inquiry,37,Commercial Fleet
+Sara,Tiwari,Tiwari Logistics 624,lead624@autoprotectdemo.com,+919720960175,Open - Not Contacted,Partner Referral,56,Zero Depreciation
+Kavita,Malhotra,Malhotra Logistics 625,lead625@autoprotectdemo.com,+919738683353,Open - Not Contacted,Purchased List,52,Commercial Fleet
+Vihaan,Patel,Patel Logistics 626,lead626@autoprotectdemo.com,+919713723174,Working - Contacted,Partner Referral,51,Two-Wheeler
+Sai,Menon,Menon Logistics 627,lead627@autoprotectdemo.com,+919713728438,Working - Contacted,Other,24,Third-Party
+Aditya,Malhotra,Malhotra Logistics 628,lead628@autoprotectdemo.com,+919751710216,Open - Not Contacted,Other,34,Two-Wheeler
+Aadhya,Joshi,Joshi Logistics 629,lead629@autoprotectdemo.com,+919785710340,Closed - Converted,Phone Inquiry,49,Zero Depreciation
+Krishna,Sinha,Sinha Logistics 630,lead630@autoprotectdemo.com,+919718036726,Open - Not Contacted,Purchased List,61,Third-Party
+Ira,Deshmukh,Deshmukh Logistics 631,lead631@autoprotectdemo.com,+919735760774,Working - Contacted,Purchased List,42,Zero Depreciation
+Karan,Bhatia,Bhatia Logistics 632,lead632@autoprotectdemo.com,+919735105297,Working - Contacted,Phone Inquiry,45,Commercial Fleet
+Pooja,Joshi,Joshi Logistics 633,lead633@autoprotectdemo.com,+919772827126,Closed - Not Converted,Web,52,Comprehensive
+Priya,Reddy,Reddy Logistics 634,lead634@autoprotectdemo.com,+919788876172,Closed - Converted,Phone Inquiry,56,Two-Wheeler
+Vihaan,Rao,Rao Logistics 635,lead635@autoprotectdemo.com,+919745167211,Working - Contacted,Other,52,Zero Depreciation
+Vivaan,Sinha,Sinha Logistics 636,lead636@autoprotectdemo.com,+919727175931,Open - Not Contacted,Purchased List,29,Third-Party
+Anika,Sinha,Sinha Logistics 637,lead637@autoprotectdemo.com,+919731041643,Working - Contacted,Web,60,Zero Depreciation
+Amit,Verma,Verma Logistics 638,lead638@autoprotectdemo.com,+919763286092,Closed - Not Converted,Partner Referral,47,Commercial Fleet
+Aarav,Gupta,Gupta Logistics 639,lead639@autoprotectdemo.com,+919793283701,Closed - Not Converted,Web,33,Third-Party
+Aadhya,Kulkarni,Kulkarni Logistics 640,lead640@autoprotectdemo.com,+919734093251,Closed - Converted,Partner Referral,52,Comprehensive
+Sneha,Verma,Verma Logistics 641,lead641@autoprotectdemo.com,+919771106863,Working - Contacted,Partner Referral,39,Commercial Fleet
+Ishaan,Gupta,Gupta Logistics 642,lead642@autoprotectdemo.com,+919719683379,Open - Not Contacted,Partner Referral,26,Third-Party
+Rahul,Deshmukh,Deshmukh Logistics 643,lead643@autoprotectdemo.com,+919787221421,Closed - Not Converted,Web,39,Comprehensive
+Vikram,Patel,Patel Logistics 644,lead644@autoprotectdemo.com,+919737715046,Closed - Not Converted,Other,33,Zero Depreciation
+Aadhya,Bhatia,Bhatia Logistics 645,lead645@autoprotectdemo.com,+919767834226,Working - Contacted,Purchased List,27,Comprehensive
+Vikram,Iyer,Iyer Logistics 646,lead646@autoprotectdemo.com,+919781679689,Closed - Converted,Purchased List,29,Commercial Fleet
+Pooja,Mehta,Mehta Logistics 647,lead647@autoprotectdemo.com,+919766899963,Closed - Not Converted,Partner Referral,51,Commercial Fleet
+Rohan,Mehta,Mehta Logistics 648,lead648@autoprotectdemo.com,+919729466804,Closed - Converted,Web,41,Third-Party
+Reyansh,Mehta,Mehta Logistics 649,lead649@autoprotectdemo.com,+919779254912,Open - Not Contacted,Partner Referral,59,Commercial Fleet
+Neha,Iyer,Iyer Logistics 650,lead650@autoprotectdemo.com,+919722354936,Closed - Converted,Purchased List,52,Zero Depreciation
+Aadhya,Joshi,Joshi Logistics 651,lead651@autoprotectdemo.com,+919711810139,Open - Not Contacted,Web,35,Two-Wheeler
+Reyansh,Kulkarni,Kulkarni Logistics 652,lead652@autoprotectdemo.com,+919772378910,Open - Not Contacted,Other,27,Two-Wheeler
+Reyansh,Patel,Patel Logistics 653,lead653@autoprotectdemo.com,+919766456974,Closed - Not Converted,Phone Inquiry,38,Comprehensive
+Aditya,Iyer,Iyer Logistics 654,lead654@autoprotectdemo.com,+919784575032,Open - Not Contacted,Purchased List,46,Third-Party
+Ira,Mehta,Mehta Logistics 655,lead655@autoprotectdemo.com,+919774126454,Closed - Not Converted,Web,35,Commercial Fleet
+Aarav,Bhatia,Bhatia Logistics 656,lead656@autoprotectdemo.com,+919719725473,Closed - Not Converted,Other,41,Commercial Fleet
+Vihaan,Kulkarni,Kulkarni Logistics 657,lead657@autoprotectdemo.com,+919715586045,Closed - Converted,Web,38,Zero Depreciation
+Ira,Mehta,Mehta Logistics 658,lead658@autoprotectdemo.com,+919795971661,Closed - Not Converted,Partner Referral,51,Commercial Fleet
+Karan,Bhatia,Bhatia Logistics 659,lead659@autoprotectdemo.com,+919759883840,Closed - Not Converted,Partner Referral,31,Commercial Fleet
+Reyansh,Kulkarni,Kulkarni Logistics 660,lead660@autoprotectdemo.com,+919712470923,Closed - Converted,Phone Inquiry,44,Zero Depreciation
+Pooja,Tiwari,Tiwari Logistics 661,lead661@autoprotectdemo.com,+919728863343,Working - Contacted,Partner Referral,45,Comprehensive
+Ira,Choudhury,Choudhury Logistics 662,lead662@autoprotectdemo.com,+919742134186,Open - Not Contacted,Other,28,Commercial Fleet
+Sneha,Nair,Nair Logistics 663,lead663@autoprotectdemo.com,+919721756274,Working - Contacted,Web,44,Third-Party
+Karan,Mehta,Mehta Logistics 664,lead664@autoprotectdemo.com,+919754453505,Open - Not Contacted,Partner Referral,26,Two-Wheeler
+Sai,Das,Das Logistics 665,lead665@autoprotectdemo.com,+919746405726,Working - Contacted,Web,49,Third-Party
+Amit,Choudhury,Choudhury Logistics 666,lead666@autoprotectdemo.com,+919715194991,Open - Not Contacted,Web,39,Comprehensive
+Karan,Rao,Rao Logistics 667,lead667@autoprotectdemo.com,+919782706756,Closed - Converted,Purchased List,47,Two-Wheeler
+Aarav,Patel,Patel Logistics 668,lead668@autoprotectdemo.com,+919774440049,Working - Contacted,Partner Referral,28,Two-Wheeler
+Aarav,Bhatia,Bhatia Logistics 669,lead669@autoprotectdemo.com,+919753064616,Closed - Converted,Phone Inquiry,35,Commercial Fleet
+Pari,Das,Das Logistics 670,lead670@autoprotectdemo.com,+919771490575,Working - Contacted,Phone Inquiry,22,Third-Party
+Ishaan,Gupta,Gupta Logistics 671,lead671@autoprotectdemo.com,+919779298944,Working - Contacted,Web,50,Third-Party
+Aarav,Sharma,Sharma Logistics 672,lead672@autoprotectdemo.com,+919765145761,Closed - Converted,Phone Inquiry,49,Two-Wheeler
+Ira,Sinha,Sinha Logistics 673,lead673@autoprotectdemo.com,+919794251343,Open - Not Contacted,Partner Referral,47,Third-Party
+Karan,Malhotra,Malhotra Logistics 674,lead674@autoprotectdemo.com,+919752455717,Open - Not Contacted,Purchased List,55,Commercial Fleet
+Krishna,Kulkarni,Kulkarni Logistics 675,lead675@autoprotectdemo.com,+919796334729,Closed - Converted,Purchased List,54,Zero Depreciation
+Ira,Iyer,Iyer Logistics 676,lead676@autoprotectdemo.com,+919798557149,Open - Not Contacted,Partner Referral,43,Comprehensive
+Sneha,Reddy,Reddy Logistics 677,lead677@autoprotectdemo.com,+919742372667,Open - Not Contacted,Web,62,Comprehensive
+Amit,Sinha,Sinha Logistics 678,lead678@autoprotectdemo.com,+919795660207,Closed - Not Converted,Purchased List,47,Two-Wheeler
+Vihaan,Bose,Bose Logistics 679,lead679@autoprotectdemo.com,+919753632239,Open - Not Contacted,Phone Inquiry,22,Third-Party
+Navya,Menon,Menon Logistics 680,lead680@autoprotectdemo.com,+919754410603,Open - Not Contacted,Partner Referral,44,Commercial Fleet
+Rahul,Deshmukh,Deshmukh Logistics 681,lead681@autoprotectdemo.com,+919771118638,Open - Not Contacted,Phone Inquiry,52,Third-Party
+Pari,Das,Das Logistics 682,lead682@autoprotectdemo.com,+919746016057,Closed - Converted,Purchased List,44,Two-Wheeler
+Vikram,Choudhury,Choudhury Logistics 683,lead683@autoprotectdemo.com,+919724332948,Open - Not Contacted,Phone Inquiry,58,Two-Wheeler
+Rohan,Verma,Verma Logistics 684,lead684@autoprotectdemo.com,+919771306315,Working - Contacted,Web,58,Comprehensive
+Rohan,Choudhury,Choudhury Logistics 685,lead685@autoprotectdemo.com,+919730959976,Working - Contacted,Other,32,Third-Party
+Vikram,Sinha,Sinha Logistics 686,lead686@autoprotectdemo.com,+919732909729,Closed - Not Converted,Other,51,Comprehensive
+Amit,Verma,Verma Logistics 687,lead687@autoprotectdemo.com,+919782191890,Open - Not Contacted,Phone Inquiry,47,Third-Party
+Rahul,Iyer,Iyer Logistics 688,lead688@autoprotectdemo.com,+919769956239,Open - Not Contacted,Phone Inquiry,48,Two-Wheeler
+Ayaan,Gupta,Gupta Logistics 689,lead689@autoprotectdemo.com,+919778362859,Closed - Not Converted,Phone Inquiry,36,Commercial Fleet
+Sai,Bhatia,Bhatia Logistics 690,lead690@autoprotectdemo.com,+919791965270,Open - Not Contacted,Partner Referral,30,Zero Depreciation
+Vihaan,Das,Das Logistics 691,lead691@autoprotectdemo.com,+919787130004,Closed - Not Converted,Partner Referral,51,Zero Depreciation
+Angel,Rao,Rao Logistics 692,lead692@autoprotectdemo.com,+919756971897,Working - Contacted,Purchased List,51,Zero Depreciation
+Ishaan,Verma,Verma Logistics 693,lead693@autoprotectdemo.com,+919746720377,Closed - Not Converted,Web,55,Comprehensive
+Priya,Sinha,Sinha Logistics 694,lead694@autoprotectdemo.com,+919751724775,Closed - Not Converted,Other,45,Third-Party
+Ira,Das,Das Logistics 695,lead695@autoprotectdemo.com,+919716657104,Closed - Converted,Partner Referral,40,Zero Depreciation
+Ayaan,Mehta,Mehta Logistics 696,lead696@autoprotectdemo.com,+919731248784,Closed - Not Converted,Other,59,Third-Party
+Arjun,Verma,Verma Logistics 697,lead697@autoprotectdemo.com,+919794312164,Open - Not Contacted,Purchased List,33,Comprehensive
+Priya,Tiwari,Tiwari Logistics 698,lead698@autoprotectdemo.com,+919771288581,Open - Not Contacted,Partner Referral,31,Third-Party
+Angel,Malhotra,Malhotra Logistics 699,lead699@autoprotectdemo.com,+919774826187,Open - Not Contacted,Web,54,Comprehensive
+Diya,Verma,Verma Logistics 700,lead700@autoprotectdemo.com,+919731301514,Closed - Converted,Other,30,Two-Wheeler

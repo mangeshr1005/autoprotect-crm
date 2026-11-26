@@ -1,201 +1,501 @@
-Type__c,Status__c,Priority__c,Description__c,Rating__c
-Inquiry,Open,Medium,Customer service request #001 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #002 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #003 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #004 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #005 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #006 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #007 regarding policy servicing.,
-Feedback,Open,High,Customer service request #008 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #009 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #010 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #011 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #012 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #013 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #014 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #015 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #016 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #017 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #018 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #019 regarding policy servicing.,
-Feedback,Open,High,Customer service request #020 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #021 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #022 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #023 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #024 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #025 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #026 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #027 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #028 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #029 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #030 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #031 regarding policy servicing.,
-Feedback,Open,High,Customer service request #032 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #033 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #034 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #035 regarding policy servicing.,4
-Complaint,Open,High,Customer service request #036 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #037 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #038 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #039 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #040 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #041 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #042 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #043 regarding policy servicing.,
-Feedback,Open,High,Customer service request #044 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #045 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #046 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #047 regarding policy servicing.,5
-Complaint,Open,High,Customer service request #048 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #049 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #050 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #051 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #052 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #053 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #054 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #055 regarding policy servicing.,
-Feedback,Open,High,Customer service request #056 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #057 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #058 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #059 regarding policy servicing.,5
-Complaint,Open,High,Customer service request #060 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #061 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #062 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #063 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #064 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #065 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #066 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #067 regarding policy servicing.,
-Feedback,Open,High,Customer service request #068 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #069 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #070 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #071 regarding policy servicing.,4
-Complaint,Open,High,Customer service request #072 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #073 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #074 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #075 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #076 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #077 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #078 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #079 regarding policy servicing.,
-Feedback,Open,High,Customer service request #080 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #081 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #082 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #083 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #084 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #085 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #086 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #087 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #088 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #089 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #090 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #091 regarding policy servicing.,
-Feedback,Open,High,Customer service request #092 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #093 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #094 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #095 regarding policy servicing.,5
-Complaint,Open,High,Customer service request #096 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #097 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #098 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #099 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #100 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #101 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #102 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #103 regarding policy servicing.,
-Feedback,Open,High,Customer service request #104 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #105 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #106 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #107 regarding policy servicing.,5
-Complaint,Open,High,Customer service request #108 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #109 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #110 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #111 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #112 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #113 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #114 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #115 regarding policy servicing.,
-Feedback,Open,High,Customer service request #116 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #117 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #118 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #119 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #120 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #121 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #122 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #123 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #124 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #125 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #126 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #127 regarding policy servicing.,
-Feedback,Open,High,Customer service request #128 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #129 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #130 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #131 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #132 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #133 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #134 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #135 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #136 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #137 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #138 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #139 regarding policy servicing.,
-Feedback,Open,High,Customer service request #140 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #141 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #142 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #143 regarding policy servicing.,4
-Complaint,Open,High,Customer service request #144 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #145 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #146 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #147 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #148 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #149 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #150 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #151 regarding policy servicing.,
-Feedback,Open,High,Customer service request #152 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #153 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #154 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #155 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #156 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #157 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #158 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #159 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #160 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #161 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #162 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #163 regarding policy servicing.,
-Feedback,Open,High,Customer service request #164 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #165 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #166 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #167 regarding policy servicing.,5
-Complaint,Open,High,Customer service request #168 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #169 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #170 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #171 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #172 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #173 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #174 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #175 regarding policy servicing.,
-Feedback,Open,High,Customer service request #176 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #177 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #178 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #179 regarding policy servicing.,5
-Complaint,Open,High,Customer service request #180 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #181 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #182 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #183 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #184 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #185 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #186 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #187 regarding policy servicing.,
-Feedback,Open,High,Customer service request #188 regarding policy servicing.,4
-Complaint,Open,Medium,Customer service request #189 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #190 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #191 regarding policy servicing.,3
-Complaint,Open,High,Customer service request #192 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #193 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #194 regarding policy servicing.,3
-Complaint,Open,Medium,Customer service request #195 regarding policy servicing.,
-Inquiry,Open,High,Customer service request #196 regarding policy servicing.,
-Feedback,Open,Medium,Customer service request #197 regarding policy servicing.,5
-Complaint,Open,Medium,Customer service request #198 regarding policy servicing.,
-Inquiry,Open,Medium,Customer service request #199 regarding policy servicing.,
-Feedback,Open,High,Customer service request #200 regarding policy servicing.,5
+Description__c,Priority__c,Status__c,Rating__c
+Claim surveyor appointment delay (Ref #201),Low,Closed,4
+Renewal quote discount review (Ref #202),High,New,3
+Claim surveyor appointment delay (Ref #203),Low,New,5
+Policy endorsement address update (Ref #204),High,Closed,4
+Renewal quote discount review (Ref #205),Low,Resolved,3
+Cashless garage network verification (Ref #206),Medium,Closed,4
+No-Claim Bonus certificate download issue (Ref #207),Critical,New,5
+Renewal quote discount review (Ref #208),High,New,3
+Premium receipt GST invoice correction (Ref #209),Medium,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #210),High,Waiting on Customer,4
+Premium receipt GST invoice correction (Ref #211),High,In Progress,5
+No-Claim Bonus certificate download issue (Ref #212),Medium,Resolved,5
+Roadside towing dispatch request (Ref #213),Critical,Resolved,5
+No-Claim Bonus certificate download issue (Ref #214),Critical,In Progress,5
+Roadside towing dispatch request (Ref #215),High,Closed,5
+Policy endorsement address update (Ref #216),High,Resolved,5
+Premium receipt GST invoice correction (Ref #217),High,In Progress,3
+Claim surveyor appointment delay (Ref #218),Low,Waiting on Customer,4
+Roadside towing dispatch request (Ref #219),High,Closed,4
+Premium receipt GST invoice correction (Ref #220),High,Closed,3
+Claim surveyor appointment delay (Ref #221),High,Resolved,3
+Renewal quote discount review (Ref #222),Critical,Closed,5
+No-Claim Bonus certificate download issue (Ref #223),High,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #224),Medium,Resolved,4
+Cashless garage network verification (Ref #225),High,New,5
+Claim surveyor appointment delay (Ref #226),Low,Waiting on Customer,4
+Premium receipt GST invoice correction (Ref #227),High,Resolved,3
+Renewal quote discount review (Ref #228),High,In Progress,3
+Renewal quote discount review (Ref #229),Medium,In Progress,5
+Claim surveyor appointment delay (Ref #230),Low,New,4
+Claim surveyor appointment delay (Ref #231),High,Resolved,4
+Roadside towing dispatch request (Ref #232),Medium,Closed,3
+Claim surveyor appointment delay (Ref #233),Medium,Resolved,4
+Claim surveyor appointment delay (Ref #234),Critical,Resolved,3
+Policy endorsement address update (Ref #235),High,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #236),Critical,New,5
+Renewal quote discount review (Ref #237),Medium,Resolved,5
+Renewal quote discount review (Ref #238),High,Resolved,4
+Renewal quote discount review (Ref #239),High,New,3
+No-Claim Bonus certificate download issue (Ref #240),Critical,Resolved,3
+Premium receipt GST invoice correction (Ref #241),Medium,Resolved,5
+Policy endorsement address update (Ref #242),Medium,In Progress,4
+Premium receipt GST invoice correction (Ref #243),Low,Waiting on Customer,3
+Policy endorsement address update (Ref #244),Medium,Closed,4
+Roadside towing dispatch request (Ref #245),Low,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #246),Low,Waiting on Customer,4
+Policy endorsement address update (Ref #247),High,In Progress,3
+Premium receipt GST invoice correction (Ref #248),High,In Progress,3
+Renewal quote discount review (Ref #249),Medium,New,3
+Claim surveyor appointment delay (Ref #250),Low,In Progress,3
+No-Claim Bonus certificate download issue (Ref #251),High,New,3
+No-Claim Bonus certificate download issue (Ref #252),Medium,Waiting on Customer,4
+Roadside towing dispatch request (Ref #253),Critical,Waiting on Customer,3
+Cashless garage network verification (Ref #254),Low,Resolved,3
+Policy endorsement address update (Ref #255),Medium,Closed,4
+Roadside towing dispatch request (Ref #256),Critical,Resolved,4
+Renewal quote discount review (Ref #257),High,Waiting on Customer,5
+Renewal quote discount review (Ref #258),Low,Closed,5
+Cashless garage network verification (Ref #259),Medium,In Progress,4
+Roadside towing dispatch request (Ref #260),High,Closed,5
+Cashless garage network verification (Ref #261),High,Closed,3
+Roadside towing dispatch request (Ref #262),Medium,Resolved,3
+Claim surveyor appointment delay (Ref #263),Critical,Closed,4
+Renewal quote discount review (Ref #264),Critical,New,4
+Claim surveyor appointment delay (Ref #265),High,Resolved,5
+Claim surveyor appointment delay (Ref #266),Medium,Resolved,5
+No-Claim Bonus certificate download issue (Ref #267),Low,Waiting on Customer,5
+Claim surveyor appointment delay (Ref #268),Low,Resolved,5
+Policy endorsement address update (Ref #269),High,In Progress,3
+Renewal quote discount review (Ref #270),Low,Closed,5
+Renewal quote discount review (Ref #271),Critical,Waiting on Customer,5
+Claim surveyor appointment delay (Ref #272),Medium,Waiting on Customer,4
+Policy endorsement address update (Ref #273),High,Waiting on Customer,3
+Premium receipt GST invoice correction (Ref #274),Low,New,4
+Cashless garage network verification (Ref #275),Low,Waiting on Customer,4
+Roadside towing dispatch request (Ref #276),Critical,Waiting on Customer,3
+Roadside towing dispatch request (Ref #277),Critical,Closed,5
+Roadside towing dispatch request (Ref #278),Critical,Resolved,5
+Premium receipt GST invoice correction (Ref #279),Low,Resolved,3
+Premium receipt GST invoice correction (Ref #280),Medium,Resolved,3
+Premium receipt GST invoice correction (Ref #281),Medium,In Progress,4
+No-Claim Bonus certificate download issue (Ref #282),Low,In Progress,4
+Policy endorsement address update (Ref #283),Critical,Resolved,3
+Roadside towing dispatch request (Ref #284),Critical,Resolved,3
+No-Claim Bonus certificate download issue (Ref #285),High,Waiting on Customer,5
+No-Claim Bonus certificate download issue (Ref #286),Medium,In Progress,4
+Roadside towing dispatch request (Ref #287),Low,In Progress,3
+Roadside towing dispatch request (Ref #288),High,Resolved,4
+Claim surveyor appointment delay (Ref #289),Critical,New,4
+Policy endorsement address update (Ref #290),Low,In Progress,3
+Cashless garage network verification (Ref #291),Critical,New,3
+Policy endorsement address update (Ref #292),Low,New,5
+Renewal quote discount review (Ref #293),Medium,Resolved,3
+Claim surveyor appointment delay (Ref #294),Critical,New,4
+Claim surveyor appointment delay (Ref #295),Critical,In Progress,5
+Renewal quote discount review (Ref #296),Critical,In Progress,5
+No-Claim Bonus certificate download issue (Ref #297),Low,Resolved,4
+No-Claim Bonus certificate download issue (Ref #298),Low,New,3
+No-Claim Bonus certificate download issue (Ref #299),Medium,New,5
+Claim surveyor appointment delay (Ref #300),Medium,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #301),Critical,In Progress,3
+Roadside towing dispatch request (Ref #302),Critical,In Progress,5
+Claim surveyor appointment delay (Ref #303),Medium,New,3
+Policy endorsement address update (Ref #304),High,Waiting on Customer,5
+Cashless garage network verification (Ref #305),Medium,Waiting on Customer,5
+No-Claim Bonus certificate download issue (Ref #306),Medium,In Progress,3
+Cashless garage network verification (Ref #307),Critical,In Progress,5
+Premium receipt GST invoice correction (Ref #308),Medium,Closed,3
+Policy endorsement address update (Ref #309),Medium,New,4
+Claim surveyor appointment delay (Ref #310),High,Closed,5
+Cashless garage network verification (Ref #311),Low,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #312),High,Resolved,5
+Policy endorsement address update (Ref #313),Medium,Resolved,4
+Policy endorsement address update (Ref #314),Critical,New,4
+Claim surveyor appointment delay (Ref #315),Critical,New,3
+Roadside towing dispatch request (Ref #316),High,New,3
+Claim surveyor appointment delay (Ref #317),Medium,Closed,5
+No-Claim Bonus certificate download issue (Ref #318),Medium,New,5
+No-Claim Bonus certificate download issue (Ref #319),Medium,New,4
+Roadside towing dispatch request (Ref #320),Medium,Closed,5
+Claim surveyor appointment delay (Ref #321),Medium,In Progress,4
+Policy endorsement address update (Ref #322),Medium,Closed,5
+No-Claim Bonus certificate download issue (Ref #323),Low,Closed,4
+Cashless garage network verification (Ref #324),High,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #325),Critical,New,3
+Policy endorsement address update (Ref #326),Low,New,3
+Claim surveyor appointment delay (Ref #327),High,Waiting on Customer,4
+Premium receipt GST invoice correction (Ref #328),High,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #329),Critical,New,4
+Policy endorsement address update (Ref #330),High,New,4
+Premium receipt GST invoice correction (Ref #331),Low,Resolved,4
+Premium receipt GST invoice correction (Ref #332),Medium,Resolved,5
+Roadside towing dispatch request (Ref #333),Low,Waiting on Customer,5
+No-Claim Bonus certificate download issue (Ref #334),Low,Resolved,3
+Roadside towing dispatch request (Ref #335),Medium,In Progress,4
+Premium receipt GST invoice correction (Ref #336),Critical,Resolved,5
+Cashless garage network verification (Ref #337),Low,Closed,3
+Cashless garage network verification (Ref #338),Critical,Closed,5
+Roadside towing dispatch request (Ref #339),High,Resolved,3
+Roadside towing dispatch request (Ref #340),Low,New,3
+Claim surveyor appointment delay (Ref #341),Critical,Closed,3
+Claim surveyor appointment delay (Ref #342),High,New,3
+No-Claim Bonus certificate download issue (Ref #343),Medium,New,3
+Policy endorsement address update (Ref #344),Low,New,5
+Roadside towing dispatch request (Ref #345),High,Resolved,5
+Policy endorsement address update (Ref #346),Medium,Closed,3
+Cashless garage network verification (Ref #347),Medium,Resolved,4
+Premium receipt GST invoice correction (Ref #348),Low,Closed,4
+Renewal quote discount review (Ref #349),Critical,Closed,3
+Renewal quote discount review (Ref #350),High,New,3
+Cashless garage network verification (Ref #351),Low,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #352),High,Closed,3
+Premium receipt GST invoice correction (Ref #353),Medium,In Progress,3
+Claim surveyor appointment delay (Ref #354),Critical,Waiting on Customer,3
+Cashless garage network verification (Ref #355),Low,New,4
+No-Claim Bonus certificate download issue (Ref #356),Critical,Closed,5
+Roadside towing dispatch request (Ref #357),Critical,New,4
+Policy endorsement address update (Ref #358),Low,In Progress,3
+Cashless garage network verification (Ref #359),Medium,New,4
+Renewal quote discount review (Ref #360),High,Resolved,4
+Premium receipt GST invoice correction (Ref #361),Low,Waiting on Customer,3
+Roadside towing dispatch request (Ref #362),Low,New,3
+Claim surveyor appointment delay (Ref #363),High,New,4
+Premium receipt GST invoice correction (Ref #364),Low,Waiting on Customer,5
+No-Claim Bonus certificate download issue (Ref #365),Low,Closed,4
+Policy endorsement address update (Ref #366),Medium,New,4
+No-Claim Bonus certificate download issue (Ref #367),Low,Resolved,5
+Policy endorsement address update (Ref #368),Critical,Waiting on Customer,4
+Roadside towing dispatch request (Ref #369),Critical,Resolved,5
+Roadside towing dispatch request (Ref #370),Critical,Resolved,3
+Renewal quote discount review (Ref #371),Low,Resolved,5
+No-Claim Bonus certificate download issue (Ref #372),Critical,New,5
+Policy endorsement address update (Ref #373),High,New,4
+Cashless garage network verification (Ref #374),Medium,New,4
+Premium receipt GST invoice correction (Ref #375),Medium,In Progress,3
+Claim surveyor appointment delay (Ref #376),High,Waiting on Customer,5
+Cashless garage network verification (Ref #377),Low,Closed,3
+Cashless garage network verification (Ref #378),Critical,New,4
+Premium receipt GST invoice correction (Ref #379),Medium,Closed,5
+Claim surveyor appointment delay (Ref #380),Medium,Closed,4
+Cashless garage network verification (Ref #381),Medium,Closed,3
+Premium receipt GST invoice correction (Ref #382),Critical,Resolved,4
+Cashless garage network verification (Ref #383),Medium,Resolved,3
+Cashless garage network verification (Ref #384),Critical,New,5
+Premium receipt GST invoice correction (Ref #385),Low,Resolved,4
+Premium receipt GST invoice correction (Ref #386),Medium,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #387),Critical,Resolved,3
+Renewal quote discount review (Ref #388),Medium,Waiting on Customer,4
+No-Claim Bonus certificate download issue (Ref #389),Medium,Closed,5
+Premium receipt GST invoice correction (Ref #390),Critical,New,5
+Roadside towing dispatch request (Ref #391),Low,In Progress,5
+No-Claim Bonus certificate download issue (Ref #392),Low,New,3
+No-Claim Bonus certificate download issue (Ref #393),Low,Waiting on Customer,3
+Renewal quote discount review (Ref #394),Critical,Waiting on Customer,3
+No-Claim Bonus certificate download issue (Ref #395),Critical,New,4
+Renewal quote discount review (Ref #396),Critical,Closed,4
+Renewal quote discount review (Ref #397),Medium,Resolved,5
+Claim surveyor appointment delay (Ref #398),High,Closed,3
+Policy endorsement address update (Ref #399),Low,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #400),Critical,New,4
+Policy endorsement address update (Ref #401),Critical,Resolved,5
+No-Claim Bonus certificate download issue (Ref #402),Critical,In Progress,4
+Policy endorsement address update (Ref #403),Low,Closed,5
+Roadside towing dispatch request (Ref #404),Low,Closed,5
+No-Claim Bonus certificate download issue (Ref #405),Low,In Progress,3
+Policy endorsement address update (Ref #406),Medium,New,4
+No-Claim Bonus certificate download issue (Ref #407),Low,Closed,3
+Renewal quote discount review (Ref #408),Low,New,5
+Renewal quote discount review (Ref #409),Critical,Waiting on Customer,5
+Claim surveyor appointment delay (Ref #410),High,Resolved,4
+Roadside towing dispatch request (Ref #411),Critical,In Progress,5
+Roadside towing dispatch request (Ref #412),Medium,Resolved,5
+Premium receipt GST invoice correction (Ref #413),Medium,Resolved,4
+Claim surveyor appointment delay (Ref #414),Critical,Closed,5
+Cashless garage network verification (Ref #415),High,In Progress,3
+Cashless garage network verification (Ref #416),Medium,In Progress,5
+Cashless garage network verification (Ref #417),Medium,Closed,4
+Claim surveyor appointment delay (Ref #418),Low,In Progress,5
+Claim surveyor appointment delay (Ref #419),High,Closed,5
+Premium receipt GST invoice correction (Ref #420),High,Resolved,4
+Claim surveyor appointment delay (Ref #421),Critical,Closed,5
+Premium receipt GST invoice correction (Ref #422),High,New,4
+No-Claim Bonus certificate download issue (Ref #423),Critical,In Progress,5
+No-Claim Bonus certificate download issue (Ref #424),Low,Waiting on Customer,4
+Roadside towing dispatch request (Ref #425),Low,New,5
+Premium receipt GST invoice correction (Ref #426),High,Waiting on Customer,4
+Roadside towing dispatch request (Ref #427),High,Resolved,5
+Claim surveyor appointment delay (Ref #428),High,Resolved,5
+Policy endorsement address update (Ref #429),High,Waiting on Customer,4
+No-Claim Bonus certificate download issue (Ref #430),Critical,Waiting on Customer,4
+Roadside towing dispatch request (Ref #431),Medium,New,4
+Claim surveyor appointment delay (Ref #432),Medium,Resolved,3
+No-Claim Bonus certificate download issue (Ref #433),High,In Progress,3
+Premium receipt GST invoice correction (Ref #434),High,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #435),High,In Progress,5
+Renewal quote discount review (Ref #436),Medium,Resolved,4
+Premium receipt GST invoice correction (Ref #437),High,In Progress,5
+Roadside towing dispatch request (Ref #438),Medium,Waiting on Customer,3
+Roadside towing dispatch request (Ref #439),Critical,Resolved,4
+No-Claim Bonus certificate download issue (Ref #440),Low,In Progress,4
+Premium receipt GST invoice correction (Ref #441),High,Waiting on Customer,4
+Policy endorsement address update (Ref #442),High,Waiting on Customer,4
+Roadside towing dispatch request (Ref #443),Critical,Resolved,3
+Premium receipt GST invoice correction (Ref #444),High,Closed,5
+Premium receipt GST invoice correction (Ref #445),Medium,In Progress,3
+Roadside towing dispatch request (Ref #446),Low,In Progress,3
+No-Claim Bonus certificate download issue (Ref #447),Medium,New,3
+Renewal quote discount review (Ref #448),Critical,Waiting on Customer,3
+Cashless garage network verification (Ref #449),Medium,New,3
+No-Claim Bonus certificate download issue (Ref #450),Low,New,5
+Premium receipt GST invoice correction (Ref #451),High,New,3
+Roadside towing dispatch request (Ref #452),High,Resolved,4
+Claim surveyor appointment delay (Ref #453),Critical,New,5
+Cashless garage network verification (Ref #454),Medium,New,3
+No-Claim Bonus certificate download issue (Ref #455),High,Resolved,5
+Cashless garage network verification (Ref #456),High,In Progress,5
+Claim surveyor appointment delay (Ref #457),Critical,In Progress,3
+Roadside towing dispatch request (Ref #458),High,Closed,5
+Policy endorsement address update (Ref #459),Critical,New,4
+Policy endorsement address update (Ref #460),High,New,4
+Roadside towing dispatch request (Ref #461),Critical,Waiting on Customer,5
+Claim surveyor appointment delay (Ref #462),Low,In Progress,5
+Cashless garage network verification (Ref #463),Low,In Progress,5
+Policy endorsement address update (Ref #464),Critical,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #465),High,Waiting on Customer,4
+Premium receipt GST invoice correction (Ref #466),Low,Closed,4
+Cashless garage network verification (Ref #467),Low,Closed,5
+Claim surveyor appointment delay (Ref #468),Critical,Closed,3
+Premium receipt GST invoice correction (Ref #469),Critical,New,5
+Premium receipt GST invoice correction (Ref #470),Low,Resolved,5
+No-Claim Bonus certificate download issue (Ref #471),High,In Progress,4
+No-Claim Bonus certificate download issue (Ref #472),Critical,Closed,5
+Claim surveyor appointment delay (Ref #473),Medium,Waiting on Customer,3
+Policy endorsement address update (Ref #474),Critical,New,3
+Renewal quote discount review (Ref #475),High,Resolved,3
+Claim surveyor appointment delay (Ref #476),Low,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #477),Critical,Closed,3
+No-Claim Bonus certificate download issue (Ref #478),Medium,Waiting on Customer,3
+Roadside towing dispatch request (Ref #479),Critical,New,3
+Cashless garage network verification (Ref #480),High,Resolved,3
+Policy endorsement address update (Ref #481),Critical,Resolved,5
+Claim surveyor appointment delay (Ref #482),Medium,In Progress,4
+Policy endorsement address update (Ref #483),High,Waiting on Customer,4
+Renewal quote discount review (Ref #484),Critical,Waiting on Customer,3
+No-Claim Bonus certificate download issue (Ref #485),Medium,New,4
+No-Claim Bonus certificate download issue (Ref #486),High,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #487),High,New,3
+Roadside towing dispatch request (Ref #488),High,Waiting on Customer,4
+No-Claim Bonus certificate download issue (Ref #489),Medium,Closed,3
+Cashless garage network verification (Ref #490),Low,Resolved,4
+Premium receipt GST invoice correction (Ref #491),Medium,In Progress,4
+Premium receipt GST invoice correction (Ref #492),High,In Progress,3
+Policy endorsement address update (Ref #493),Critical,Resolved,4
+Roadside towing dispatch request (Ref #494),Low,Closed,3
+Policy endorsement address update (Ref #495),Medium,Closed,3
+Policy endorsement address update (Ref #496),High,New,5
+Claim surveyor appointment delay (Ref #497),High,Waiting on Customer,3
+Roadside towing dispatch request (Ref #498),Low,Waiting on Customer,5
+Renewal quote discount review (Ref #499),Medium,New,3
+Cashless garage network verification (Ref #500),High,Resolved,3
+Premium receipt GST invoice correction (Ref #501),Critical,Resolved,4
+Renewal quote discount review (Ref #502),Medium,Waiting on Customer,4
+Cashless garage network verification (Ref #503),Medium,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #504),Low,In Progress,5
+Roadside towing dispatch request (Ref #505),Critical,Resolved,3
+Roadside towing dispatch request (Ref #506),Critical,In Progress,4
+Policy endorsement address update (Ref #507),Low,Closed,4
+Renewal quote discount review (Ref #508),Medium,Waiting on Customer,5
+Claim surveyor appointment delay (Ref #509),Critical,Resolved,4
+Premium receipt GST invoice correction (Ref #510),High,Closed,5
+Renewal quote discount review (Ref #511),Critical,Waiting on Customer,5
+Roadside towing dispatch request (Ref #512),Medium,Resolved,3
+Premium receipt GST invoice correction (Ref #513),Low,Waiting on Customer,3
+Premium receipt GST invoice correction (Ref #514),Low,In Progress,5
+Roadside towing dispatch request (Ref #515),Medium,New,4
+Roadside towing dispatch request (Ref #516),High,In Progress,3
+No-Claim Bonus certificate download issue (Ref #517),Low,Waiting on Customer,5
+Cashless garage network verification (Ref #518),Medium,Waiting on Customer,5
+Policy endorsement address update (Ref #519),Critical,New,4
+Roadside towing dispatch request (Ref #520),Low,In Progress,4
+Roadside towing dispatch request (Ref #521),Low,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #522),Low,In Progress,4
+Renewal quote discount review (Ref #523),Low,Closed,3
+Renewal quote discount review (Ref #524),Medium,Resolved,5
+Renewal quote discount review (Ref #525),High,Resolved,3
+Claim surveyor appointment delay (Ref #526),Low,New,4
+Cashless garage network verification (Ref #527),Medium,In Progress,4
+Claim surveyor appointment delay (Ref #528),High,Closed,3
+Renewal quote discount review (Ref #529),Low,Closed,3
+Renewal quote discount review (Ref #530),High,Resolved,3
+Renewal quote discount review (Ref #531),Low,New,5
+Premium receipt GST invoice correction (Ref #532),Low,New,4
+Roadside towing dispatch request (Ref #533),Low,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #534),High,Closed,4
+No-Claim Bonus certificate download issue (Ref #535),Medium,In Progress,3
+Renewal quote discount review (Ref #536),Critical,Closed,3
+Premium receipt GST invoice correction (Ref #537),Medium,Resolved,5
+Cashless garage network verification (Ref #538),Low,In Progress,3
+Claim surveyor appointment delay (Ref #539),Critical,Resolved,4
+Renewal quote discount review (Ref #540),High,Resolved,5
+No-Claim Bonus certificate download issue (Ref #541),Low,Waiting on Customer,4
+Premium receipt GST invoice correction (Ref #542),High,Resolved,3
+Roadside towing dispatch request (Ref #543),Medium,Resolved,4
+Renewal quote discount review (Ref #544),Low,Closed,4
+Claim surveyor appointment delay (Ref #545),Medium,Waiting on Customer,5
+Cashless garage network verification (Ref #546),Low,New,3
+Claim surveyor appointment delay (Ref #547),Low,Closed,3
+Renewal quote discount review (Ref #548),Critical,Waiting on Customer,5
+No-Claim Bonus certificate download issue (Ref #549),High,Resolved,4
+Claim surveyor appointment delay (Ref #550),Critical,Resolved,3
+Policy endorsement address update (Ref #551),High,In Progress,3
+Policy endorsement address update (Ref #552),High,Waiting on Customer,3
+Cashless garage network verification (Ref #553),Medium,Closed,5
+Renewal quote discount review (Ref #554),Low,New,5
+Roadside towing dispatch request (Ref #555),Critical,New,3
+No-Claim Bonus certificate download issue (Ref #556),Critical,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #557),High,In Progress,3
+Claim surveyor appointment delay (Ref #558),Low,New,4
+Renewal quote discount review (Ref #559),Low,In Progress,4
+Policy endorsement address update (Ref #560),High,New,4
+Claim surveyor appointment delay (Ref #561),Low,Resolved,5
+Policy endorsement address update (Ref #562),Medium,New,3
+Claim surveyor appointment delay (Ref #563),Medium,In Progress,5
+Premium receipt GST invoice correction (Ref #564),Critical,Closed,5
+Premium receipt GST invoice correction (Ref #565),Critical,New,3
+Claim surveyor appointment delay (Ref #566),Low,In Progress,5
+No-Claim Bonus certificate download issue (Ref #567),High,New,5
+Claim surveyor appointment delay (Ref #568),Medium,New,4
+Premium receipt GST invoice correction (Ref #569),Critical,Closed,5
+Renewal quote discount review (Ref #570),Low,New,5
+Premium receipt GST invoice correction (Ref #571),High,In Progress,5
+No-Claim Bonus certificate download issue (Ref #572),High,Closed,3
+Premium receipt GST invoice correction (Ref #573),High,Waiting on Customer,3
+Premium receipt GST invoice correction (Ref #574),Medium,New,4
+Roadside towing dispatch request (Ref #575),Critical,In Progress,4
+Roadside towing dispatch request (Ref #576),Low,Resolved,5
+Roadside towing dispatch request (Ref #577),Low,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #578),Medium,In Progress,5
+Policy endorsement address update (Ref #579),Critical,Waiting on Customer,5
+Claim surveyor appointment delay (Ref #580),Low,In Progress,3
+No-Claim Bonus certificate download issue (Ref #581),High,Waiting on Customer,4
+Renewal quote discount review (Ref #582),High,Waiting on Customer,5
+Policy endorsement address update (Ref #583),Medium,In Progress,4
+No-Claim Bonus certificate download issue (Ref #584),High,Waiting on Customer,3
+Roadside towing dispatch request (Ref #585),Critical,Closed,3
+Roadside towing dispatch request (Ref #586),Low,New,5
+No-Claim Bonus certificate download issue (Ref #587),Low,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #588),Critical,Resolved,5
+Renewal quote discount review (Ref #589),Medium,Waiting on Customer,3
+Claim surveyor appointment delay (Ref #590),Critical,Closed,5
+Premium receipt GST invoice correction (Ref #591),Medium,Waiting on Customer,5
+Roadside towing dispatch request (Ref #592),High,Resolved,3
+Policy endorsement address update (Ref #593),Medium,New,3
+Renewal quote discount review (Ref #594),Low,Resolved,5
+Cashless garage network verification (Ref #595),Critical,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #596),High,Resolved,5
+No-Claim Bonus certificate download issue (Ref #597),Critical,New,3
+No-Claim Bonus certificate download issue (Ref #598),Critical,New,4
+Roadside towing dispatch request (Ref #599),Critical,In Progress,5
+Premium receipt GST invoice correction (Ref #600),High,Resolved,4
+Claim surveyor appointment delay (Ref #601),Medium,New,4
+Policy endorsement address update (Ref #602),Medium,Closed,3
+Premium receipt GST invoice correction (Ref #603),Critical,Resolved,3
+No-Claim Bonus certificate download issue (Ref #604),Critical,Waiting on Customer,3
+Renewal quote discount review (Ref #605),High,In Progress,5
+Cashless garage network verification (Ref #606),Critical,Closed,4
+Cashless garage network verification (Ref #607),High,Waiting on Customer,5
+Roadside towing dispatch request (Ref #608),High,Closed,3
+Premium receipt GST invoice correction (Ref #609),High,New,4
+Renewal quote discount review (Ref #610),Low,New,5
+Premium receipt GST invoice correction (Ref #611),Medium,Waiting on Customer,5
+Roadside towing dispatch request (Ref #612),Low,Closed,5
+Cashless garage network verification (Ref #613),Low,Closed,3
+Claim surveyor appointment delay (Ref #614),High,In Progress,3
+Roadside towing dispatch request (Ref #615),High,New,5
+Roadside towing dispatch request (Ref #616),Low,New,4
+Cashless garage network verification (Ref #617),Critical,Resolved,3
+No-Claim Bonus certificate download issue (Ref #618),Critical,In Progress,5
+Policy endorsement address update (Ref #619),Critical,New,3
+Policy endorsement address update (Ref #620),Low,In Progress,3
+Cashless garage network verification (Ref #621),Medium,Waiting on Customer,3
+Cashless garage network verification (Ref #622),Critical,Resolved,5
+Policy endorsement address update (Ref #623),High,Closed,4
+No-Claim Bonus certificate download issue (Ref #624),Low,In Progress,4
+Renewal quote discount review (Ref #625),Critical,Resolved,4
+Renewal quote discount review (Ref #626),High,In Progress,5
+Cashless garage network verification (Ref #627),Medium,Closed,4
+Roadside towing dispatch request (Ref #628),Critical,New,3
+Cashless garage network verification (Ref #629),High,New,4
+Policy endorsement address update (Ref #630),Critical,New,4
+Policy endorsement address update (Ref #631),Critical,New,3
+Cashless garage network verification (Ref #632),Critical,New,3
+No-Claim Bonus certificate download issue (Ref #633),Low,Resolved,5
+Policy endorsement address update (Ref #634),High,Waiting on Customer,3
+Cashless garage network verification (Ref #635),Medium,In Progress,3
+Policy endorsement address update (Ref #636),High,New,5
+Policy endorsement address update (Ref #637),Medium,Closed,5
+No-Claim Bonus certificate download issue (Ref #638),High,In Progress,3
+Claim surveyor appointment delay (Ref #639),Critical,Resolved,4
+No-Claim Bonus certificate download issue (Ref #640),High,In Progress,3
+Cashless garage network verification (Ref #641),High,Closed,3
+Premium receipt GST invoice correction (Ref #642),Critical,New,4
+Roadside towing dispatch request (Ref #643),High,Resolved,5
+Policy endorsement address update (Ref #644),Medium,In Progress,5
+Premium receipt GST invoice correction (Ref #645),High,Closed,3
+Renewal quote discount review (Ref #646),High,Waiting on Customer,5
+Renewal quote discount review (Ref #647),High,Resolved,5
+Premium receipt GST invoice correction (Ref #648),Low,New,4
+Cashless garage network verification (Ref #649),High,Closed,5
+Cashless garage network verification (Ref #650),High,Closed,5
+Claim surveyor appointment delay (Ref #651),Medium,Waiting on Customer,5
+Cashless garage network verification (Ref #652),Medium,Waiting on Customer,5
+Policy endorsement address update (Ref #653),Critical,Closed,5
+Policy endorsement address update (Ref #654),Medium,Closed,5
+Policy endorsement address update (Ref #655),Medium,Resolved,5
+Policy endorsement address update (Ref #656),Low,New,3
+Claim surveyor appointment delay (Ref #657),Medium,Resolved,4
+Roadside towing dispatch request (Ref #658),Medium,New,3
+Policy endorsement address update (Ref #659),Medium,Waiting on Customer,3
+Policy endorsement address update (Ref #660),Medium,Waiting on Customer,4
+Renewal quote discount review (Ref #661),High,Closed,5
+Policy endorsement address update (Ref #662),High,New,4
+Roadside towing dispatch request (Ref #663),Medium,Waiting on Customer,4
+Claim surveyor appointment delay (Ref #664),Medium,In Progress,5
+Premium receipt GST invoice correction (Ref #665),Critical,In Progress,3
+Premium receipt GST invoice correction (Ref #666),Critical,Waiting on Customer,4
+No-Claim Bonus certificate download issue (Ref #667),Medium,Closed,5
+Policy endorsement address update (Ref #668),High,Closed,3
+No-Claim Bonus certificate download issue (Ref #669),Low,Closed,3
+Premium receipt GST invoice correction (Ref #670),Medium,Resolved,3
+Policy endorsement address update (Ref #671),Critical,In Progress,5
+Roadside towing dispatch request (Ref #672),Medium,In Progress,5
+Roadside towing dispatch request (Ref #673),Low,Closed,3
+Claim surveyor appointment delay (Ref #674),Medium,Waiting on Customer,5
+Premium receipt GST invoice correction (Ref #675),High,Resolved,5
+Policy endorsement address update (Ref #676),High,Resolved,3
+Renewal quote discount review (Ref #677),Critical,In Progress,5
+Claim surveyor appointment delay (Ref #678),High,Waiting on Customer,3
+No-Claim Bonus certificate download issue (Ref #679),Medium,Resolved,3
+Renewal quote discount review (Ref #680),Medium,In Progress,5
+Renewal quote discount review (Ref #681),Critical,In Progress,4
+Premium receipt GST invoice correction (Ref #682),Critical,Waiting on Customer,5
+Renewal quote discount review (Ref #683),Medium,New,3
+Renewal quote discount review (Ref #684),Low,Closed,5
+Roadside towing dispatch request (Ref #685),Critical,New,5
+Cashless garage network verification (Ref #686),Low,Resolved,4
+No-Claim Bonus certificate download issue (Ref #687),Medium,Resolved,5
+Cashless garage network verification (Ref #688),Low,In Progress,4
+Renewal quote discount review (Ref #689),Low,Waiting on Customer,4
+Policy endorsement address update (Ref #690),Low,Closed,3
+Roadside towing dispatch request (Ref #691),High,New,3
+Claim surveyor appointment delay (Ref #692),High,Waiting on Customer,3
+Renewal quote discount review (Ref #693),High,Waiting on Customer,5
+Renewal quote discount review (Ref #694),Critical,Waiting on Customer,3
+Roadside towing dispatch request (Ref #695),High,Closed,5
+No-Claim Bonus certificate download issue (Ref #696),Low,New,3
+Claim surveyor appointment delay (Ref #697),Critical,Resolved,3
+Cashless garage network verification (Ref #698),Low,In Progress,3
+Cashless garage network verification (Ref #699),High,New,3
+Claim surveyor appointment delay (Ref #700),Low,In Progress,3
