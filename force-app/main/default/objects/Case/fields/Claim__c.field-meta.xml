@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Claim__c</fullName>
+    <label>Related Claim</label>
+    <type>Lookup</type>
+    <referenceTo>Claim__c</referenceTo>
+    <relationshipLabel>Related Claims</relationshipLabel>
+    <relationshipName>Cases</relationshipName>
+    <deleteConstraint>SetNull</deleteConstraint>
+</CustomField>

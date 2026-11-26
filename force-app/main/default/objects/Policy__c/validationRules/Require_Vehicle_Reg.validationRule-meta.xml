@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Require_Vehicle_Reg</fullName>
+    <active>true</active>
+    <description></description>
+    <errorConditionFormula>ISPICKVAL(Policy_Type__c, 'Vehicle') &amp;&amp; ISBLANK(Vehicle_Reg_No__c)</errorConditionFormula>
+    <errorDisplayField>Vehicle_Reg_No__c</errorDisplayField>
+    <errorMessage>Enter Vehicle Registration Number for Vehicle Policies.</errorMessage>
+</ValidationRule>

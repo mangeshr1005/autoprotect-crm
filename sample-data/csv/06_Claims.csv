@@ -1,0 +1,201 @@
+Policy__r.External_ID__c,Claim_Date__c,Claim_Amount__c,Claim_Type__c,Claim_Sub_Type__c,Status__c,Description__c
+POL-EXT-0001,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #001 submitted for adjudication.
+POL-EXT-0002,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #002 submitted for adjudication.
+POL-EXT-0003,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #003 submitted for adjudication.
+POL-EXT-0004,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #004 submitted for adjudication.
+POL-EXT-0005,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #005 submitted for adjudication.
+POL-EXT-0006,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #006 submitted for adjudication.
+POL-EXT-0007,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #007 submitted for adjudication.
+POL-EXT-0008,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #008 submitted for adjudication.
+POL-EXT-0009,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #009 submitted for adjudication.
+POL-EXT-0010,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #010 submitted for adjudication.
+POL-EXT-0011,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #011 submitted for adjudication.
+POL-EXT-0012,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #012 submitted for adjudication.
+POL-EXT-0013,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #013 submitted for adjudication.
+POL-EXT-0014,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #014 submitted for adjudication.
+POL-EXT-0015,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #015 submitted for adjudication.
+POL-EXT-0016,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #016 submitted for adjudication.
+POL-EXT-0017,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #017 submitted for adjudication.
+POL-EXT-0018,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #018 submitted for adjudication.
+POL-EXT-0019,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #019 submitted for adjudication.
+POL-EXT-0020,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #020 submitted for adjudication.
+POL-EXT-0021,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #021 submitted for adjudication.
+POL-EXT-0022,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #022 submitted for adjudication.
+POL-EXT-0023,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #023 submitted for adjudication.
+POL-EXT-0024,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #024 submitted for adjudication.
+POL-EXT-0025,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #025 submitted for adjudication.
+POL-EXT-0026,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #026 submitted for adjudication.
+POL-EXT-0027,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #027 submitted for adjudication.
+POL-EXT-0028,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #028 submitted for adjudication.
+POL-EXT-0029,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #029 submitted for adjudication.
+POL-EXT-0030,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #030 submitted for adjudication.
+POL-EXT-0031,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #031 submitted for adjudication.
+POL-EXT-0032,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #032 submitted for adjudication.
+POL-EXT-0033,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #033 submitted for adjudication.
+POL-EXT-0034,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #034 submitted for adjudication.
+POL-EXT-0035,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #035 submitted for adjudication.
+POL-EXT-0036,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #036 submitted for adjudication.
+POL-EXT-0037,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #037 submitted for adjudication.
+POL-EXT-0038,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #038 submitted for adjudication.
+POL-EXT-0039,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #039 submitted for adjudication.
+POL-EXT-0040,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #040 submitted for adjudication.
+POL-EXT-0041,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #041 submitted for adjudication.
+POL-EXT-0042,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #042 submitted for adjudication.
+POL-EXT-0043,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #043 submitted for adjudication.
+POL-EXT-0044,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #044 submitted for adjudication.
+POL-EXT-0045,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #045 submitted for adjudication.
+POL-EXT-0046,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #046 submitted for adjudication.
+POL-EXT-0047,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #047 submitted for adjudication.
+POL-EXT-0048,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #048 submitted for adjudication.
+POL-EXT-0049,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #049 submitted for adjudication.
+POL-EXT-0050,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #050 submitted for adjudication.
+POL-EXT-0051,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #051 submitted for adjudication.
+POL-EXT-0052,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #052 submitted for adjudication.
+POL-EXT-0053,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #053 submitted for adjudication.
+POL-EXT-0054,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #054 submitted for adjudication.
+POL-EXT-0055,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #055 submitted for adjudication.
+POL-EXT-0056,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #056 submitted for adjudication.
+POL-EXT-0057,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #057 submitted for adjudication.
+POL-EXT-0058,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #058 submitted for adjudication.
+POL-EXT-0059,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #059 submitted for adjudication.
+POL-EXT-0060,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #060 submitted for adjudication.
+POL-EXT-0061,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #061 submitted for adjudication.
+POL-EXT-0062,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #062 submitted for adjudication.
+POL-EXT-0063,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #063 submitted for adjudication.
+POL-EXT-0064,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #064 submitted for adjudication.
+POL-EXT-0065,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #065 submitted for adjudication.
+POL-EXT-0066,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #066 submitted for adjudication.
+POL-EXT-0067,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #067 submitted for adjudication.
+POL-EXT-0068,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #068 submitted for adjudication.
+POL-EXT-0069,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #069 submitted for adjudication.
+POL-EXT-0070,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #070 submitted for adjudication.
+POL-EXT-0071,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #071 submitted for adjudication.
+POL-EXT-0072,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #072 submitted for adjudication.
+POL-EXT-0073,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #073 submitted for adjudication.
+POL-EXT-0074,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #074 submitted for adjudication.
+POL-EXT-0075,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #075 submitted for adjudication.
+POL-EXT-0076,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #076 submitted for adjudication.
+POL-EXT-0077,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #077 submitted for adjudication.
+POL-EXT-0078,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #078 submitted for adjudication.
+POL-EXT-0079,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #079 submitted for adjudication.
+POL-EXT-0080,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #080 submitted for adjudication.
+POL-EXT-0081,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #081 submitted for adjudication.
+POL-EXT-0082,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #082 submitted for adjudication.
+POL-EXT-0083,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #083 submitted for adjudication.
+POL-EXT-0084,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #084 submitted for adjudication.
+POL-EXT-0085,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #085 submitted for adjudication.
+POL-EXT-0086,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #086 submitted for adjudication.
+POL-EXT-0087,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #087 submitted for adjudication.
+POL-EXT-0088,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #088 submitted for adjudication.
+POL-EXT-0089,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #089 submitted for adjudication.
+POL-EXT-0090,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #090 submitted for adjudication.
+POL-EXT-0091,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #091 submitted for adjudication.
+POL-EXT-0092,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #092 submitted for adjudication.
+POL-EXT-0093,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #093 submitted for adjudication.
+POL-EXT-0094,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #094 submitted for adjudication.
+POL-EXT-0095,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #095 submitted for adjudication.
+POL-EXT-0096,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #096 submitted for adjudication.
+POL-EXT-0097,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #097 submitted for adjudication.
+POL-EXT-0098,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #098 submitted for adjudication.
+POL-EXT-0099,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #099 submitted for adjudication.
+POL-EXT-0100,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #100 submitted for adjudication.
+POL-EXT-0101,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #101 submitted for adjudication.
+POL-EXT-0102,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #102 submitted for adjudication.
+POL-EXT-0103,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #103 submitted for adjudication.
+POL-EXT-0104,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #104 submitted for adjudication.
+POL-EXT-0105,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #105 submitted for adjudication.
+POL-EXT-0106,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #106 submitted for adjudication.
+POL-EXT-0107,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #107 submitted for adjudication.
+POL-EXT-0108,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #108 submitted for adjudication.
+POL-EXT-0109,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #109 submitted for adjudication.
+POL-EXT-0110,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #110 submitted for adjudication.
+POL-EXT-0111,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #111 submitted for adjudication.
+POL-EXT-0112,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #112 submitted for adjudication.
+POL-EXT-0113,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #113 submitted for adjudication.
+POL-EXT-0114,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #114 submitted for adjudication.
+POL-EXT-0115,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #115 submitted for adjudication.
+POL-EXT-0116,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #116 submitted for adjudication.
+POL-EXT-0117,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #117 submitted for adjudication.
+POL-EXT-0118,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #118 submitted for adjudication.
+POL-EXT-0119,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #119 submitted for adjudication.
+POL-EXT-0120,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #120 submitted for adjudication.
+POL-EXT-0121,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #121 submitted for adjudication.
+POL-EXT-0122,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #122 submitted for adjudication.
+POL-EXT-0123,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #123 submitted for adjudication.
+POL-EXT-0124,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #124 submitted for adjudication.
+POL-EXT-0125,2026-11-26,40000,Theft,Vehicle Theft,Under Review,Verified incident report #125 submitted for adjudication.
+POL-EXT-0126,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #126 submitted for adjudication.
+POL-EXT-0127,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #127 submitted for adjudication.
+POL-EXT-0128,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #128 submitted for adjudication.
+POL-EXT-0129,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #129 submitted for adjudication.
+POL-EXT-0130,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #130 submitted for adjudication.
+POL-EXT-0131,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #131 submitted for adjudication.
+POL-EXT-0132,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #132 submitted for adjudication.
+POL-EXT-0133,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #133 submitted for adjudication.
+POL-EXT-0134,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #134 submitted for adjudication.
+POL-EXT-0135,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #135 submitted for adjudication.
+POL-EXT-0136,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #136 submitted for adjudication.
+POL-EXT-0137,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #137 submitted for adjudication.
+POL-EXT-0138,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #138 submitted for adjudication.
+POL-EXT-0139,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #139 submitted for adjudication.
+POL-EXT-0140,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #140 submitted for adjudication.
+POL-EXT-0141,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #141 submitted for adjudication.
+POL-EXT-0142,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #142 submitted for adjudication.
+POL-EXT-0143,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #143 submitted for adjudication.
+POL-EXT-0144,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #144 submitted for adjudication.
+POL-EXT-0145,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #145 submitted for adjudication.
+POL-EXT-0146,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #146 submitted for adjudication.
+POL-EXT-0147,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #147 submitted for adjudication.
+POL-EXT-0148,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #148 submitted for adjudication.
+POL-EXT-0149,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #149 submitted for adjudication.
+POL-EXT-0150,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #150 submitted for adjudication.
+POL-EXT-0151,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #151 submitted for adjudication.
+POL-EXT-0152,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #152 submitted for adjudication.
+POL-EXT-0153,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #153 submitted for adjudication.
+POL-EXT-0154,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #154 submitted for adjudication.
+POL-EXT-0155,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #155 submitted for adjudication.
+POL-EXT-0156,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #156 submitted for adjudication.
+POL-EXT-0157,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #157 submitted for adjudication.
+POL-EXT-0158,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #158 submitted for adjudication.
+POL-EXT-0159,2026-11-26,25000,Accident,Minor Damage,Under Review,Verified incident report #159 submitted for adjudication.
+POL-EXT-0160,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #160 submitted for adjudication.
+POL-EXT-0161,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #161 submitted for adjudication.
+POL-EXT-0162,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #162 submitted for adjudication.
+POL-EXT-0163,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #163 submitted for adjudication.
+POL-EXT-0164,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #164 submitted for adjudication.
+POL-EXT-0165,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #165 submitted for adjudication.
+POL-EXT-0166,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #166 submitted for adjudication.
+POL-EXT-0167,2026-11-26,15000,Theft,Vehicle Theft,Under Review,Verified incident report #167 submitted for adjudication.
+POL-EXT-0168,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #168 submitted for adjudication.
+POL-EXT-0169,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #169 submitted for adjudication.
+POL-EXT-0170,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #170 submitted for adjudication.
+POL-EXT-0171,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #171 submitted for adjudication.
+POL-EXT-0172,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #172 submitted for adjudication.
+POL-EXT-0173,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #173 submitted for adjudication.
+POL-EXT-0174,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #174 submitted for adjudication.
+POL-EXT-0175,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #175 submitted for adjudication.
+POL-EXT-0176,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #176 submitted for adjudication.
+POL-EXT-0177,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #177 submitted for adjudication.
+POL-EXT-0178,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #178 submitted for adjudication.
+POL-EXT-0179,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #179 submitted for adjudication.
+POL-EXT-0180,2026-11-26,25000,Accident,Minor Damage,Pending,Verified incident report #180 submitted for adjudication.
+POL-EXT-0181,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #181 submitted for adjudication.
+POL-EXT-0182,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #182 submitted for adjudication.
+POL-EXT-0183,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #183 submitted for adjudication.
+POL-EXT-0184,2026-11-26,25000,Health,Hospitalization,Pending,Verified incident report #184 submitted for adjudication.
+POL-EXT-0185,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #185 submitted for adjudication.
+POL-EXT-0186,2026-11-26,15000,Accident,Minor Damage,Pending,Verified incident report #186 submitted for adjudication.
+POL-EXT-0187,2026-11-26,25000,Health,Hospitalization,Under Review,Verified incident report #187 submitted for adjudication.
+POL-EXT-0188,2026-11-26,40000,Theft,Vehicle Theft,Pending,Verified incident report #188 submitted for adjudication.
+POL-EXT-0189,2026-11-26,40000,Accident,Minor Damage,Under Review,Verified incident report #189 submitted for adjudication.
+POL-EXT-0190,2026-11-26,40000,Health,Hospitalization,Pending,Verified incident report #190 submitted for adjudication.
+POL-EXT-0191,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #191 submitted for adjudication.
+POL-EXT-0192,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #192 submitted for adjudication.
+POL-EXT-0193,2026-11-26,40000,Health,Hospitalization,Under Review,Verified incident report #193 submitted for adjudication.
+POL-EXT-0194,2026-11-26,25000,Theft,Vehicle Theft,Pending,Verified incident report #194 submitted for adjudication.
+POL-EXT-0195,2026-11-26,15000,Accident,Minor Damage,Under Review,Verified incident report #195 submitted for adjudication.
+POL-EXT-0196,2026-11-26,15000,Health,Hospitalization,Pending,Verified incident report #196 submitted for adjudication.
+POL-EXT-0197,2026-11-26,25000,Theft,Vehicle Theft,Under Review,Verified incident report #197 submitted for adjudication.
+POL-EXT-0198,2026-11-26,40000,Accident,Minor Damage,Pending,Verified incident report #198 submitted for adjudication.
+POL-EXT-0199,2026-11-26,15000,Health,Hospitalization,Under Review,Verified incident report #199 submitted for adjudication.
+POL-EXT-0200,2026-11-26,15000,Theft,Vehicle Theft,Pending,Verified incident report #200 submitted for adjudication.

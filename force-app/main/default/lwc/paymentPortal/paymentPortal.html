@@ -1,0 +1,17 @@
+<template>
+    <lightning-card title="AutoProtect Premium Payment Gateway" icon-name="standard:currency">
+        <div class="slds-p-around_medium">
+            <lightning-input type="number" label="Amount Payable" value={amount} onchange={handleAmountChange} required></lightning-input>
+            <lightning-combobox label="Payment Mode" value={mode} options={modeOptions} onchange={handleModeChange} required></lightning-combobox>
+            <lightning-combobox label="Payment Gateway" value={gateway} options={gatewayOptions} onchange={handleGatewayChange} required></lightning-combobox>
+            <div class="slds-m-top_medium">
+                <lightning-button variant="brand" label="Pay Now" onclick={handlePay} disabled={isProcessing}></lightning-button>
+            </div>
+            <template if:true={txnReference}>
+                <div class="slds-box slds-theme_success slds-m-top_medium">
+                    Payment Confirmed! Transaction Ref: <strong>{txnReference}</strong>
+                </div>
+            </template>
+        </div>
+    </lightning-card>
+</template>

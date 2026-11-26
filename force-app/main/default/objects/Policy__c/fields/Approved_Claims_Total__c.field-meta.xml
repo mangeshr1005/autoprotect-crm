@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Approved_Claims_Total__c</fullName>
+    <label>Approved Claims Total</label>
+    <type>Summary</type>
+    <summarizedField>Claim__c.Claim_Amount__c</summarizedField>
+    <summaryForeignKey>Claim__c.Policy__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <summaryFilterItems>
+        <field>Claim__c.Status__c</field>
+        <operation>equals</operation>
+        <value>Approved</value>
+    </summaryFilterItems>
+</CustomField>

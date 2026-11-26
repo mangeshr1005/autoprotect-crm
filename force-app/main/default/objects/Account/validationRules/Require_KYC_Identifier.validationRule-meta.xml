@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Require_KYC_Identifier</fullName>
+    <active>true</active>
+    <description></description>
+    <errorConditionFormula>ISBLANK(PAN__c) &amp;&amp; ISBLANK(Govt_ID__c)</errorConditionFormula>
+    <errorDisplayField>PAN__c</errorDisplayField>
+    <errorMessage>Provide either PAN or National Govt ID Number.</errorMessage>
+</ValidationRule>

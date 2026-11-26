@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>62.0</apiVersion>
+    <formulas>
+        <name>NetPremiumFormula</name>
+        <dataType>Currency</dataType>
+        <expression>({!Base_Price} * (1 - ({!Discount_Percent} / 100))) * (1 + ({!Tax_Percent} / 100))</expression>
+        <scale>2</scale>
+    </formulas>
+    <interviewLabel>Premium Calculator Flow {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Premium Calculator Flow</label>
+    <processType>Flow</processType>
+    <screens>
+        <name>Quote_Inputs</name>
+        <label>Quote Inputs</label>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <connector><targetReference>Quote_Summary</targetReference></connector>
+        <fields>
+            <name>Base_Price</name>
+            <dataType>Currency</dataType>
+            <fieldText>Base Premium Price</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+            <scale>2</scale>
+        </fields>
+        <fields>
+            <name>Discount_Percent</name>
+            <dataType>Number</dataType>
+            <defaultValue><numberValue>0.0</numberValue></defaultValue>
+            <fieldText>Discount (%)</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+            <scale>2</scale>
+        </fields>
+        <fields>
+            <name>Tax_Percent</name>
+            <dataType>Number</dataType>
+            <defaultValue><numberValue>18.0</numberValue></defaultValue>
+            <fieldText>GST / Tax (%)</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+            <scale>2</scale>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>Quote_Summary</name>
+        <label>Quote Summary</label>
+        <locationX>176</locationX>
+        <locationY>242</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <fields>
+            <name>SummaryText</name>
+            <fieldText>&lt;p&gt;&lt;strong&gt;Estimated Net Payable Premium:&lt;/strong&gt; {!NetPremiumFormula}&lt;/p&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector><targetReference>Quote_Inputs</targetReference></connector>
+    </start>
+    <status>Active</status>
+</Flow>

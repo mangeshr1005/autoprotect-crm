@@ -1,0 +1,17 @@
+<template>
+    <lightning-card title="30-Day Policy Renewal Action Center" icon-name="standard:event">
+        <div class="slds-p-around_medium">
+            <template for:each={expiringPolicies} for:item="pol">
+                <div key={pol.Id} class="slds-box slds-m-bottom_small slds-grid slds-grid_align-spread">
+                    <div>
+                        <strong>{pol.Name}</strong> ({pol.Policy_Type__c}) &mdash; Expires: {pol.End_Date__c}
+                    </div>
+                    <lightning-badge label="Expiring Soon"></lightning-badge>
+                </div>
+            </template>
+            <template if:false={expiringPolicies.length}>
+                <p class="slds-text-color_weak">No active policies expiring within the next 30 days.</p>
+            </template>
+        </div>
+    </lightning-card>
+</template>

@@ -1,0 +1,19 @@
+<template>
+    <lightning-card title="File Insurance Claim" icon-name="standard:case">
+        <div class="slds-p-around_medium">
+            <template if:true={policy}>
+                <div class="slds-box slds-theme_info slds-m-bottom_medium">
+                    Available Remaining Coverage: <strong><lightning-formatted-number value={policy.Remaining_Coverage__c} format-style="currency"></lightning-formatted-number></strong>
+                </div>
+            </template>
+            <lightning-combobox label="Claim Type" value={claimType} options={claimTypeOptions} onchange={handleTypeChange} required></lightning-combobox>
+            <lightning-combobox label="Claim Sub-Type" value={subType} options={subTypeOptions} onchange={handleSubTypeChange} required></lightning-combobox>
+            <lightning-input type="number" label="Claim Amount" value={amount} onchange={handleAmountChange} required></lightning-input>
+            <lightning-input type="date" label="Incident Date" value={claimDate} onchange={handleDateChange} required></lightning-input>
+            <lightning-textarea label="Incident Description" value={description} onchange={handleDescChange} required></lightning-textarea>
+            <div class="slds-m-top_medium">
+                <lightning-button variant="brand" label="Submit Claim" onclick={handleSubmit}></lightning-button>
+            </div>
+        </div>
+    </lightning-card>
+</template>

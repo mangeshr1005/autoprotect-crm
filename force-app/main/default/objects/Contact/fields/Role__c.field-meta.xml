@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role__c</fullName>
+    <label>Contact Role</label>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>Primary Policyholder</fullName><default>false</default><label>Primary Policyholder</label></value>
+            <value><fullName>Nominee / Beneficiary</fullName><default>false</default><label>Nominee / Beneficiary</label></value>
+            <value><fullName>Secondary Contact</fullName><default>false</default><label>Secondary Contact</label></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

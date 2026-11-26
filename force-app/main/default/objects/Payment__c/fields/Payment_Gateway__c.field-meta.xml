@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Payment_Gateway__c</fullName>
+    <label>Payment Gateway</label>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>Razorpay</fullName><default>false</default><label>Razorpay</label></value>
+            <value><fullName>PayU</fullName><default>false</default><label>PayU</label></value>
+            <value><fullName>Google Pay</fullName><default>false</default><label>Google Pay</label></value>
+            <value><fullName>PhonePe</fullName><default>false</default><label>PhonePe</label></value>
+            <value><fullName>HDFC</fullName><default>false</default><label>HDFC</label></value>
+            <value><fullName>ICICI</fullName><default>false</default><label>ICICI</label></value>
+        </valueSetDefinition>
+        <controllingField>Payment_Mode__c</controllingField>
+        <valueSettings>
+            <controllingFieldValue>Credit Card</controllingFieldValue>
+            <valueName>Razorpay</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Credit Card</controllingFieldValue>
+            <valueName>PayU</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Debit Card</controllingFieldValue>
+            <valueName>Razorpay</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Debit Card</controllingFieldValue>
+            <valueName>PayU</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>UPI</controllingFieldValue>
+            <valueName>Google Pay</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>UPI</controllingFieldValue>
+            <valueName>PhonePe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>NetBanking</controllingFieldValue>
+            <valueName>HDFC</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>NetBanking</controllingFieldValue>
+            <valueName>ICICI</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

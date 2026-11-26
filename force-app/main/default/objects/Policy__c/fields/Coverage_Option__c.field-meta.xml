@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Coverage_Option__c</fullName>
+    <label>Coverage Option</label>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>Term</fullName><default>false</default><label>Term</label></value>
+            <value><fullName>Whole Life</fullName><default>false</default><label>Whole Life</label></value>
+            <value><fullName>Endowment</fullName><default>false</default><label>Endowment</label></value>
+            <value><fullName>Individual</fullName><default>false</default><label>Individual</label></value>
+            <value><fullName>Family</fullName><default>false</default><label>Family</label></value>
+            <value><fullName>Senior Citizen</fullName><default>false</default><label>Senior Citizen</label></value>
+            <value><fullName>Third Party</fullName><default>false</default><label>Third Party</label></value>
+            <value><fullName>Comprehensive</fullName><default>false</default><label>Comprehensive</label></value>
+            <value><fullName>Structure Only</fullName><default>false</default><label>Structure Only</label></value>
+            <value><fullName>Comprehensive Home</fullName><default>false</default><label>Comprehensive Home</label></value>
+        </valueSetDefinition>
+        <controllingField>Policy_Type__c</controllingField>
+        <valueSettings>
+            <controllingFieldValue>Life</controllingFieldValue>
+            <valueName>Term</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Life</controllingFieldValue>
+            <valueName>Whole Life</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Life</controllingFieldValue>
+            <valueName>Endowment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Health</controllingFieldValue>
+            <valueName>Individual</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Health</controllingFieldValue>
+            <valueName>Family</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Health</controllingFieldValue>
+            <valueName>Senior Citizen</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Vehicle</controllingFieldValue>
+            <valueName>Third Party</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Vehicle</controllingFieldValue>
+            <valueName>Comprehensive</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home</controllingFieldValue>
+            <valueName>Structure Only</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home</controllingFieldValue>
+            <valueName>Comprehensive Home</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

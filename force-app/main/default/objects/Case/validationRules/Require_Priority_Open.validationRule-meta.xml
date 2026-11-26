@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Require_Priority_Open</fullName>
+    <active>true</active>
+    <description></description>
+    <errorConditionFormula>ISPICKVAL(Status, 'Open') &amp;&amp; ISBLANK(TEXT(Priority))</errorConditionFormula>
+    <errorDisplayField>Priority</errorDisplayField>
+    <errorMessage>Select a Priority for Open Cases.</errorMessage>
+</ValidationRule>

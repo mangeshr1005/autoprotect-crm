@@ -1,0 +1,7 @@
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,37 @@
+<template>
+    <lightning-card title="AutoProtect Policy Cockpit" icon-name="standard:policy">
+        <div class="slds-p-around_medium">
+            <div class="slds-grid slds-gutters slds-m-bottom_medium">
+                <div class="slds-col slds-size_1-of-3">
+                    <div class="slds-box slds-theme_shade">
+                        <p class="slds-text-title_caps">Active Policies</p>
+                        <p class="slds-text-heading_large">{activeCount}</p>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-3">
+                    <div class="slds-box slds-theme_shade">
+                        <p class="slds-text-title_caps">Total Active Coverage</p>
+                        <p class="slds-text-heading_large">
+                            <lightning-formatted-number value={totalCoverage} format-style="currency"></lightning-formatted-number>
+                        </p>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-3">
+                    <div class="slds-box slds-theme_warning">
+                        <p class="slds-text-title_caps">Expiring Within 30 Days</p>
+                        <p class="slds-text-heading_large">{expiringSoonCount}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="slds-grid slds-gutters slds-m-bottom_small">
+                <div class="slds-col slds-size_1-of-2">
+                    <lightning-input type="search" label="Search Policy Number" onchange={handleSearchChange}></lightning-input>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <lightning-combobox label="Filter by Status" value={statusFilter} options={statusOptions} onchange={handleStatusChange}></lightning-combobox>
+                </div>
+            </div>
+            <lightning-datatable key-field="Id" data={policies} columns={columns} hide-checkbox-column></lightning-datatable>
+        </div>
+    </lightning-card>
+</template>

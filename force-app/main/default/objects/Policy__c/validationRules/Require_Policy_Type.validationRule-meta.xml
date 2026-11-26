@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Require_Policy_Type</fullName>
+    <active>true</active>
+    <description></description>
+    <errorConditionFormula>ISNEW() &amp;&amp; ISBLANK(TEXT(Policy_Type__c))</errorConditionFormula>
+    <errorDisplayField>Policy_Type__c</errorDisplayField>
+    <errorMessage>Please select a Policy Type before saving.</errorMessage>
+</ValidationRule>

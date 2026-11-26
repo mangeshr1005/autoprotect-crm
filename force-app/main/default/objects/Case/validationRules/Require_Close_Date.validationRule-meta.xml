@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Require_Close_Date</fullName>
+    <active>true</active>
+    <description></description>
+    <errorConditionFormula>ISPICKVAL(Status, 'Closed') &amp;&amp; ISBLANK(Close_Date__c)</errorConditionFormula>
+    <errorDisplayField>Close_Date__c</errorDisplayField>
+    <errorMessage>Close Date is required when closing a Case.</errorMessage>
+</ValidationRule>
